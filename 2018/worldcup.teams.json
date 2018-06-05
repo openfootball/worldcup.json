@@ -1,0 +1,165 @@
+{
+  "name": "World Cup 2018",
+  "clubs": [
+    {
+      "key": "egy",
+      "name": "Egypt",
+      "code": "EGY"
+    },
+    {
+      "key": "mar",
+      "name": "Morocco",
+      "code": "MAR"
+    },
+    {
+      "key": "tun",
+      "name": "Tunisia",
+      "code": "TUN"
+    },
+    {
+      "key": "sen",
+      "name": "Senegal",
+      "code": "SEN"
+    },
+    {
+      "key": "nga",
+      "name": "Nigeria",
+      "code": "NGA"
+    },
+    {
+      "key": "jpn",
+      "name": "Japan",
+      "code": "JPN"
+    },
+    {
+      "key": "kor",
+      "name": "South Korea",
+      "code": "KOR"
+    },
+    {
+      "key": "crc",
+      "name": "Costa Rica",
+      "code": "CRC"
+    },
+    {
+      "key": "pan",
+      "name": "Panama",
+      "code": "PAN"
+    },
+    {
+      "key": "bel",
+      "name": "Belgium",
+      "code": "BEL"
+    },
+    {
+      "key": "ger",
+      "name": "Germany",
+      "code": "GER"
+    },
+    {
+      "key": "esp",
+      "name": "Spain",
+      "code": "ESP"
+    },
+    {
+      "key": "fra",
+      "name": "France",
+      "code": "FRA"
+    },
+    {
+      "key": "por",
+      "name": "Portugal",
+      "code": "POR"
+    },
+    {
+      "key": "den",
+      "name": "Denmark",
+      "code": "DEN"
+    },
+    {
+      "key": "pol",
+      "name": "Poland",
+      "code": "POL"
+    },
+    {
+      "key": "swe",
+      "name": "Sweden",
+      "code": "SWE"
+    },
+    {
+      "key": "sui",
+      "name": "Switzerland",
+      "code": "SUI"
+    },
+    {
+      "key": "cro",
+      "name": "Croatia",
+      "code": "CRO"
+    },
+    {
+      "key": "srb",
+      "name": "Serbia",
+      "code": "SRB"
+    },
+    {
+      "key": "rus",
+      "name": "Russia",
+      "code": "RUS"
+    },
+    {
+      "key": "isl",
+      "name": "Iceland",
+      "code": "ISL"
+    },
+    {
+      "key": "eng",
+      "name": "England",
+      "code": "ENG"
+    },
+    {
+      "key": "irn",
+      "name": "Iran",
+      "code": "IRN"
+    },
+    {
+      "key": "ksa",
+      "name": "Saudi Arabia",
+      "code": "KSA"
+    },
+    {
+      "key": "mex",
+      "name": "Mexico",
+      "code": "MEX"
+    },
+    {
+      "key": "aus",
+      "name": "Australia",
+      "code": "AUS"
+    },
+    {
+      "key": "arg",
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    {
+      "key": "bra",
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    {
+      "key": "uru",
+      "name": "Uruguay",
+      "code": "URU"
+    },
+    {
+      "key": "col",
+      "name": "Colombia",
+      "code": "COL"
+    },
+    {
+      "key": "per",
+      "name": "Peru",
+      "code": "PER"
+    }
+  ]
+}
