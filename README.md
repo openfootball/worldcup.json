@@ -83,8 +83,7 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
 
 ## How to Use the Public JSON API Service - No API Key Required ;-)
 
-Use the "raw" links served by GitHub (
-otherwise you get the complete "formatted" GitHub page).
+Use the "raw" links served by GitHub (otherwise you get the complete "formatted" GitHub page).
 
 Example:
 
@@ -103,6 +102,7 @@ edit the JSON files but the source files in the world cup (and friends) repos e.
 
 - World Cups in [`/world-cup`](https://github.com/openfootball/world-cup)
 - National Teams in [`/national-teams`](https://github.com/openfootball/national-teams)
+- Stadiums in [`/stadiums`](https://github.com/openfootball/stadiums)
 - and so on
 
 
