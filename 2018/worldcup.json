@@ -5,7 +5,9 @@
       "name": "Matchday 1",
       "matches": [
         {
+          "num": 1,
           "date": "2018-06-14",
+          "time": "18:00",
           "team1": {
             "key": "rus",
             "name": "Russia",
@@ -17,7 +19,16 @@
             "code": "KSA"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group A",
+          "ground": null
         }
       ]
     },
@@ -25,7 +36,9 @@
       "name": "Matchday 2",
       "matches": [
         {
+          "num": 2,
           "date": "2018-06-15",
+          "time": "17:00",
           "team1": {
             "key": "egy",
             "name": "Egypt",
@@ -37,10 +50,21 @@
             "code": "URU"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group A",
+          "ground": null
         },
         {
+          "num": 3,
           "date": "2018-06-15",
+          "time": "21:00",
           "team1": {
             "key": "por",
             "name": "Portugal",
@@ -52,10 +76,21 @@
             "code": "ESP"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group B",
+          "ground": null
         },
         {
+          "num": 4,
           "date": "2018-06-15",
+          "time": "18:00",
           "team1": {
             "key": "mar",
             "name": "Morocco",
@@ -67,7 +102,16 @@
             "code": "IRN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group B",
+          "ground": null
         }
       ]
     },
@@ -75,7 +119,9 @@
       "name": "Matchday 3",
       "matches": [
         {
+          "num": 5,
           "date": "2018-06-16",
+          "time": "13:00",
           "team1": {
             "key": "fra",
             "name": "France",
@@ -87,10 +133,21 @@
             "code": "AUS"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group C",
+          "ground": null
         },
         {
+          "num": 6,
           "date": "2018-06-16",
+          "time": "19:00",
           "team1": {
             "key": "per",
             "name": "Peru",
@@ -102,10 +159,21 @@
             "code": "DEN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group C",
+          "ground": null
         },
         {
+          "num": 7,
           "date": "2018-06-16",
+          "time": "16:00",
           "team1": {
             "key": "arg",
             "name": "Argentina",
@@ -117,10 +185,21 @@
             "code": "ISL"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group D",
+          "ground": null
         },
         {
+          "num": 8,
           "date": "2018-06-16",
+          "time": "21:00",
           "team1": {
             "key": "cro",
             "name": "Croatia",
@@ -132,7 +211,16 @@
             "code": "NGA"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group D",
+          "ground": null
         }
       ]
     },
@@ -140,7 +228,9 @@
       "name": "Matchday 4",
       "matches": [
         {
+          "num": 9,
           "date": "2018-06-17",
+          "time": "21:00",
           "team1": {
             "key": "bra",
             "name": "Brazil",
@@ -152,10 +242,21 @@
             "code": "SUI"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group E",
+          "ground": null
         },
         {
+          "num": 10,
           "date": "2018-06-17",
+          "time": "16:00",
           "team1": {
             "key": "crc",
             "name": "Costa Rica",
@@ -167,10 +268,21 @@
             "code": "SRB"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group E",
+          "ground": null
         },
         {
+          "num": 11,
           "date": "2018-06-17",
+          "time": "18:00",
           "team1": {
             "key": "ger",
             "name": "Germany",
@@ -182,7 +294,16 @@
             "code": "MEX"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group F",
+          "ground": null
         }
       ]
     },
@@ -190,7 +311,9 @@
       "name": "Matchday 5",
       "matches": [
         {
+          "num": 12,
           "date": "2018-06-18",
+          "time": "15:00",
           "team1": {
             "key": "swe",
             "name": "Sweden",
@@ -202,10 +325,21 @@
             "code": "KOR"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group F",
+          "ground": null
         },
         {
+          "num": 13,
           "date": "2018-06-18",
+          "time": "18:00",
           "team1": {
             "key": "bel",
             "name": "Belgium",
@@ -217,10 +351,21 @@
             "code": "PAN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group G",
+          "ground": null
         },
         {
+          "num": 14,
           "date": "2018-06-18",
+          "time": "21:00",
           "team1": {
             "key": "tun",
             "name": "Tunisia",
@@ -232,7 +377,16 @@
             "code": "ENG"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group G",
+          "ground": null
         }
       ]
     },
@@ -240,7 +394,9 @@
       "name": "Matchday 6",
       "matches": [
         {
+          "num": 15,
           "date": "2018-06-19",
+          "time": "18:00",
           "team1": {
             "key": "pol",
             "name": "Poland",
@@ -252,10 +408,21 @@
             "code": "SEN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group H",
+          "ground": null
         },
         {
+          "num": 16,
           "date": "2018-06-19",
+          "time": "15:00",
           "team1": {
             "key": "col",
             "name": "Colombia",
@@ -267,10 +434,21 @@
             "code": "JPN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group H",
+          "ground": null
         },
         {
+          "num": 17,
           "date": "2018-06-19",
+          "time": "21:00",
           "team1": {
             "key": "rus",
             "name": "Russia",
@@ -282,7 +460,16 @@
             "code": "EGY"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group A",
+          "ground": null
         }
       ]
     },
@@ -290,7 +477,9 @@
       "name": "Matchday 7",
       "matches": [
         {
+          "num": 18,
           "date": "2018-06-20",
+          "time": "18:00",
           "team1": {
             "key": "uru",
             "name": "Uruguay",
@@ -302,10 +491,21 @@
             "code": "KSA"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group A",
+          "ground": null
         },
         {
+          "num": 19,
           "date": "2018-06-20",
+          "time": "15:00",
           "team1": {
             "key": "por",
             "name": "Portugal",
@@ -317,10 +517,21 @@
             "code": "MAR"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group B",
+          "ground": null
         },
         {
+          "num": 20,
           "date": "2018-06-20",
+          "time": "21:00",
           "team1": {
             "key": "irn",
             "name": "Iran",
@@ -332,7 +543,16 @@
             "code": "ESP"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group B",
+          "ground": null
         }
       ]
     },
@@ -340,7 +560,9 @@
       "name": "Matchday 8",
       "matches": [
         {
+          "num": 21,
           "date": "2018-06-21",
+          "time": "20:00",
           "team1": {
             "key": "fra",
             "name": "France",
@@ -352,10 +574,21 @@
             "code": "PER"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group C",
+          "ground": null
         },
         {
+          "num": 22,
           "date": "2018-06-21",
+          "time": "16:00",
           "team1": {
             "key": "den",
             "name": "Denmark",
@@ -367,10 +600,21 @@
             "code": "AUS"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group C",
+          "ground": null
         },
         {
+          "num": 23,
           "date": "2018-06-21",
+          "time": "21:00",
           "team1": {
             "key": "arg",
             "name": "Argentina",
@@ -382,7 +626,16 @@
             "code": "CRO"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group D",
+          "ground": null
         }
       ]
     },
@@ -390,7 +643,9 @@
       "name": "Matchday 9",
       "matches": [
         {
+          "num": 24,
           "date": "2018-06-22",
+          "time": "18:00",
           "team1": {
             "key": "nga",
             "name": "Nigeria",
@@ -402,10 +657,21 @@
             "code": "ISL"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group D",
+          "ground": null
         },
         {
+          "num": 25,
           "date": "2018-06-22",
+          "time": "15:00",
           "team1": {
             "key": "bra",
             "name": "Brazil",
@@ -417,10 +683,21 @@
             "code": "CRC"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group E",
+          "ground": null
         },
         {
+          "num": 26,
           "date": "2018-06-22",
+          "time": "20:00",
           "team1": {
             "key": "srb",
             "name": "Serbia",
@@ -432,7 +709,16 @@
             "code": "SUI"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group E",
+          "ground": null
         }
       ]
     },
@@ -440,7 +726,9 @@
       "name": "Matchday 10",
       "matches": [
         {
+          "num": 27,
           "date": "2018-06-23",
+          "time": "21:00",
           "team1": {
             "key": "ger",
             "name": "Germany",
@@ -452,10 +740,21 @@
             "code": "SWE"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group F",
+          "ground": null
         },
         {
+          "num": 28,
           "date": "2018-06-23",
+          "time": "18:00",
           "team1": {
             "key": "kor",
             "name": "South Korea",
@@ -467,10 +766,21 @@
             "code": "MEX"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group F",
+          "ground": null
         },
         {
+          "num": 29,
           "date": "2018-06-23",
+          "time": "15:00",
           "team1": {
             "key": "bel",
             "name": "Belgium",
@@ -482,7 +792,16 @@
             "code": "TUN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group G",
+          "ground": null
         }
       ]
     },
@@ -490,7 +809,9 @@
       "name": "Matchday 11",
       "matches": [
         {
+          "num": 30,
           "date": "2018-06-24",
+          "time": "15:00",
           "team1": {
             "key": "eng",
             "name": "England",
@@ -502,10 +823,21 @@
             "code": "PAN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group G",
+          "ground": null
         },
         {
+          "num": 31,
           "date": "2018-06-24",
+          "time": "21:00",
           "team1": {
             "key": "pol",
             "name": "Poland",
@@ -517,10 +849,21 @@
             "code": "COL"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group H",
+          "ground": null
         },
         {
+          "num": 32,
           "date": "2018-06-24",
+          "time": "20:00",
           "team1": {
             "key": "jpn",
             "name": "Japan",
@@ -532,7 +875,16 @@
             "code": "SEN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group H",
+          "ground": null
         }
       ]
     },
@@ -540,7 +892,9 @@
       "name": "Matchday 12",
       "matches": [
         {
+          "num": 33,
           "date": "2018-06-25",
+          "time": "18:00",
           "team1": {
             "key": "uru",
             "name": "Uruguay",
@@ -552,10 +906,21 @@
             "code": "RUS"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group A",
+          "ground": null
         },
         {
+          "num": 34,
           "date": "2018-06-25",
+          "time": "17:00",
           "team1": {
             "key": "ksa",
             "name": "Saudi Arabia",
@@ -567,10 +932,21 @@
             "code": "EGY"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group A",
+          "ground": null
         },
         {
+          "num": 35,
           "date": "2018-06-25",
+          "time": "21:00",
           "team1": {
             "key": "irn",
             "name": "Iran",
@@ -582,10 +958,21 @@
             "code": "POR"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group B",
+          "ground": null
         },
         {
+          "num": 36,
           "date": "2018-06-25",
+          "time": "20:00",
           "team1": {
             "key": "esp",
             "name": "Spain",
@@ -597,7 +984,16 @@
             "code": "MAR"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group B",
+          "ground": null
         }
       ]
     },
@@ -605,7 +1001,9 @@
       "name": "Matchday 13",
       "matches": [
         {
+          "num": 37,
           "date": "2018-06-26",
+          "time": "17:00",
           "team1": {
             "key": "den",
             "name": "Denmark",
@@ -617,10 +1015,21 @@
             "code": "FRA"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group C",
+          "ground": null
         },
         {
+          "num": 38,
           "date": "2018-06-26",
+          "time": "17:00",
           "team1": {
             "key": "aus",
             "name": "Australia",
@@ -632,10 +1041,21 @@
             "code": "PER"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group C",
+          "ground": null
         },
         {
+          "num": 39,
           "date": "2018-06-26",
+          "time": "21:00",
           "team1": {
             "key": "nga",
             "name": "Nigeria",
@@ -647,10 +1067,21 @@
             "code": "ARG"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group D",
+          "ground": null
         },
         {
+          "num": 40,
           "date": "2018-06-26",
+          "time": "21:00",
           "team1": {
             "key": "isl",
             "name": "Iceland",
@@ -662,7 +1093,16 @@
             "code": "CRO"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group D",
+          "ground": null
         }
       ]
     },
@@ -670,7 +1110,9 @@
       "name": "Matchday 14",
       "matches": [
         {
+          "num": 41,
           "date": "2018-06-27",
+          "time": "21:00",
           "team1": {
             "key": "srb",
             "name": "Serbia",
@@ -682,10 +1124,21 @@
             "code": "BRA"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group E",
+          "ground": null
         },
         {
+          "num": 42,
           "date": "2018-06-27",
+          "time": "21:00",
           "team1": {
             "key": "sui",
             "name": "Switzerland",
@@ -697,10 +1150,21 @@
             "code": "CRC"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group E",
+          "ground": null
         },
         {
+          "num": 43,
           "date": "2018-06-27",
+          "time": "17:00",
           "team1": {
             "key": "kor",
             "name": "South Korea",
@@ -712,10 +1176,21 @@
             "code": "GER"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group F",
+          "ground": null
         },
         {
+          "num": 44,
           "date": "2018-06-27",
+          "time": "19:00",
           "team1": {
             "key": "mex",
             "name": "Mexico",
@@ -727,7 +1202,16 @@
             "code": "SWE"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group F",
+          "ground": null
         }
       ]
     },
@@ -735,7 +1219,9 @@
       "name": "Matchday 15",
       "matches": [
         {
+          "num": 45,
           "date": "2018-06-28",
+          "time": "20:00",
           "team1": {
             "key": "eng",
             "name": "England",
@@ -747,10 +1233,21 @@
             "code": "BEL"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group G",
+          "ground": null
         },
         {
+          "num": 46,
           "date": "2018-06-28",
+          "time": "21:00",
           "team1": {
             "key": "pan",
             "name": "Panama",
@@ -762,10 +1259,21 @@
             "code": "TUN"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group G",
+          "ground": null
         },
         {
+          "num": 47,
           "date": "2018-06-28",
+          "time": "17:00",
           "team1": {
             "key": "jpn",
             "name": "Japan",
@@ -777,10 +1285,21 @@
             "code": "POL"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group H",
+          "ground": null
         },
         {
+          "num": 48,
           "date": "2018-06-28",
+          "time": "18:00",
           "team1": {
             "key": "sen",
             "name": "Senegal",
@@ -792,7 +1311,16 @@
             "code": "COL"
           },
           "score1": null,
-          "score2": null
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": false,
+          "group": "Group H",
+          "ground": null
         }
       ]
     },
