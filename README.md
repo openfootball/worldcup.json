@@ -3,7 +3,7 @@
 Free open public domain football data for the world cups in the JSON
 (JavaScript Object Notation)
 data interchange format
-incl. Russia 2018 and more - No API Key Required ;-).
+incl. Russia 2018 and more - No API key required ;-).
 
 
 
@@ -84,7 +84,6 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
 ## How to Use the Public JSON API Service - No API Key Required ;-)
 
 Use the "raw" links served by GitHub (otherwise you get the complete "formatted" GitHub page).
-
 Example:
 
 ```
