@@ -81,7 +81,7 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
 ```
 
 
-## How to Use the Public JSON API Service - No API Key Required ;-)
+## How to Use the Public JSON HTTP API (Micro) Web Service - No API Key Required ;-)
 
 Use the "raw" links served by GitHub (otherwise you get the complete "formatted" GitHub page).
 Example:
