@@ -40,7 +40,11 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "stadium": {
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium",
+            "city": "Moscow"
+          }
         }
       ]
     },
@@ -71,7 +75,11 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "stadium": {
+            "key": "ekaterinburg",
+            "name": "Ekaterinburg Arena",
+            "city": "Ekaterinburg"
+          }
         },
         ...
       ],
