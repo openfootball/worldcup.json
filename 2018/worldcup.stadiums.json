@@ -1,0 +1,65 @@
+{
+  "name": "World Cup 2018",
+  "stadiums": [
+    {
+      "key": "samara",
+      "name": "Samara",
+      "city": "Samara"
+    },
+    {
+      "key": "nizhnynovgorod",
+      "name": "Nizhny Novgorod",
+      "city": "Nizhny Novgorod"
+    },
+    {
+      "key": "volgograd",
+      "name": "Volgograd",
+      "city": "Volgograd"
+    },
+    {
+      "key": "ekaterinburg",
+      "name": "Ekaterinburg",
+      "city": "Ekaterinburg"
+    },
+    {
+      "key": "mordovia",
+      "name": "Mordovia",
+      "city": "Saransk"
+    },
+    {
+      "key": "rostov",
+      "name": "Rostov",
+      "city": "Rostov-on-Don"
+    },
+    {
+      "key": "kaliningrad",
+      "name": "Kaliningrad",
+      "city": "Kaliningrad"
+    },
+    {
+      "key": "kazan",
+      "name": "Kazan",
+      "city": "Kazan"
+    },
+    {
+      "key": "fisht",
+      "name": "Fisht",
+      "city": "Sochi"
+    },
+    {
+      "key": "saintpetersburg",
+      "name": "Saint Petersburg",
+      "city": "Saint Petersburg"
+    },
+    {
+      "key": "spartak",
+      "name": "Spartak",
+      "city": "Moscow"
+    },
+    {
+      "key": "luzhniki",
+      "name": "Luzhniki",
+      "city": "Moscow"
+    }
+  ]
+}

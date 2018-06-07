@@ -28,7 +28,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "ground": {
+            "name": "Luzhniki",
+            "city": "Moscow"
+          }
         }
       ]
     },
@@ -59,7 +62,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "ground": {
+            "name": "Ekaterinburg",
+            "city": "Ekaterinburg"
+          }
         },
         {
           "num": 3,
@@ -85,7 +91,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group B",
-          "ground": null
+          "ground": {
+            "name": "Fisht",
+            "city": "Sochi"
+          }
         },
         {
           "num": 4,
@@ -111,7 +120,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group B",
-          "ground": null
+          "ground": {
+            "name": "Saint Petersburg",
+            "city": "Saint Petersburg"
+          }
         }
       ]
     },
@@ -142,7 +154,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "ground": null
+          "ground": {
+            "name": "Kazan",
+            "city": "Kazan"
+          }
         },
         {
           "num": 6,
@@ -168,7 +183,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "ground": null
+          "ground": {
+            "name": "Mordovia",
+            "city": "Saransk"
+          }
         },
         {
           "num": 7,
@@ -194,7 +212,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "ground": null
+          "ground": {
+            "name": "Spartak",
+            "city": "Moscow"
+          }
         },
         {
           "num": 8,
@@ -220,7 +241,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "ground": null
+          "ground": {
+            "name": "Kaliningrad",
+            "city": "Kaliningrad"
+          }
         }
       ]
     },
@@ -251,7 +275,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group E",
-          "ground": null
+          "ground": {
+            "name": "Rostov",
+            "city": "Rostov-on-Don"
+          }
         },
         {
           "num": 10,
@@ -277,7 +304,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group E",
-          "ground": null
+          "ground": {
+            "name": "Samara",
+            "city": "Samara"
+          }
         },
         {
           "num": 11,
@@ -303,7 +333,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group F",
-          "ground": null
+          "ground": {
+            "name": "Luzhniki",
+            "city": "Moscow"
+          }
         }
       ]
     },
@@ -334,7 +367,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group F",
-          "ground": null
+          "ground": {
+            "name": "Nizhny Novgorod",
+            "city": "Nizhny Novgorod"
+          }
         },
         {
           "num": 13,
@@ -360,7 +396,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "ground": null
+          "ground": {
+            "name": "Fisht",
+            "city": "Sochi"
+          }
         },
         {
           "num": 14,
@@ -386,7 +425,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "ground": null
+          "ground": {
+            "name": "Volgograd",
+            "city": "Volgograd"
+          }
         }
       ]
     },
@@ -417,7 +459,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group H",
-          "ground": null
+          "ground": {
+            "name": "Spartak",
+            "city": "Moscow"
+          }
         },
         {
           "num": 16,
@@ -443,7 +488,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group H",
-          "ground": null
+          "ground": {
+            "name": "Mordovia",
+            "city": "Saransk"
+          }
         },
         {
           "num": 17,
@@ -469,7 +517,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "ground": {
+            "name": "Saint Petersburg",
+            "city": "Saint Petersburg"
+          }
         }
       ]
     },
@@ -500,7 +551,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "ground": {
+            "name": "Rostov",
+            "city": "Rostov-on-Don"
+          }
         },
         {
           "num": 19,
@@ -526,7 +580,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group B",
-          "ground": null
+          "ground": {
+            "name": "Luzhniki",
+            "city": "Moscow"
+          }
         },
         {
           "num": 20,
@@ -552,7 +609,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group B",
-          "ground": null
+          "ground": {
+            "name": "Kazan",
+            "city": "Kazan"
+          }
         }
       ]
     },
@@ -583,7 +643,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "ground": null
+          "ground": {
+            "name": "Ekaterinburg",
+            "city": "Ekaterinburg"
+          }
         },
         {
           "num": 22,
@@ -609,7 +672,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "ground": null
+          "ground": {
+            "name": "Samara",
+            "city": "Samara"
+          }
         },
         {
           "num": 23,
@@ -635,7 +701,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "ground": null
+          "ground": {
+            "name": "Nizhny Novgorod",
+            "city": "Nizhny Novgorod"
+          }
         }
       ]
     },
@@ -666,7 +735,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "ground": null
+          "ground": {
+            "name": "Volgograd",
+            "city": "Volgograd"
+          }
         },
         {
           "num": 25,
@@ -692,7 +764,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group E",
-          "ground": null
+          "ground": {
+            "name": "Saint Petersburg",
+            "city": "Saint Petersburg"
+          }
         },
         {
           "num": 26,
@@ -718,7 +793,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group E",
-          "ground": null
+          "ground": {
+            "name": "Kaliningrad",
+            "city": "Kaliningrad"
+          }
         }
       ]
     },
@@ -749,7 +827,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group F",
-          "ground": null
+          "ground": {
+            "name": "Fisht",
+            "city": "Sochi"
+          }
         },
         {
           "num": 28,
@@ -775,7 +856,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group F",
-          "ground": null
+          "ground": {
+            "name": "Rostov",
+            "city": "Rostov-on-Don"
+          }
         },
         {
           "num": 29,
@@ -801,7 +885,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "ground": null
+          "ground": {
+            "name": "Spartak",
+            "city": "Moscow"
+          }
         }
       ]
     },
@@ -832,7 +919,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "ground": null
+          "ground": {
+            "name": "Nizhny Novgorod",
+            "city": "Nizhny Novgorod"
+          }
         },
         {
           "num": 31,
@@ -858,7 +948,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group H",
-          "ground": null
+          "ground": {
+            "name": "Kazan",
+            "city": "Kazan"
+          }
         },
         {
           "num": 32,
@@ -884,7 +977,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group H",
-          "ground": null
+          "ground": {
+            "name": "Ekaterinburg",
+            "city": "Ekaterinburg"
+          }
         }
       ]
     },
@@ -915,7 +1011,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "ground": {
+            "name": "Samara",
+            "city": "Samara"
+          }
         },
         {
           "num": 34,
@@ -941,7 +1040,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "ground": null
+          "ground": {
+            "name": "Volgograd",
+            "city": "Volgograd"
+          }
         },
         {
           "num": 35,
@@ -967,7 +1069,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group B",
-          "ground": null
+          "ground": {
+            "name": "Mordovia",
+            "city": "Saransk"
+          }
         },
         {
           "num": 36,
@@ -993,7 +1098,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group B",
-          "ground": null
+          "ground": {
+            "name": "Kaliningrad",
+            "city": "Kaliningrad"
+          }
         }
       ]
     },
@@ -1024,7 +1132,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "ground": null
+          "ground": {
+            "name": "Luzhniki",
+            "city": "Moscow"
+          }
         },
         {
           "num": 38,
@@ -1050,7 +1161,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "ground": null
+          "ground": {
+            "name": "Fisht",
+            "city": "Sochi"
+          }
         },
         {
           "num": 39,
@@ -1076,7 +1190,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "ground": null
+          "ground": {
+            "name": "Saint Petersburg",
+            "city": "Saint Petersburg"
+          }
         },
         {
           "num": 40,
@@ -1102,7 +1219,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "ground": null
+          "ground": {
+            "name": "Rostov",
+            "city": "Rostov-on-Don"
+          }
         }
       ]
     },
@@ -1133,7 +1253,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group E",
-          "ground": null
+          "ground": {
+            "name": "Spartak",
+            "city": "Moscow"
+          }
         },
         {
           "num": 42,
@@ -1159,7 +1282,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group E",
-          "ground": null
+          "ground": {
+            "name": "Nizhny Novgorod",
+            "city": "Nizhny Novgorod"
+          }
         },
         {
           "num": 43,
@@ -1185,7 +1311,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group F",
-          "ground": null
+          "ground": {
+            "name": "Kazan",
+            "city": "Kazan"
+          }
         },
         {
           "num": 44,
@@ -1211,7 +1340,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group F",
-          "ground": null
+          "ground": {
+            "name": "Ekaterinburg",
+            "city": "Ekaterinburg"
+          }
         }
       ]
     },
@@ -1242,7 +1374,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "ground": null
+          "ground": {
+            "name": "Kaliningrad",
+            "city": "Kaliningrad"
+          }
         },
         {
           "num": 46,
@@ -1268,7 +1403,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "ground": null
+          "ground": {
+            "name": "Mordovia",
+            "city": "Saransk"
+          }
         },
         {
           "num": 47,
@@ -1294,7 +1432,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group H",
-          "ground": null
+          "ground": {
+            "name": "Volgograd",
+            "city": "Volgograd"
+          }
         },
         {
           "num": 48,
@@ -1320,7 +1461,10 @@
           "score2p": null,
           "knockout": false,
           "group": "Group H",
-          "ground": null
+          "ground": {
+            "name": "Samara",
+            "city": "Samara"
+          }
         }
       ]
     },
