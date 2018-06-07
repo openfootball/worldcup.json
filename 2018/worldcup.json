@@ -29,7 +29,8 @@
           "knockout": false,
           "group": "Group A",
           "ground": {
-            "name": "Luzhniki",
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium",
             "city": "Moscow"
           }
         }
@@ -63,7 +64,8 @@
           "knockout": false,
           "group": "Group A",
           "ground": {
-            "name": "Ekaterinburg",
+            "key": "ekaterinburg",
+            "name": "Ekaterinburg Arena",
             "city": "Ekaterinburg"
           }
         },
@@ -92,7 +94,8 @@
           "knockout": false,
           "group": "Group B",
           "ground": {
-            "name": "Fisht",
+            "key": "fisht",
+            "name": "Fisht Stadium",
             "city": "Sochi"
           }
         },
@@ -121,7 +124,8 @@
           "knockout": false,
           "group": "Group B",
           "ground": {
-            "name": "Saint Petersburg",
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium",
             "city": "Saint Petersburg"
           }
         }
@@ -155,7 +159,8 @@
           "knockout": false,
           "group": "Group C",
           "ground": {
-            "name": "Kazan",
+            "key": "kazan",
+            "name": "Kazan Arena",
             "city": "Kazan"
           }
         },
@@ -184,7 +189,8 @@
           "knockout": false,
           "group": "Group C",
           "ground": {
-            "name": "Mordovia",
+            "key": "mordovia",
+            "name": "Mordovia Arena",
             "city": "Saransk"
           }
         },
@@ -213,7 +219,8 @@
           "knockout": false,
           "group": "Group D",
           "ground": {
-            "name": "Spartak",
+            "key": "spartak",
+            "name": "Spartak Stadium",
             "city": "Moscow"
           }
         },
@@ -242,7 +249,8 @@
           "knockout": false,
           "group": "Group D",
           "ground": {
-            "name": "Kaliningrad",
+            "key": "kaliningrad",
+            "name": "Kaliningrad Stadium",
             "city": "Kaliningrad"
           }
         }
@@ -276,7 +284,8 @@
           "knockout": false,
           "group": "Group E",
           "ground": {
-            "name": "Rostov",
+            "key": "rostov",
+            "name": "Rostov Arena",
             "city": "Rostov-on-Don"
           }
         },
@@ -305,7 +314,8 @@
           "knockout": false,
           "group": "Group E",
           "ground": {
-            "name": "Samara",
+            "key": "samara",
+            "name": "Samara Arena",
             "city": "Samara"
           }
         },
@@ -334,7 +344,8 @@
           "knockout": false,
           "group": "Group F",
           "ground": {
-            "name": "Luzhniki",
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium",
             "city": "Moscow"
           }
         }
@@ -368,7 +379,8 @@
           "knockout": false,
           "group": "Group F",
           "ground": {
-            "name": "Nizhny Novgorod",
+            "key": "nizhnynovgorod",
+            "name": "Nizhny Novgorod Stadium",
             "city": "Nizhny Novgorod"
           }
         },
@@ -397,7 +409,8 @@
           "knockout": false,
           "group": "Group G",
           "ground": {
-            "name": "Fisht",
+            "key": "fisht",
+            "name": "Fisht Stadium",
             "city": "Sochi"
           }
         },
@@ -426,7 +439,8 @@
           "knockout": false,
           "group": "Group G",
           "ground": {
-            "name": "Volgograd",
+            "key": "volgograd",
+            "name": "Volgograd Arena",
             "city": "Volgograd"
           }
         }
@@ -460,7 +474,8 @@
           "knockout": false,
           "group": "Group H",
           "ground": {
-            "name": "Spartak",
+            "key": "spartak",
+            "name": "Spartak Stadium",
             "city": "Moscow"
           }
         },
@@ -489,7 +504,8 @@
           "knockout": false,
           "group": "Group H",
           "ground": {
-            "name": "Mordovia",
+            "key": "mordovia",
+            "name": "Mordovia Arena",
             "city": "Saransk"
           }
         },
@@ -518,7 +534,8 @@
           "knockout": false,
           "group": "Group A",
           "ground": {
-            "name": "Saint Petersburg",
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium",
             "city": "Saint Petersburg"
           }
         }
@@ -552,7 +569,8 @@
           "knockout": false,
           "group": "Group A",
           "ground": {
-            "name": "Rostov",
+            "key": "rostov",
+            "name": "Rostov Arena",
             "city": "Rostov-on-Don"
           }
         },
@@ -581,7 +599,8 @@
           "knockout": false,
           "group": "Group B",
           "ground": {
-            "name": "Luzhniki",
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium",
             "city": "Moscow"
           }
         },
@@ -610,7 +629,8 @@
           "knockout": false,
           "group": "Group B",
           "ground": {
-            "name": "Kazan",
+            "key": "kazan",
+            "name": "Kazan Arena",
             "city": "Kazan"
           }
         }
@@ -644,7 +664,8 @@
           "knockout": false,
           "group": "Group C",
           "ground": {
-            "name": "Ekaterinburg",
+            "key": "ekaterinburg",
+            "name": "Ekaterinburg Arena",
             "city": "Ekaterinburg"
           }
         },
@@ -673,7 +694,8 @@
           "knockout": false,
           "group": "Group C",
           "ground": {
-            "name": "Samara",
+            "key": "samara",
+            "name": "Samara Arena",
             "city": "Samara"
           }
         },
@@ -702,7 +724,8 @@
           "knockout": false,
           "group": "Group D",
           "ground": {
-            "name": "Nizhny Novgorod",
+            "key": "nizhnynovgorod",
+            "name": "Nizhny Novgorod Stadium",
             "city": "Nizhny Novgorod"
           }
         }
@@ -736,7 +759,8 @@
           "knockout": false,
           "group": "Group D",
           "ground": {
-            "name": "Volgograd",
+            "key": "volgograd",
+            "name": "Volgograd Arena",
             "city": "Volgograd"
           }
         },
@@ -765,7 +789,8 @@
           "knockout": false,
           "group": "Group E",
           "ground": {
-            "name": "Saint Petersburg",
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium",
             "city": "Saint Petersburg"
           }
         },
@@ -794,7 +819,8 @@
           "knockout": false,
           "group": "Group E",
           "ground": {
-            "name": "Kaliningrad",
+            "key": "kaliningrad",
+            "name": "Kaliningrad Stadium",
             "city": "Kaliningrad"
           }
         }
@@ -828,7 +854,8 @@
           "knockout": false,
           "group": "Group F",
           "ground": {
-            "name": "Fisht",
+            "key": "fisht",
+            "name": "Fisht Stadium",
             "city": "Sochi"
           }
         },
@@ -857,7 +884,8 @@
           "knockout": false,
           "group": "Group F",
           "ground": {
-            "name": "Rostov",
+            "key": "rostov",
+            "name": "Rostov Arena",
             "city": "Rostov-on-Don"
           }
         },
@@ -886,7 +914,8 @@
           "knockout": false,
           "group": "Group G",
           "ground": {
-            "name": "Spartak",
+            "key": "spartak",
+            "name": "Spartak Stadium",
             "city": "Moscow"
           }
         }
@@ -920,7 +949,8 @@
           "knockout": false,
           "group": "Group G",
           "ground": {
-            "name": "Nizhny Novgorod",
+            "key": "nizhnynovgorod",
+            "name": "Nizhny Novgorod Stadium",
             "city": "Nizhny Novgorod"
           }
         },
@@ -949,7 +979,8 @@
           "knockout": false,
           "group": "Group H",
           "ground": {
-            "name": "Kazan",
+            "key": "kazan",
+            "name": "Kazan Arena",
             "city": "Kazan"
           }
         },
@@ -978,7 +1009,8 @@
           "knockout": false,
           "group": "Group H",
           "ground": {
-            "name": "Ekaterinburg",
+            "key": "ekaterinburg",
+            "name": "Ekaterinburg Arena",
             "city": "Ekaterinburg"
           }
         }
@@ -1012,7 +1044,8 @@
           "knockout": false,
           "group": "Group A",
           "ground": {
-            "name": "Samara",
+            "key": "samara",
+            "name": "Samara Arena",
             "city": "Samara"
           }
         },
@@ -1041,7 +1074,8 @@
           "knockout": false,
           "group": "Group A",
           "ground": {
-            "name": "Volgograd",
+            "key": "volgograd",
+            "name": "Volgograd Arena",
             "city": "Volgograd"
           }
         },
@@ -1070,7 +1104,8 @@
           "knockout": false,
           "group": "Group B",
           "ground": {
-            "name": "Mordovia",
+            "key": "mordovia",
+            "name": "Mordovia Arena",
             "city": "Saransk"
           }
         },
@@ -1099,7 +1134,8 @@
           "knockout": false,
           "group": "Group B",
           "ground": {
-            "name": "Kaliningrad",
+            "key": "kaliningrad",
+            "name": "Kaliningrad Stadium",
             "city": "Kaliningrad"
           }
         }
@@ -1133,7 +1169,8 @@
           "knockout": false,
           "group": "Group C",
           "ground": {
-            "name": "Luzhniki",
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium",
             "city": "Moscow"
           }
         },
@@ -1162,7 +1199,8 @@
           "knockout": false,
           "group": "Group C",
           "ground": {
-            "name": "Fisht",
+            "key": "fisht",
+            "name": "Fisht Stadium",
             "city": "Sochi"
           }
         },
@@ -1191,7 +1229,8 @@
           "knockout": false,
           "group": "Group D",
           "ground": {
-            "name": "Saint Petersburg",
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium",
             "city": "Saint Petersburg"
           }
         },
@@ -1220,7 +1259,8 @@
           "knockout": false,
           "group": "Group D",
           "ground": {
-            "name": "Rostov",
+            "key": "rostov",
+            "name": "Rostov Arena",
             "city": "Rostov-on-Don"
           }
         }
@@ -1254,7 +1294,8 @@
           "knockout": false,
           "group": "Group E",
           "ground": {
-            "name": "Spartak",
+            "key": "spartak",
+            "name": "Spartak Stadium",
             "city": "Moscow"
           }
         },
@@ -1283,7 +1324,8 @@
           "knockout": false,
           "group": "Group E",
           "ground": {
-            "name": "Nizhny Novgorod",
+            "key": "nizhnynovgorod",
+            "name": "Nizhny Novgorod Stadium",
             "city": "Nizhny Novgorod"
           }
         },
@@ -1312,7 +1354,8 @@
           "knockout": false,
           "group": "Group F",
           "ground": {
-            "name": "Kazan",
+            "key": "kazan",
+            "name": "Kazan Arena",
             "city": "Kazan"
           }
         },
@@ -1341,7 +1384,8 @@
           "knockout": false,
           "group": "Group F",
           "ground": {
-            "name": "Ekaterinburg",
+            "key": "ekaterinburg",
+            "name": "Ekaterinburg Arena",
             "city": "Ekaterinburg"
           }
         }
@@ -1375,7 +1419,8 @@
           "knockout": false,
           "group": "Group G",
           "ground": {
-            "name": "Kaliningrad",
+            "key": "kaliningrad",
+            "name": "Kaliningrad Stadium",
             "city": "Kaliningrad"
           }
         },
@@ -1404,7 +1449,8 @@
           "knockout": false,
           "group": "Group G",
           "ground": {
-            "name": "Mordovia",
+            "key": "mordovia",
+            "name": "Mordovia Arena",
             "city": "Saransk"
           }
         },
@@ -1433,7 +1479,8 @@
           "knockout": false,
           "group": "Group H",
           "ground": {
-            "name": "Volgograd",
+            "key": "volgograd",
+            "name": "Volgograd Arena",
             "city": "Volgograd"
           }
         },
@@ -1462,7 +1509,8 @@
           "knockout": false,
           "group": "Group H",
           "ground": {
-            "name": "Samara",
+            "key": "samara",
+            "name": "Samara Arena",
             "city": "Samara"
           }
         }

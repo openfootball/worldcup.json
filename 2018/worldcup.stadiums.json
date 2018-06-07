@@ -3,62 +3,74 @@
   "stadiums": [
     {
       "key": "samara",
-      "name": "Samara",
+      "name": "Samara Arena",
+      "capacity": 45000,
       "city": "Samara"
     },
     {
       "key": "nizhnynovgorod",
-      "name": "Nizhny Novgorod",
+      "name": "Nizhny Novgorod Stadium",
+      "capacity": 45000,
       "city": "Nizhny Novgorod"
     },
     {
       "key": "volgograd",
-      "name": "Volgograd",
+      "name": "Volgograd Arena",
+      "capacity": 45000,
       "city": "Volgograd"
     },
     {
       "key": "ekaterinburg",
-      "name": "Ekaterinburg",
+      "name": "Ekaterinburg Arena",
+      "capacity": 35000,
       "city": "Ekaterinburg"
     },
     {
       "key": "mordovia",
-      "name": "Mordovia",
+      "name": "Mordovia Arena",
+      "capacity": 44000,
       "city": "Saransk"
     },
     {
       "key": "rostov",
-      "name": "Rostov",
+      "name": "Rostov Arena",
+      "capacity": 45000,
       "city": "Rostov-on-Don"
     },
     {
       "key": "kaliningrad",
-      "name": "Kaliningrad",
+      "name": "Kaliningrad Stadium",
+      "capacity": 35000,
       "city": "Kaliningrad"
     },
     {
       "key": "kazan",
-      "name": "Kazan",
+      "name": "Kazan Arena",
+      "capacity": 45000,
       "city": "Kazan"
     },
     {
       "key": "fisht",
-      "name": "Fisht",
+      "name": "Fisht Stadium",
+      "capacity": 45000,
       "city": "Sochi"
     },
     {
       "key": "saintpetersburg",
-      "name": "Saint Petersburg",
+      "name": "Saint Petersburg Stadium",
+      "capacity": 67000,
       "city": "Saint Petersburg"
     },
     {
       "key": "spartak",
-      "name": "Spartak",
+      "name": "Spartak Stadium",
+      "capacity": 45000,
       "city": "Moscow"
     },
     {
       "key": "luzhniki",
-      "name": "Luzhniki",
+      "name": "Luzhniki Stadium",
+      "capacity": 80000,
       "city": "Moscow"
     }
   ]
