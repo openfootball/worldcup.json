@@ -5,73 +5,85 @@
       "key": "samara",
       "name": "Samara Arena",
       "capacity": 45000,
-      "city": "Samara"
+      "city": "Samara",
+      "timezone": "?"
     },
     {
       "key": "nizhnynovgorod",
       "name": "Nizhny Novgorod Stadium",
       "capacity": 45000,
-      "city": "Nizhny Novgorod"
+      "city": "Nizhny Novgorod",
+      "timezone": "?"
     },
     {
       "key": "volgograd",
       "name": "Volgograd Arena",
       "capacity": 45000,
-      "city": "Volgograd"
+      "city": "Volgograd",
+      "timezone": "?"
     },
     {
       "key": "ekaterinburg",
       "name": "Ekaterinburg Arena",
       "capacity": 35000,
-      "city": "Ekaterinburg"
+      "city": "Ekaterinburg",
+      "timezone": "?"
     },
     {
       "key": "mordovia",
       "name": "Mordovia Arena",
       "capacity": 44000,
-      "city": "Saransk"
+      "city": "Saransk",
+      "timezone": "?"
     },
     {
       "key": "rostov",
       "name": "Rostov Arena",
       "capacity": 45000,
-      "city": "Rostov-on-Don"
+      "city": "Rostov-on-Don",
+      "timezone": "?"
     },
     {
       "key": "kaliningrad",
       "name": "Kaliningrad Stadium",
       "capacity": 35000,
-      "city": "Kaliningrad"
+      "city": "Kaliningrad",
+      "timezone": "?"
     },
     {
       "key": "kazan",
       "name": "Kazan Arena",
       "capacity": 45000,
-      "city": "Kazan"
+      "city": "Kazan",
+      "timezone": "?"
     },
     {
       "key": "fisht",
       "name": "Fisht Stadium",
       "capacity": 45000,
-      "city": "Sochi"
+      "city": "Sochi",
+      "timezone": "?"
     },
     {
       "key": "saintpetersburg",
       "name": "Saint Petersburg Stadium",
       "capacity": 67000,
-      "city": "Saint Petersburg"
+      "city": "Saint Petersburg",
+      "timezone": "?"
     },
     {
       "key": "spartak",
       "name": "Spartak Stadium",
       "capacity": 45000,
-      "city": "Moscow"
+      "city": "Moscow",
+      "timezone": "?"
     },
     {
       "key": "luzhniki",
       "name": "Luzhniki Stadium",
       "capacity": 80000,
-      "city": "Moscow"
+      "city": "Moscow",
+      "timezone": "?"
     }
   ]
 }

@@ -2,7 +2,6 @@
   "name": "World Cup 2014",
   "teams": [
     {
-      "key": "alg",
       "name": "Algeria",
       "code": "ALG",
       "continent": "Africa",
@@ -15,7 +14,6 @@
       }
     },
     {
-      "key": "civ",
       "name": "Côte d'Ivoire",
       "code": "CIV",
       "continent": "Africa",
@@ -28,7 +26,6 @@
       }
     },
     {
-      "key": "gha",
       "name": "Ghana",
       "code": "GHA",
       "continent": "Africa",
@@ -41,7 +38,6 @@
       }
     },
     {
-      "key": "nga",
       "name": "Nigeria",
       "code": "NGA",
       "continent": "Africa",
@@ -54,7 +50,6 @@
       }
     },
     {
-      "key": "cmr",
       "name": "Cameroon",
       "code": "CMR",
       "continent": "Africa",
@@ -67,7 +62,6 @@
       }
     },
     {
-      "key": "jpn",
       "name": "Japan",
       "code": "JPN",
       "continent": "Asia",
@@ -80,7 +74,6 @@
       }
     },
     {
-      "key": "kor",
       "name": "South Korea",
       "code": "KOR",
       "continent": "Asia",
@@ -93,7 +86,6 @@
       }
     },
     {
-      "key": "hon",
       "name": "Honduras",
       "code": "HON",
       "continent": "Central America",
@@ -106,7 +98,6 @@
       }
     },
     {
-      "key": "crc",
       "name": "Costa Rica",
       "code": "CRC",
       "continent": "Central America",
@@ -119,7 +110,6 @@
       }
     },
     {
-      "key": "bel",
       "name": "Belgium",
       "code": "BEL",
       "continent": "Europe",
@@ -132,7 +122,6 @@
       }
     },
     {
-      "key": "ger",
       "name": "Germany",
       "code": "GER",
       "continent": "Europe",
@@ -145,7 +134,6 @@
       }
     },
     {
-      "key": "esp",
       "name": "Spain",
       "code": "ESP",
       "continent": "Europe",
@@ -158,7 +146,6 @@
       }
     },
     {
-      "key": "fra",
       "name": "France",
       "code": "FRA",
       "continent": "Europe",
@@ -171,7 +158,6 @@
       }
     },
     {
-      "key": "gre",
       "name": "Greece",
       "code": "GRE",
       "continent": "Europe",
@@ -184,7 +170,6 @@
       }
     },
     {
-      "key": "ita",
       "name": "Italy",
       "code": "ITA",
       "continent": "Europe",
@@ -197,7 +182,6 @@
       }
     },
     {
-      "key": "ned",
       "name": "Netherlands",
       "code": "NED",
       "continent": "Europe",
@@ -210,7 +194,6 @@
       }
     },
     {
-      "key": "por",
       "name": "Portugal",
       "code": "POR",
       "continent": "Europe",
@@ -223,7 +206,6 @@
       }
     },
     {
-      "key": "sui",
       "name": "Switzerland",
       "code": "SUI",
       "continent": "Europe",
@@ -236,7 +218,6 @@
       }
     },
     {
-      "key": "cro",
       "name": "Croatia",
       "code": "CRO",
       "continent": "Europe",
@@ -249,7 +230,6 @@
       }
     },
     {
-      "key": "rus",
       "name": "Russia",
       "code": "RUS",
       "continent": "Europe",
@@ -262,7 +242,6 @@
       }
     },
     {
-      "key": "bih",
       "name": "Bosnia-Herzegovina",
       "code": "BIH",
       "continent": "Europe",
@@ -275,7 +254,6 @@
       }
     },
     {
-      "key": "eng",
       "name": "England",
       "code": "ENG",
       "continent": "Europe",
@@ -283,7 +261,6 @@
       }
     },
     {
-      "key": "irn",
       "name": "Iran",
       "code": "IRN",
       "continent": "Middle East",
@@ -296,7 +273,6 @@
       }
     },
     {
-      "key": "mex",
       "name": "Mexico",
       "code": "MEX",
       "continent": "North America",
@@ -309,7 +285,6 @@
       }
     },
     {
-      "key": "usa",
       "name": "United States",
       "code": "USA",
       "continent": "North America",
@@ -322,7 +297,6 @@
       }
     },
     {
-      "key": "aus",
       "name": "Australia",
       "code": "AUS",
       "continent": "Pacific",
@@ -335,7 +309,6 @@
       }
     },
     {
-      "key": "arg",
       "name": "Argentina",
       "code": "ARG",
       "continent": "South America",
@@ -348,7 +321,6 @@
       }
     },
     {
-      "key": "bra",
       "name": "Brazil",
       "code": "BRA",
       "continent": "South America",
@@ -361,7 +333,6 @@
       }
     },
     {
-      "key": "chi",
       "name": "Chile",
       "code": "CHI",
       "continent": "South America",
@@ -374,7 +345,6 @@
       }
     },
     {
-      "key": "uru",
       "name": "Uruguay",
       "code": "URU",
       "continent": "South America",
@@ -387,7 +357,6 @@
       }
     },
     {
-      "key": "col",
       "name": "Colombia",
       "code": "COL",
       "continent": "South America",
@@ -400,7 +369,6 @@
       }
     },
     {
-      "key": "ecu",
       "name": "Ecuador",
       "code": "ECU",
       "continent": "South America",

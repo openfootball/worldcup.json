@@ -5,73 +5,85 @@
       "key": "maracana",
       "name": "Estádio do Maracanã",
       "capacity": 76935,
-      "city": "Rio de Janeiro"
+      "city": "Rio de Janeiro",
+      "timezone": "?"
     },
     {
       "key": "nacionaldebrasilia",
       "name": "Estádio Nacional (Mané Garrincha)",
       "capacity": 70042,
-      "city": "Brasília"
+      "city": "Brasília",
+      "timezone": "?"
     },
     {
       "key": "corinthians",
       "name": "Arena Corinthians",
       "capacity": 68000,
-      "city": "São Paulo"
+      "city": "São Paulo",
+      "timezone": "?"
     },
     {
       "key": "castelao",
       "name": "Estádio Castelão",
       "capacity": 64846,
-      "city": "Fortaleza"
+      "city": "Fortaleza",
+      "timezone": "?"
     },
     {
       "key": "mineirao",
       "name": "Estádio Mineirão",
       "capacity": 62547,
-      "city": "Belo Horizonte"
+      "city": "Belo Horizonte",
+      "timezone": "?"
     },
     {
       "key": "fontenova",
       "name": "Arena Fonte Nova",
       "capacity": 56000,
-      "city": "Salvador"
+      "city": "Salvador",
+      "timezone": "?"
     },
     {
       "key": "pantanal",
       "name": "Arena Pantanal",
       "capacity": 42968,
-      "city": "Cuiabá"
+      "city": "Cuiabá",
+      "timezone": "?"
     },
     {
       "key": "amazonia",
       "name": "Arena Amazônia",
       "capacity": 42374,
-      "city": "Manaus"
+      "city": "Manaus",
+      "timezone": "?"
     },
     {
       "key": "dasdunas",
       "name": "Arena das Dunas",
       "capacity": 42086,
-      "city": "Natal"
+      "city": "Natal",
+      "timezone": "?"
     },
     {
       "key": "beirario",
       "name": "Estádio Beira-Rio",
       "capacity": 51300,
-      "city": "Porto Alegre"
+      "city": "Porto Alegre",
+      "timezone": "?"
     },
     {
       "key": "pernambuco",
       "name": "Arena Pernambuco",
       "capacity": 46154,
-      "city": "Recife"
+      "city": "Recife",
+      "timezone": "?"
     },
     {
       "key": "dabaixada",
       "name": "Arena da Baixada",
       "capacity": 43981,
-      "city": "Curitiba"
+      "city": "Curitiba",
+      "timezone": "?"
     }
   ]
 }

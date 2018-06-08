@@ -1,0 +1,53 @@
+{
+  "name": "World Cup 2014",
+  "groups": [
+    {
+      "name": "Group A",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group B",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group C",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group D",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group E",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group F",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group G",
+      "standings": [
+
+      ]
+    },
+    {
+      "name": "Group H",
+      "standings": [
+
+      ]
+    }
+  ]
+}

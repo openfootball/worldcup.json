@@ -5,22 +5,18 @@
       "name": "Group A",
       "teams": [
         {
-          "key": "cmr",
           "name": "Cameroon",
           "code": "CMR"
         },
         {
-          "key": "cro",
           "name": "Croatia",
           "code": "CRO"
         },
         {
-          "key": "mex",
           "name": "Mexico",
           "code": "MEX"
         },
         {
-          "key": "bra",
           "name": "Brazil",
           "code": "BRA"
         }
@@ -30,22 +26,18 @@
       "name": "Group B",
       "teams": [
         {
-          "key": "esp",
           "name": "Spain",
           "code": "ESP"
         },
         {
-          "key": "ned",
           "name": "Netherlands",
           "code": "NED"
         },
         {
-          "key": "aus",
           "name": "Australia",
           "code": "AUS"
         },
         {
-          "key": "chi",
           "name": "Chile",
           "code": "CHI"
         }
@@ -55,22 +47,18 @@
       "name": "Group C",
       "teams": [
         {
-          "key": "civ",
           "name": "Côte d'Ivoire",
           "code": "CIV"
         },
         {
-          "key": "jpn",
           "name": "Japan",
           "code": "JPN"
         },
         {
-          "key": "gre",
           "name": "Greece",
           "code": "GRE"
         },
         {
-          "key": "col",
           "name": "Colombia",
           "code": "COL"
         }
@@ -80,22 +68,18 @@
       "name": "Group D",
       "teams": [
         {
-          "key": "crc",
           "name": "Costa Rica",
           "code": "CRC"
         },
         {
-          "key": "ita",
           "name": "Italy",
           "code": "ITA"
         },
         {
-          "key": "eng",
           "name": "England",
           "code": "ENG"
         },
         {
-          "key": "uru",
           "name": "Uruguay",
           "code": "URU"
         }
@@ -105,22 +89,18 @@
       "name": "Group E",
       "teams": [
         {
-          "key": "hon",
           "name": "Honduras",
           "code": "HON"
         },
         {
-          "key": "fra",
           "name": "France",
           "code": "FRA"
         },
         {
-          "key": "sui",
           "name": "Switzerland",
           "code": "SUI"
         },
         {
-          "key": "ecu",
           "name": "Ecuador",
           "code": "ECU"
         }
@@ -130,22 +110,18 @@
       "name": "Group F",
       "teams": [
         {
-          "key": "nga",
           "name": "Nigeria",
           "code": "NGA"
         },
         {
-          "key": "bih",
           "name": "Bosnia-Herzegovina",
           "code": "BIH"
         },
         {
-          "key": "irn",
           "name": "Iran",
           "code": "IRN"
         },
         {
-          "key": "arg",
           "name": "Argentina",
           "code": "ARG"
         }
@@ -155,22 +131,18 @@
       "name": "Group G",
       "teams": [
         {
-          "key": "gha",
           "name": "Ghana",
           "code": "GHA"
         },
         {
-          "key": "ger",
           "name": "Germany",
           "code": "GER"
         },
         {
-          "key": "por",
           "name": "Portugal",
           "code": "POR"
         },
         {
-          "key": "usa",
           "name": "United States",
           "code": "USA"
         }
@@ -180,22 +152,18 @@
       "name": "Group H",
       "teams": [
         {
-          "key": "alg",
           "name": "Algeria",
           "code": "ALG"
         },
         {
-          "key": "kor",
           "name": "South Korea",
           "code": "KOR"
         },
         {
-          "key": "bel",
           "name": "Belgium",
           "code": "BEL"
         },
         {
-          "key": "rus",
           "name": "Russia",
           "code": "RUS"
         }

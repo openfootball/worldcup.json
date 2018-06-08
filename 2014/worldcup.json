@@ -9,12 +9,10 @@
           "date": "2014-06-12",
           "time": "17:00",
           "team1": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
           "team2": {
-            "key": "cro",
             "name": "Croatia",
             "code": "CRO"
           },
@@ -30,9 +28,10 @@
           "group": "Group A",
           "stadium": {
             "key": "corinthians",
-            "name": "Arena Corinthians",
-            "city": "São Paulo"
-          }
+            "name": "Arena Corinthians"
+          },
+          "city": "São Paulo",
+          "timezone": "?"
         }
       ]
     },
@@ -44,12 +43,10 @@
           "date": "2014-06-13",
           "time": "13:00",
           "team1": {
-            "key": "mex",
             "name": "Mexico",
             "code": "MEX"
           },
           "team2": {
-            "key": "cmr",
             "name": "Cameroon",
             "code": "CMR"
           },
@@ -63,19 +60,19 @@
           "score2p": null,
           "knockout": false,
           "group": "Group A",
-          "stadium": null
+          "stadium": null,
+          "city": null,
+          "timezone": "?"
         },
         {
           "num": 3,
           "date": "2014-06-13",
           "time": "16:00",
           "team1": {
-            "key": "esp",
             "name": "Spain",
             "code": "ESP"
           },
           "team2": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
@@ -91,21 +88,20 @@
           "group": "Group B",
           "stadium": {
             "key": "fontenova",
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          }
+            "name": "Arena Fonte Nova"
+          },
+          "city": "Salvador",
+          "timezone": "?"
         },
         {
           "num": 4,
           "date": "2014-06-13",
           "time": "18:00",
           "team1": {
-            "key": "chi",
             "name": "Chile",
             "code": "CHI"
           },
           "team2": {
-            "key": "aus",
             "name": "Australia",
             "code": "AUS"
           },
@@ -121,9 +117,10 @@
           "group": "Group B",
           "stadium": {
             "key": "pantanal",
-            "name": "Arena Pantanal",
-            "city": "Cuiabá"
-          }
+            "name": "Arena Pantanal"
+          },
+          "city": "Cuiabá",
+          "timezone": "?"
         }
       ]
     },
@@ -135,12 +132,10 @@
           "date": "2014-06-14",
           "time": "13:00",
           "team1": {
-            "key": "col",
             "name": "Colombia",
             "code": "COL"
           },
           "team2": {
-            "key": "gre",
             "name": "Greece",
             "code": "GRE"
           },
@@ -156,21 +151,20 @@
           "group": "Group C",
           "stadium": {
             "key": "mineirao",
-            "name": "Estádio Mineirão",
-            "city": "Belo Horizonte"
-          }
+            "name": "Estádio Mineirão"
+          },
+          "city": "Belo Horizonte",
+          "timezone": "?"
         },
         {
           "num": 6,
           "date": "2014-06-14",
           "time": "22:00",
           "team1": {
-            "key": "civ",
             "name": "Côte d'Ivoire",
             "code": "CIV"
           },
           "team2": {
-            "key": "jpn",
             "name": "Japan",
             "code": "JPN"
           },
@@ -186,21 +180,20 @@
           "group": "Group C",
           "stadium": {
             "key": "pernambuco",
-            "name": "Arena Pernambuco",
-            "city": "Recife"
-          }
+            "name": "Arena Pernambuco"
+          },
+          "city": "Recife",
+          "timezone": "?"
         },
         {
           "num": 7,
           "date": "2014-06-14",
           "time": "16:00",
           "team1": {
-            "key": "uru",
             "name": "Uruguay",
             "code": "URU"
           },
           "team2": {
-            "key": "crc",
             "name": "Costa Rica",
             "code": "CRC"
           },
@@ -216,21 +209,20 @@
           "group": "Group D",
           "stadium": {
             "key": "castelao",
-            "name": "Estádio Castelão",
-            "city": "Fortaleza"
-          }
+            "name": "Estádio Castelão"
+          },
+          "city": "Fortaleza",
+          "timezone": "?"
         },
         {
           "num": 8,
           "date": "2014-06-14",
           "time": "18:00",
           "team1": {
-            "key": "eng",
             "name": "England",
             "code": "ENG"
           },
           "team2": {
-            "key": "ita",
             "name": "Italy",
             "code": "ITA"
           },
@@ -246,9 +238,10 @@
           "group": "Group D",
           "stadium": {
             "key": "amazonia",
-            "name": "Arena Amazônia",
-            "city": "Manaus"
-          }
+            "name": "Arena Amazônia"
+          },
+          "city": "Manaus",
+          "timezone": "?"
         }
       ]
     },
@@ -260,12 +253,10 @@
           "date": "2014-06-15",
           "time": "13:00",
           "team1": {
-            "key": "sui",
             "name": "Switzerland",
             "code": "SUI"
           },
           "team2": {
-            "key": "ecu",
             "name": "Ecuador",
             "code": "ECU"
           },
@@ -281,21 +272,20 @@
           "group": "Group E",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         },
         {
           "num": 10,
           "date": "2014-06-15",
           "time": "16:00",
           "team1": {
-            "key": "fra",
             "name": "France",
             "code": "FRA"
           },
           "team2": {
-            "key": "hon",
             "name": "Honduras",
             "code": "HON"
           },
@@ -311,21 +301,20 @@
           "group": "Group E",
           "stadium": {
             "key": "beirario",
-            "name": "Estádio Beira-Rio",
-            "city": "Porto Alegre"
-          }
+            "name": "Estádio Beira-Rio"
+          },
+          "city": "Porto Alegre",
+          "timezone": "?"
         },
         {
           "num": 11,
           "date": "2014-06-15",
           "time": "19:00",
           "team1": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
           "team2": {
-            "key": "bih",
             "name": "Bosnia-Herzegovina",
             "code": "BIH"
           },
@@ -341,9 +330,10 @@
           "group": "Group F",
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         }
       ]
     },
@@ -355,12 +345,10 @@
           "date": "2014-06-16",
           "time": "16:00",
           "team1": {
-            "key": "irn",
             "name": "Iran",
             "code": "IRN"
           },
           "team2": {
-            "key": "nga",
             "name": "Nigeria",
             "code": "NGA"
           },
@@ -376,21 +364,20 @@
           "group": "Group F",
           "stadium": {
             "key": "dabaixada",
-            "name": "Arena da Baixada",
-            "city": "Curitiba"
-          }
+            "name": "Arena da Baixada"
+          },
+          "city": "Curitiba",
+          "timezone": "?"
         },
         {
           "num": 13,
           "date": "2014-06-16",
           "time": "13:00",
           "team1": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
           "team2": {
-            "key": "por",
             "name": "Portugal",
             "code": "POR"
           },
@@ -406,21 +393,20 @@
           "group": "Group G",
           "stadium": {
             "key": "fontenova",
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          }
+            "name": "Arena Fonte Nova"
+          },
+          "city": "Salvador",
+          "timezone": "?"
         },
         {
           "num": 14,
           "date": "2014-06-16",
           "time": "19:00",
           "team1": {
-            "key": "gha",
             "name": "Ghana",
             "code": "GHA"
           },
           "team2": {
-            "key": "usa",
             "name": "United States",
             "code": "USA"
           },
@@ -434,7 +420,9 @@
           "score2p": null,
           "knockout": false,
           "group": "Group G",
-          "stadium": null
+          "stadium": null,
+          "city": null,
+          "timezone": "?"
         }
       ]
     },
@@ -446,12 +434,10 @@
           "date": "2014-06-17",
           "time": "13:00",
           "team1": {
-            "key": "bel",
             "name": "Belgium",
             "code": "BEL"
           },
           "team2": {
-            "key": "alg",
             "name": "Algeria",
             "code": "ALG"
           },
@@ -467,21 +453,20 @@
           "group": "Group H",
           "stadium": {
             "key": "mineirao",
-            "name": "Estádio Mineirão",
-            "city": "Belo Horizonte"
-          }
+            "name": "Estádio Mineirão"
+          },
+          "city": "Belo Horizonte",
+          "timezone": "?"
         },
         {
           "num": 16,
           "date": "2014-06-17",
           "time": "18:00",
           "team1": {
-            "key": "rus",
             "name": "Russia",
             "code": "RUS"
           },
           "team2": {
-            "key": "kor",
             "name": "South Korea",
             "code": "KOR"
           },
@@ -497,21 +482,20 @@
           "group": "Group H",
           "stadium": {
             "key": "pantanal",
-            "name": "Arena Pantanal",
-            "city": "Cuiabá"
-          }
+            "name": "Arena Pantanal"
+          },
+          "city": "Cuiabá",
+          "timezone": "?"
         },
         {
           "num": 17,
           "date": "2014-06-17",
           "time": "16:00",
           "team1": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
           "team2": {
-            "key": "mex",
             "name": "Mexico",
             "code": "MEX"
           },
@@ -527,9 +511,10 @@
           "group": "Group A",
           "stadium": {
             "key": "castelao",
-            "name": "Estádio Castelão",
-            "city": "Fortaleza"
-          }
+            "name": "Estádio Castelão"
+          },
+          "city": "Fortaleza",
+          "timezone": "?"
         }
       ]
     },
@@ -541,12 +526,10 @@
           "date": "2014-06-18",
           "time": "18:00",
           "team1": {
-            "key": "cmr",
             "name": "Cameroon",
             "code": "CMR"
           },
           "team2": {
-            "key": "cro",
             "name": "Croatia",
             "code": "CRO"
           },
@@ -562,21 +545,20 @@
           "group": "Group A",
           "stadium": {
             "key": "amazonia",
-            "name": "Arena Amazônia",
-            "city": "Manaus"
-          }
+            "name": "Arena Amazônia"
+          },
+          "city": "Manaus",
+          "timezone": "?"
         },
         {
           "num": 19,
           "date": "2014-06-18",
           "time": "16:00",
           "team1": {
-            "key": "esp",
             "name": "Spain",
             "code": "ESP"
           },
           "team2": {
-            "key": "chi",
             "name": "Chile",
             "code": "CHI"
           },
@@ -592,21 +574,20 @@
           "group": "Group B",
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         },
         {
           "num": 20,
           "date": "2014-06-18",
           "time": "13:00",
           "team1": {
-            "key": "aus",
             "name": "Australia",
             "code": "AUS"
           },
           "team2": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
@@ -622,9 +603,10 @@
           "group": "Group B",
           "stadium": {
             "key": "beirario",
-            "name": "Estádio Beira-Rio",
-            "city": "Porto Alegre"
-          }
+            "name": "Estádio Beira-Rio"
+          },
+          "city": "Porto Alegre",
+          "timezone": "?"
         }
       ]
     },
@@ -636,12 +618,10 @@
           "date": "2014-06-19",
           "time": "13:00",
           "team1": {
-            "key": "col",
             "name": "Colombia",
             "code": "COL"
           },
           "team2": {
-            "key": "civ",
             "name": "Côte d'Ivoire",
             "code": "CIV"
           },
@@ -657,21 +637,20 @@
           "group": "Group C",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         },
         {
           "num": 22,
           "date": "2014-06-19",
           "time": "19:00",
           "team1": {
-            "key": "jpn",
             "name": "Japan",
             "code": "JPN"
           },
           "team2": {
-            "key": "gre",
             "name": "Greece",
             "code": "GRE"
           },
@@ -685,19 +664,19 @@
           "score2p": null,
           "knockout": false,
           "group": "Group C",
-          "stadium": null
+          "stadium": null,
+          "city": null,
+          "timezone": "?"
         },
         {
           "num": 23,
           "date": "2014-06-19",
           "time": "16:00",
           "team1": {
-            "key": "uru",
             "name": "Uruguay",
             "code": "URU"
           },
           "team2": {
-            "key": "eng",
             "name": "England",
             "code": "ENG"
           },
@@ -713,9 +692,10 @@
           "group": "Group D",
           "stadium": {
             "key": "corinthians",
-            "name": "Arena Corinthians",
-            "city": "São Paulo"
-          }
+            "name": "Arena Corinthians"
+          },
+          "city": "São Paulo",
+          "timezone": "?"
         }
       ]
     },
@@ -727,12 +707,10 @@
           "date": "2014-06-20",
           "time": "13:00",
           "team1": {
-            "key": "ita",
             "name": "Italy",
             "code": "ITA"
           },
           "team2": {
-            "key": "crc",
             "name": "Costa Rica",
             "code": "CRC"
           },
@@ -748,21 +726,20 @@
           "group": "Group D",
           "stadium": {
             "key": "pernambuco",
-            "name": "Arena Pernambuco",
-            "city": "Recife"
-          }
+            "name": "Arena Pernambuco"
+          },
+          "city": "Recife",
+          "timezone": "?"
         },
         {
           "num": 25,
           "date": "2014-06-20",
           "time": "16:00",
           "team1": {
-            "key": "sui",
             "name": "Switzerland",
             "code": "SUI"
           },
           "team2": {
-            "key": "fra",
             "name": "France",
             "code": "FRA"
           },
@@ -778,21 +755,20 @@
           "group": "Group E",
           "stadium": {
             "key": "fontenova",
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          }
+            "name": "Arena Fonte Nova"
+          },
+          "city": "Salvador",
+          "timezone": "?"
         },
         {
           "num": 26,
           "date": "2014-06-20",
           "time": "19:00",
           "team1": {
-            "key": "hon",
             "name": "Honduras",
             "code": "HON"
           },
           "team2": {
-            "key": "ecu",
             "name": "Ecuador",
             "code": "ECU"
           },
@@ -808,9 +784,10 @@
           "group": "Group E",
           "stadium": {
             "key": "dabaixada",
-            "name": "Arena da Baixada",
-            "city": "Curitiba"
-          }
+            "name": "Arena da Baixada"
+          },
+          "city": "Curitiba",
+          "timezone": "?"
         }
       ]
     },
@@ -822,12 +799,10 @@
           "date": "2014-06-21",
           "time": "13:00",
           "team1": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
           "team2": {
-            "key": "irn",
             "name": "Iran",
             "code": "IRN"
           },
@@ -843,21 +818,20 @@
           "group": "Group F",
           "stadium": {
             "key": "mineirao",
-            "name": "Estádio Mineirão",
-            "city": "Belo Horizonte"
-          }
+            "name": "Estádio Mineirão"
+          },
+          "city": "Belo Horizonte",
+          "timezone": "?"
         },
         {
           "num": 28,
           "date": "2014-06-21",
           "time": "18:00",
           "team1": {
-            "key": "nga",
             "name": "Nigeria",
             "code": "NGA"
           },
           "team2": {
-            "key": "bih",
             "name": "Bosnia-Herzegovina",
             "code": "BIH"
           },
@@ -873,21 +847,20 @@
           "group": "Group F",
           "stadium": {
             "key": "pantanal",
-            "name": "Arena Pantanal",
-            "city": "Cuiabá"
-          }
+            "name": "Arena Pantanal"
+          },
+          "city": "Cuiabá",
+          "timezone": "?"
         },
         {
           "num": 29,
           "date": "2014-06-21",
           "time": "16:00",
           "team1": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
           "team2": {
-            "key": "gha",
             "name": "Ghana",
             "code": "GHA"
           },
@@ -903,9 +876,10 @@
           "group": "Group G",
           "stadium": {
             "key": "castelao",
-            "name": "Estádio Castelão",
-            "city": "Fortaleza"
-          }
+            "name": "Estádio Castelão"
+          },
+          "city": "Fortaleza",
+          "timezone": "?"
         }
       ]
     },
@@ -917,12 +891,10 @@
           "date": "2014-06-22",
           "time": "18:00",
           "team1": {
-            "key": "usa",
             "name": "United States",
             "code": "USA"
           },
           "team2": {
-            "key": "por",
             "name": "Portugal",
             "code": "POR"
           },
@@ -938,21 +910,20 @@
           "group": "Group G",
           "stadium": {
             "key": "amazonia",
-            "name": "Arena Amazônia",
-            "city": "Manaus"
-          }
+            "name": "Arena Amazônia"
+          },
+          "city": "Manaus",
+          "timezone": "?"
         },
         {
           "num": 31,
           "date": "2014-06-22",
           "time": "13:00",
           "team1": {
-            "key": "bel",
             "name": "Belgium",
             "code": "BEL"
           },
           "team2": {
-            "key": "rus",
             "name": "Russia",
             "code": "RUS"
           },
@@ -968,21 +939,20 @@
           "group": "Group H",
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         },
         {
           "num": 32,
           "date": "2014-06-22",
           "time": "16:00",
           "team1": {
-            "key": "kor",
             "name": "South Korea",
             "code": "KOR"
           },
           "team2": {
-            "key": "alg",
             "name": "Algeria",
             "code": "ALG"
           },
@@ -998,9 +968,10 @@
           "group": "Group H",
           "stadium": {
             "key": "beirario",
-            "name": "Estádio Beira-Rio",
-            "city": "Porto Alegre"
-          }
+            "name": "Estádio Beira-Rio"
+          },
+          "city": "Porto Alegre",
+          "timezone": "?"
         }
       ]
     },
@@ -1012,12 +983,10 @@
           "date": "2014-06-23",
           "time": "17:00",
           "team1": {
-            "key": "cmr",
             "name": "Cameroon",
             "code": "CMR"
           },
           "team2": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
@@ -1033,21 +1002,20 @@
           "group": "Group A",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         },
         {
           "num": 34,
           "date": "2014-06-23",
           "time": "17:00",
           "team1": {
-            "key": "cro",
             "name": "Croatia",
             "code": "CRO"
           },
           "team2": {
-            "key": "mex",
             "name": "Mexico",
             "code": "MEX"
           },
@@ -1063,21 +1031,20 @@
           "group": "Group A",
           "stadium": {
             "key": "pernambuco",
-            "name": "Arena Pernambuco",
-            "city": "Recife"
-          }
+            "name": "Arena Pernambuco"
+          },
+          "city": "Recife",
+          "timezone": "?"
         },
         {
           "num": 35,
           "date": "2014-06-23",
           "time": "13:00",
           "team1": {
-            "key": "aus",
             "name": "Australia",
             "code": "AUS"
           },
           "team2": {
-            "key": "esp",
             "name": "Spain",
             "code": "ESP"
           },
@@ -1093,21 +1060,20 @@
           "group": "Group B",
           "stadium": {
             "key": "dabaixada",
-            "name": "Arena da Baixada",
-            "city": "Curitiba"
-          }
+            "name": "Arena da Baixada"
+          },
+          "city": "Curitiba",
+          "timezone": "?"
         },
         {
           "num": 36,
           "date": "2014-06-23",
           "time": "13:00",
           "team1": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
           "team2": {
-            "key": "chi",
             "name": "Chile",
             "code": "CHI"
           },
@@ -1123,9 +1089,10 @@
           "group": "Group B",
           "stadium": {
             "key": "corinthians",
-            "name": "Arena Corinthians",
-            "city": "São Paulo"
-          }
+            "name": "Arena Corinthians"
+          },
+          "city": "São Paulo",
+          "timezone": "?"
         }
       ]
     },
@@ -1137,12 +1104,10 @@
           "date": "2014-06-24",
           "time": "16:00",
           "team1": {
-            "key": "jpn",
             "name": "Japan",
             "code": "JPN"
           },
           "team2": {
-            "key": "col",
             "name": "Colombia",
             "code": "COL"
           },
@@ -1158,21 +1123,20 @@
           "group": "Group C",
           "stadium": {
             "key": "pantanal",
-            "name": "Arena Pantanal",
-            "city": "Cuiabá"
-          }
+            "name": "Arena Pantanal"
+          },
+          "city": "Cuiabá",
+          "timezone": "?"
         },
         {
           "num": 38,
           "date": "2014-06-24",
           "time": "17:00",
           "team1": {
-            "key": "gre",
             "name": "Greece",
             "code": "GRE"
           },
           "team2": {
-            "key": "civ",
             "name": "Côte d'Ivoire",
             "code": "CIV"
           },
@@ -1188,21 +1152,20 @@
           "group": "Group C",
           "stadium": {
             "key": "castelao",
-            "name": "Estádio Castelão",
-            "city": "Fortaleza"
-          }
+            "name": "Estádio Castelão"
+          },
+          "city": "Fortaleza",
+          "timezone": "?"
         },
         {
           "num": 39,
           "date": "2014-06-24",
           "time": "13:00",
           "team1": {
-            "key": "ita",
             "name": "Italy",
             "code": "ITA"
           },
           "team2": {
-            "key": "uru",
             "name": "Uruguay",
             "code": "URU"
           },
@@ -1216,19 +1179,19 @@
           "score2p": null,
           "knockout": false,
           "group": "Group D",
-          "stadium": null
+          "stadium": null,
+          "city": null,
+          "timezone": "?"
         },
         {
           "num": 40,
           "date": "2014-06-24",
           "time": "13:00",
           "team1": {
-            "key": "crc",
             "name": "Costa Rica",
             "code": "CRC"
           },
           "team2": {
-            "key": "eng",
             "name": "England",
             "code": "ENG"
           },
@@ -1244,9 +1207,10 @@
           "group": "Group D",
           "stadium": {
             "key": "mineirao",
-            "name": "Estádio Mineirão",
-            "city": "Belo Horizonte"
-          }
+            "name": "Estádio Mineirão"
+          },
+          "city": "Belo Horizonte",
+          "timezone": "?"
         }
       ]
     },
@@ -1258,12 +1222,10 @@
           "date": "2014-06-25",
           "time": "16:00",
           "team1": {
-            "key": "hon",
             "name": "Honduras",
             "code": "HON"
           },
           "team2": {
-            "key": "sui",
             "name": "Switzerland",
             "code": "SUI"
           },
@@ -1279,21 +1241,20 @@
           "group": "Group E",
           "stadium": {
             "key": "amazonia",
-            "name": "Arena Amazônia",
-            "city": "Manaus"
-          }
+            "name": "Arena Amazônia"
+          },
+          "city": "Manaus",
+          "timezone": "?"
         },
         {
           "num": 42,
           "date": "2014-06-25",
           "time": "17:00",
           "team1": {
-            "key": "ecu",
             "name": "Ecuador",
             "code": "ECU"
           },
           "team2": {
-            "key": "fra",
             "name": "France",
             "code": "FRA"
           },
@@ -1309,21 +1270,20 @@
           "group": "Group E",
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         },
         {
           "num": 43,
           "date": "2014-06-25",
           "time": "13:00",
           "team1": {
-            "key": "nga",
             "name": "Nigeria",
             "code": "NGA"
           },
           "team2": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
@@ -1339,21 +1299,20 @@
           "group": "Group F",
           "stadium": {
             "key": "beirario",
-            "name": "Estádio Beira-Rio",
-            "city": "Porto Alegre"
-          }
+            "name": "Estádio Beira-Rio"
+          },
+          "city": "Porto Alegre",
+          "timezone": "?"
         },
         {
           "num": 44,
           "date": "2014-06-25",
           "time": "13:00",
           "team1": {
-            "key": "bih",
             "name": "Bosnia-Herzegovina",
             "code": "BIH"
           },
           "team2": {
-            "key": "irn",
             "name": "Iran",
             "code": "IRN"
           },
@@ -1369,9 +1328,10 @@
           "group": "Group F",
           "stadium": {
             "key": "fontenova",
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          }
+            "name": "Arena Fonte Nova"
+          },
+          "city": "Salvador",
+          "timezone": "?"
         }
       ]
     },
@@ -1383,12 +1343,10 @@
           "date": "2014-06-26",
           "time": "13:00",
           "team1": {
-            "key": "usa",
             "name": "United States",
             "code": "USA"
           },
           "team2": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
@@ -1404,21 +1362,20 @@
           "group": "Group G",
           "stadium": {
             "key": "pernambuco",
-            "name": "Arena Pernambuco",
-            "city": "Recife"
-          }
+            "name": "Arena Pernambuco"
+          },
+          "city": "Recife",
+          "timezone": "?"
         },
         {
           "num": 46,
           "date": "2014-06-26",
           "time": "13:00",
           "team1": {
-            "key": "por",
             "name": "Portugal",
             "code": "POR"
           },
           "team2": {
-            "key": "gha",
             "name": "Ghana",
             "code": "GHA"
           },
@@ -1434,21 +1391,20 @@
           "group": "Group G",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         },
         {
           "num": 47,
           "date": "2014-06-26",
           "time": "17:00",
           "team1": {
-            "key": "kor",
             "name": "South Korea",
             "code": "KOR"
           },
           "team2": {
-            "key": "bel",
             "name": "Belgium",
             "code": "BEL"
           },
@@ -1464,21 +1420,20 @@
           "group": "Group H",
           "stadium": {
             "key": "corinthians",
-            "name": "Arena Corinthians",
-            "city": "São Paulo"
-          }
+            "name": "Arena Corinthians"
+          },
+          "city": "São Paulo",
+          "timezone": "?"
         },
         {
           "num": 48,
           "date": "2014-06-26",
           "time": "17:00",
           "team1": {
-            "key": "alg",
             "name": "Algeria",
             "code": "ALG"
           },
           "team2": {
-            "key": "rus",
             "name": "Russia",
             "code": "RUS"
           },
@@ -1494,9 +1449,10 @@
           "group": "Group H",
           "stadium": {
             "key": "dabaixada",
-            "name": "Arena da Baixada",
-            "city": "Curitiba"
-          }
+            "name": "Arena da Baixada"
+          },
+          "city": "Curitiba",
+          "timezone": "?"
         }
       ]
     },
@@ -1508,12 +1464,10 @@
           "date": "2014-06-28",
           "time": "13:00",
           "team1": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
           "team2": {
-            "key": "chi",
             "name": "Chile",
             "code": "CHI"
           },
@@ -1529,21 +1483,20 @@
           "group": null,
           "stadium": {
             "key": "mineirao",
-            "name": "Estádio Mineirão",
-            "city": "Belo Horizonte"
-          }
+            "name": "Estádio Mineirão"
+          },
+          "city": "Belo Horizonte",
+          "timezone": "?"
         },
         {
           "num": 50,
           "date": "2014-06-28",
           "time": "17:00",
           "team1": {
-            "key": "col",
             "name": "Colombia",
             "code": "COL"
           },
           "team2": {
-            "key": "uru",
             "name": "Uruguay",
             "code": "URU"
           },
@@ -1559,21 +1512,20 @@
           "group": null,
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         },
         {
           "num": 51,
           "date": "2014-06-29",
           "time": "13:00",
           "team1": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
           "team2": {
-            "key": "mex",
             "name": "Mexico",
             "code": "MEX"
           },
@@ -1589,21 +1541,20 @@
           "group": null,
           "stadium": {
             "key": "castelao",
-            "name": "Estádio Castelão",
-            "city": "Fortaleza"
-          }
+            "name": "Estádio Castelão"
+          },
+          "city": "Fortaleza",
+          "timezone": "?"
         },
         {
           "num": 52,
           "date": "2014-06-29",
           "time": "17:00",
           "team1": {
-            "key": "crc",
             "name": "Costa Rica",
             "code": "CRC"
           },
           "team2": {
-            "key": "gre",
             "name": "Greece",
             "code": "GRE"
           },
@@ -1619,21 +1570,20 @@
           "group": null,
           "stadium": {
             "key": "pernambuco",
-            "name": "Arena Pernambuco",
-            "city": "Recife"
-          }
+            "name": "Arena Pernambuco"
+          },
+          "city": "Recife",
+          "timezone": "?"
         },
         {
           "num": 53,
           "date": "2014-06-30",
           "time": "13:00",
           "team1": {
-            "key": "fra",
             "name": "France",
             "code": "FRA"
           },
           "team2": {
-            "key": "nga",
             "name": "Nigeria",
             "code": "NGA"
           },
@@ -1649,21 +1599,20 @@
           "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         },
         {
           "num": 54,
           "date": "2014-06-30",
           "time": "17:00",
           "team1": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
           "team2": {
-            "key": "alg",
             "name": "Algeria",
             "code": "ALG"
           },
@@ -1679,21 +1628,20 @@
           "group": null,
           "stadium": {
             "key": "beirario",
-            "name": "Estádio Beira-Rio",
-            "city": "Porto Alegre"
-          }
+            "name": "Estádio Beira-Rio"
+          },
+          "city": "Porto Alegre",
+          "timezone": "?"
         },
         {
           "num": 55,
           "date": "2014-07-01",
           "time": "13:00",
           "team1": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
           "team2": {
-            "key": "sui",
             "name": "Switzerland",
             "code": "SUI"
           },
@@ -1709,21 +1657,20 @@
           "group": null,
           "stadium": {
             "key": "corinthians",
-            "name": "Arena Corinthians",
-            "city": "São Paulo"
-          }
+            "name": "Arena Corinthians"
+          },
+          "city": "São Paulo",
+          "timezone": "?"
         },
         {
           "num": 56,
           "date": "2014-07-01",
           "time": "17:00",
           "team1": {
-            "key": "bel",
             "name": "Belgium",
             "code": "BEL"
           },
           "team2": {
-            "key": "usa",
             "name": "United States",
             "code": "USA"
           },
@@ -1739,9 +1686,10 @@
           "group": null,
           "stadium": {
             "key": "fontenova",
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          }
+            "name": "Arena Fonte Nova"
+          },
+          "city": "Salvador",
+          "timezone": "?"
         }
       ]
     },
@@ -1753,12 +1701,10 @@
           "date": "2014-07-04",
           "time": "17:00",
           "team1": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
           "team2": {
-            "key": "col",
             "name": "Colombia",
             "code": "COL"
           },
@@ -1774,21 +1720,20 @@
           "group": null,
           "stadium": {
             "key": "castelao",
-            "name": "Estádio Castelão",
-            "city": "Fortaleza"
-          }
+            "name": "Estádio Castelão"
+          },
+          "city": "Fortaleza",
+          "timezone": "?"
         },
         {
           "num": 58,
           "date": "2014-07-04",
           "time": "13:00",
           "team1": {
-            "key": "fra",
             "name": "France",
             "code": "FRA"
           },
           "team2": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
@@ -1804,21 +1749,20 @@
           "group": null,
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         },
         {
           "num": 59,
           "date": "2014-07-05",
           "time": "17:00",
           "team1": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
           "team2": {
-            "key": "crc",
             "name": "Costa Rica",
             "code": "CRC"
           },
@@ -1834,21 +1778,20 @@
           "group": null,
           "stadium": {
             "key": "fontenova",
-            "name": "Arena Fonte Nova",
-            "city": "Salvador"
-          }
+            "name": "Arena Fonte Nova"
+          },
+          "city": "Salvador",
+          "timezone": "?"
         },
         {
           "num": 60,
           "date": "2014-07-05",
           "time": "13:00",
           "team1": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
           "team2": {
-            "key": "bel",
             "name": "Belgium",
             "code": "BEL"
           },
@@ -1864,9 +1807,10 @@
           "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         }
       ]
     },
@@ -1878,12 +1822,10 @@
           "date": "2014-07-08",
           "time": "17:00",
           "team1": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
           "team2": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
@@ -1899,21 +1841,20 @@
           "group": null,
           "stadium": {
             "key": "mineirao",
-            "name": "Estádio Mineirão",
-            "city": "Belo Horizonte"
-          }
+            "name": "Estádio Mineirão"
+          },
+          "city": "Belo Horizonte",
+          "timezone": "?"
         },
         {
           "num": 62,
           "date": "2014-07-09",
           "time": "17:00",
           "team1": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
           "team2": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
@@ -1929,9 +1870,10 @@
           "group": null,
           "stadium": {
             "key": "corinthians",
-            "name": "Arena Corinthians",
-            "city": "São Paulo"
-          }
+            "name": "Arena Corinthians"
+          },
+          "city": "São Paulo",
+          "timezone": "?"
         }
       ]
     },
@@ -1943,12 +1885,10 @@
           "date": "2014-07-12",
           "time": "17:00",
           "team1": {
-            "key": "bra",
             "name": "Brazil",
             "code": "BRA"
           },
           "team2": {
-            "key": "ned",
             "name": "Netherlands",
             "code": "NED"
           },
@@ -1964,9 +1904,10 @@
           "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Estádio Nacional (Mané Garrincha)",
-            "city": "Brasília"
-          }
+            "name": "Estádio Nacional (Mané Garrincha)"
+          },
+          "city": "Brasília",
+          "timezone": "?"
         }
       ]
     },
@@ -1978,12 +1919,10 @@
           "date": "2014-07-13",
           "time": "16:00",
           "team1": {
-            "key": "ger",
             "name": "Germany",
             "code": "GER"
           },
           "team2": {
-            "key": "arg",
             "name": "Argentina",
             "code": "ARG"
           },
@@ -1999,9 +1938,10 @@
           "group": null,
           "stadium": {
             "key": "maracana",
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro"
-          }
+            "name": "Estádio do Maracanã"
+          },
+          "city": "Rio de Janeiro",
+          "timezone": "?"
         }
       ]
     }

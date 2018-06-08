@@ -21,12 +21,10 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "date": "2018-06-14",
           "time": "18:00",
           "team1": {
-            "key": "rus",
             "name": "Russia",
             "code": "RUS"
           },
           "team2": {
-            "key": "ksa",
             "name": "Saudi Arabia",
             "code": "KSA"
           },
@@ -34,17 +32,13 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "luzhniki",
-            "name": "Luzhniki Stadium",
-            "city": "Moscow"
-          }
+            "name": "Luzhniki Stadium"
+          },
+          "city": "Moscow",
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -56,12 +50,10 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "date": "2018-06-15",
           "time": "17:00",
           "team1": {
-            "key": "egy",
             "name": "Egypt",
             "code": "EGY"
           },
           "team2": {
-            "key": "uru",
             "name": "Uruguay",
             "code": "URU"
           },
@@ -69,17 +61,13 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "ekaterinburg",
-            "name": "Ekaterinburg Arena",
-            "city": "Ekaterinburg"
-          }
+            "name": "Ekaterinburg Arena"
+          },          
+          "city": "Ekaterinburg",
+          "timezone": "UTC+5"
         },
         ...
       ],
