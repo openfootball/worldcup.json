@@ -4,49 +4,489 @@
     {
       "name": "Group A",
       "standings": [
-
+        {
+          "team": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 7,
+          "goals_against": 2,
+          "pts": 7
+        },
+        {
+          "team": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 1,
+          "pts": 7
+        },
+        {
+          "team": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 6,
+          "goals_against": 6,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Cameroon",
+            "code": "CMR"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goals_for": 1,
+          "goals_against": 9,
+          "pts": 0
+        }
       ]
     },
     {
       "name": "Group B",
       "standings": [
-
+        {
+          "team": {
+            "name": "Netherlands",
+            "code": "NED"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 10,
+          "goals_against": 3,
+          "pts": 9
+        },
+        {
+          "team": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 3,
+          "pts": 6
+        },
+        {
+          "team": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 4,
+          "goals_against": 7,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Australia",
+            "code": "AUS"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goals_for": 3,
+          "goals_against": 9,
+          "pts": 0
+        }
       ]
     },
     {
       "name": "Group C",
       "standings": [
-
+        {
+          "team": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 9,
+          "goals_against": 2,
+          "pts": 9
+        },
+        {
+          "team": {
+            "name": "Greece",
+            "code": "GRE"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 4,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Côte d'Ivoire",
+            "code": "CIV"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 4,
+          "goals_against": 5,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 2,
+          "goals_against": 6,
+          "pts": 1
+        }
       ]
     },
     {
       "name": "Group D",
       "standings": [
-
+        {
+          "team": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 1,
+          "pts": 7
+        },
+        {
+          "team": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 4,
+          "goals_against": 4,
+          "pts": 6
+        },
+        {
+          "team": {
+            "name": "Italy",
+            "code": "ITA"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 2,
+          "goals_against": 3,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 2,
+          "goals_against": 4,
+          "pts": 1
+        }
       ]
     },
     {
       "name": "Group E",
       "standings": [
-
+        {
+          "team": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 8,
+          "goals_against": 2,
+          "pts": 7
+        },
+        {
+          "team": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 7,
+          "goals_against": 6,
+          "pts": 6
+        },
+        {
+          "team": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 3,
+          "goals_against": 3,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Honduras",
+            "code": "HON"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goals_for": 1,
+          "goals_against": 8,
+          "pts": 0
+        }
       ]
     },
     {
       "name": "Group F",
       "standings": [
-
+        {
+          "team": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 6,
+          "goals_against": 3,
+          "pts": 9
+        },
+        {
+          "team": {
+            "name": "Nigeria",
+            "code": "NGA"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 3,
+          "goals_against": 3,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Bosnia-Herzegovina",
+            "code": "BIH"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 4,
+          "goals_against": 4,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Iran",
+            "code": "IRN"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 1,
+          "goals_against": 4,
+          "pts": 1
+        }
       ]
     },
     {
       "name": "Group G",
       "standings": [
-
+        {
+          "team": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 7,
+          "goals_against": 2,
+          "pts": 7
+        },
+        {
+          "team": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 4,
+          "goals_against": 4,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 4,
+          "goals_against": 7,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Ghana",
+            "code": "GHA"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 4,
+          "goals_against": 6,
+          "pts": 1
+        }
       ]
     },
     {
       "name": "Group H",
       "standings": [
-
+        {
+          "team": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "pos": 1,
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 1,
+          "pts": 9
+        },
+        {
+          "team": {
+            "name": "Algeria",
+            "code": "ALG"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goals_for": 6,
+          "goals_against": 5,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "pos": 3,
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 3,
+          "pts": 2
+        },
+        {
+          "team": {
+            "name": "South Korea",
+            "code": "KOR"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goals_for": 3,
+          "goals_against": 6,
+          "pts": 1
+        }
       ]
     }
   ]
