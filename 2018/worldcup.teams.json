@@ -4,162 +4,413 @@
     {
       "key": "egy",
       "name": "Egypt",
-      "code": "EGY"
+      "code": "EGY",
+      "continent": "Africa",
+      "assoc": {
+        "key": "egy",
+        "name": "Egyptian Football Association",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "mar",
       "name": "Morocco",
-      "code": "MAR"
+      "code": "MAR",
+      "continent": "Africa",
+      "assoc": {
+        "key": "mar",
+        "name": "Fédération Royale Marocaine de Football",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "tun",
       "name": "Tunisia",
-      "code": "TUN"
+      "code": "TUN",
+      "continent": "Africa",
+      "assoc": {
+        "key": "tun",
+        "name": "Fédération Tunisienne de Football",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "sen",
       "name": "Senegal",
-      "code": "SEN"
+      "code": "SEN",
+      "continent": "Africa",
+      "assoc": {
+        "key": "sen",
+        "name": "Fédération Sénégalaise de Football",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "nga",
       "name": "Nigeria",
-      "code": "NGA"
+      "code": "NGA",
+      "continent": "Africa",
+      "assoc": {
+        "key": "nga",
+        "name": "Nigeria Football Federation",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "jpn",
       "name": "Japan",
-      "code": "JPN"
+      "code": "JPN",
+      "continent": "Asia",
+      "assoc": {
+        "key": "jpn",
+        "name": "Japan Football Association",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "kor",
       "name": "South Korea",
-      "code": "KOR"
+      "code": "KOR",
+      "continent": "Asia",
+      "assoc": {
+        "key": "kor",
+        "name": "Korea Football Association",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "crc",
       "name": "Costa Rica",
-      "code": "CRC"
+      "code": "CRC",
+      "continent": "Central America",
+      "assoc": {
+        "key": "crc",
+        "name": "Federación Costarricense de Fútbol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "pan",
       "name": "Panama",
-      "code": "PAN"
+      "code": "PAN",
+      "continent": "Central America",
+      "assoc": {
+        "key": "pan",
+        "name": "Federación Panameña de Fútbol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "bel",
       "name": "Belgium",
-      "code": "BEL"
+      "code": "BEL",
+      "continent": "Europe",
+      "assoc": {
+        "key": "bel",
+        "name": "Koninklijke Belgische Voetbalbond",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "ger",
       "name": "Germany",
-      "code": "GER"
+      "code": "GER",
+      "continent": "Europe",
+      "assoc": {
+        "key": "ger",
+        "name": "Deutscher Fußball-Bund",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "esp",
       "name": "Spain",
-      "code": "ESP"
+      "code": "ESP",
+      "continent": "Europe",
+      "assoc": {
+        "key": "esp",
+        "name": "Real Federación Española de Fútbol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "fra",
       "name": "France",
-      "code": "FRA"
+      "code": "FRA",
+      "continent": "Europe",
+      "assoc": {
+        "key": "fra",
+        "name": "Fédération Française de Football",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "por",
       "name": "Portugal",
-      "code": "POR"
+      "code": "POR",
+      "continent": "Europe",
+      "assoc": {
+        "key": "por",
+        "name": "Federação Portuguesa de Futebol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "den",
       "name": "Denmark",
-      "code": "DEN"
+      "code": "DEN",
+      "continent": "Europe",
+      "assoc": {
+        "key": "den",
+        "name": "Dansk Boldspil-Union",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "pol",
       "name": "Poland",
-      "code": "POL"
+      "code": "POL",
+      "continent": "Europe",
+      "assoc": {
+        "key": "pol",
+        "name": "Polski Związek Piłki Nożnej",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "swe",
       "name": "Sweden",
-      "code": "SWE"
+      "code": "SWE",
+      "continent": "Europe",
+      "assoc": {
+        "key": "swe",
+        "name": "Svenska Fotbollförbundet",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "sui",
       "name": "Switzerland",
-      "code": "SUI"
+      "code": "SUI",
+      "continent": "Europe",
+      "assoc": {
+        "key": "sui",
+        "name": "Association Suisse de Football",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "cro",
       "name": "Croatia",
-      "code": "CRO"
+      "code": "CRO",
+      "continent": "Europe",
+      "assoc": {
+        "key": "cro",
+        "name": "Hrvatski Nogometni Savez",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "srb",
       "name": "Serbia",
-      "code": "SRB"
+      "code": "SRB",
+      "continent": "Europe",
+      "assoc": {
+        "key": "srb",
+        "name": "Fudbalski Savez Srbije",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "rus",
       "name": "Russia",
-      "code": "RUS"
+      "code": "RUS",
+      "continent": "Europe",
+      "assoc": {
+        "key": "rus",
+        "name": "Russian Football Union",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "isl",
       "name": "Iceland",
-      "code": "ISL"
+      "code": "ISL",
+      "continent": "Europe",
+      "assoc": {
+        "key": "isl",
+        "name": "Knattspyrnusamband Íslands",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "eng",
       "name": "England",
-      "code": "ENG"
+      "code": "ENG",
+      "continent": "Europe",
+      "assoc": {
+      }
     },
     {
       "key": "irn",
       "name": "Iran",
-      "code": "IRN"
+      "code": "IRN",
+      "continent": "Middle East",
+      "assoc": {
+        "key": "irn",
+        "name": "Football Federation Islamic Republic of Iran",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "ksa",
       "name": "Saudi Arabia",
-      "code": "KSA"
+      "code": "KSA",
+      "continent": "Middle East",
+      "assoc": {
+        "key": "ksa",
+        "name": "Saudi Arabian Football Federation",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "mex",
       "name": "Mexico",
-      "code": "MEX"
+      "code": "MEX",
+      "continent": "North America",
+      "assoc": {
+        "key": "mex",
+        "name": "Federación Mexicana de Fútbol Asociación",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "aus",
       "name": "Australia",
-      "code": "AUS"
+      "code": "AUS",
+      "continent": "Pacific",
+      "assoc": {
+        "key": "aus",
+        "name": "Football Federation Australia",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "arg",
       "name": "Argentina",
-      "code": "ARG"
+      "code": "ARG",
+      "continent": "South America",
+      "assoc": {
+        "key": "arg",
+        "name": "Asociación del Fútbol Argentino",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "bra",
       "name": "Brazil",
-      "code": "BRA"
+      "code": "BRA",
+      "continent": "South America",
+      "assoc": {
+        "key": "bra",
+        "name": "Confederação Brasileira de Futebol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "uru",
       "name": "Uruguay",
-      "code": "URU"
+      "code": "URU",
+      "continent": "South America",
+      "assoc": {
+        "key": "uru",
+        "name": "Asociación Uruguaya de Fútbol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "col",
       "name": "Colombia",
-      "code": "COL"
+      "code": "COL",
+      "continent": "South America",
+      "assoc": {
+        "key": "col",
+        "name": "Federación Colombiana de Fútbol",
+        "parents": [
+
+        ]
+      }
     },
     {
       "key": "per",
       "name": "Peru",
-      "code": "PER"
+      "code": "PER",
+      "continent": "South America",
+      "assoc": {
+        "key": "per",
+        "name": "Federación Peruana de Fútbol",
+        "parents": [
+
+        ]
+      }
     }
   ]
 }
