@@ -1,0 +1,165 @@
+{
+  "name": "World Cup 2014",
+  "teams": [
+    {
+      "key": "alg",
+      "name": "Algeria",
+      "code": "ALG"
+    },
+    {
+      "key": "civ",
+      "name": "Côte d'Ivoire",
+      "code": "CIV"
+    },
+    {
+      "key": "gha",
+      "name": "Ghana",
+      "code": "GHA"
+    },
+    {
+      "key": "nga",
+      "name": "Nigeria",
+      "code": "NGA"
+    },
+    {
+      "key": "cmr",
+      "name": "Cameroon",
+      "code": "CMR"
+    },
+    {
+      "key": "jpn",
+      "name": "Japan",
+      "code": "JPN"
+    },
+    {
+      "key": "kor",
+      "name": "South Korea",
+      "code": "KOR"
+    },
+    {
+      "key": "hon",
+      "name": "Honduras",
+      "code": "HON"
+    },
+    {
+      "key": "crc",
+      "name": "Costa Rica",
+      "code": "CRC"
+    },
+    {
+      "key": "bel",
+      "name": "Belgium",
+      "code": "BEL"
+    },
+    {
+      "key": "ger",
+      "name": "Germany",
+      "code": "GER"
+    },
+    {
+      "key": "esp",
+      "name": "Spain",
+      "code": "ESP"
+    },
+    {
+      "key": "fra",
+      "name": "France",
+      "code": "FRA"
+    },
+    {
+      "key": "gre",
+      "name": "Greece",
+      "code": "GRE"
+    },
+    {
+      "key": "ita",
+      "name": "Italy",
+      "code": "ITA"
+    },
+    {
+      "key": "ned",
+      "name": "Netherlands",
+      "code": "NED"
+    },
+    {
+      "key": "por",
+      "name": "Portugal",
+      "code": "POR"
+    },
+    {
+      "key": "sui",
+      "name": "Switzerland",
+      "code": "SUI"
+    },
+    {
+      "key": "cro",
+      "name": "Croatia",
+      "code": "CRO"
+    },
+    {
+      "key": "rus",
+      "name": "Russia",
+      "code": "RUS"
+    },
+    {
+      "key": "bih",
+      "name": "Bosnia-Herzegovina",
+      "code": "BIH"
+    },
+    {
+      "key": "eng",
+      "name": "England",
+      "code": "ENG"
+    },
+    {
+      "key": "irn",
+      "name": "Iran",
+      "code": "IRN"
+    },
+    {
+      "key": "mex",
+      "name": "Mexico",
+      "code": "MEX"
+    },
+    {
+      "key": "usa",
+      "name": "United States",
+      "code": "USA"
+    },
+    {
+      "key": "aus",
+      "name": "Australia",
+      "code": "AUS"
+    },
+    {
+      "key": "arg",
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    {
+      "key": "bra",
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    {
+      "key": "chi",
+      "name": "Chile",
+      "code": "CHI"
+    },
+    {
+      "key": "uru",
+      "name": "Uruguay",
+      "code": "URU"
+    },
+    {
+      "key": "col",
+      "name": "Colombia",
+      "code": "COL"
+    },
+    {
+      "key": "ecu",
+      "name": "Ecuador",
+      "code": "ECU"
+    }
+  ]
+}

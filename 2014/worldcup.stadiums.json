@@ -1,0 +1,77 @@
+{
+  "name": "World Cup 2014",
+  "stadiums": [
+    {
+      "key": "maracana",
+      "name": "Maracanã",
+      "capacity": 76935,
+      "city": "Rio de Janeiro"
+    },
+    {
+      "key": "nacionaldebrasilia",
+      "name": "Nacional de Brasília",
+      "capacity": 70042,
+      "city": "Brasília"
+    },
+    {
+      "key": "corinthians",
+      "name": "Corinthians",
+      "capacity": 68000,
+      "city": "São Paulo"
+    },
+    {
+      "key": "castelao",
+      "name": "Castelão",
+      "capacity": 64846,
+      "city": "Fortaleza"
+    },
+    {
+      "key": "mineirao",
+      "name": "Mineirão",
+      "capacity": 62547,
+      "city": "Belo Horizonte"
+    },
+    {
+      "key": "fontenova",
+      "name": "Fonte Nova",
+      "capacity": 56000,
+      "city": "Salvador"
+    },
+    {
+      "key": "pantanal",
+      "name": "Pantanal",
+      "capacity": 42968,
+      "city": "Cuiabá"
+    },
+    {
+      "key": "amazonia",
+      "name": "Amazônia",
+      "capacity": 42374,
+      "city": "Manaus"
+    },
+    {
+      "key": "dasdunas",
+      "name": "Das Dunas",
+      "capacity": 42086,
+      "city": "Natal"
+    },
+    {
+      "key": "beirario",
+      "name": "Beira-Rio",
+      "capacity": 51300,
+      "city": "Porto Alegre"
+    },
+    {
+      "key": "pernambuco",
+      "name": "Pernambuco",
+      "capacity": 46154,
+      "city": "Recife"
+    },
+    {
+      "key": "dabaixada",
+      "name": "Da Baixada",
+      "capacity": 43981,
+      "city": "Curitiba"
+    }
+  ]
+}
