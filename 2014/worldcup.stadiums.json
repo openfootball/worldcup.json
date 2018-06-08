@@ -3,73 +3,73 @@
   "stadiums": [
     {
       "key": "maracana",
-      "name": "Maracanã",
+      "name": "Estádio do Maracanã",
       "capacity": 76935,
       "city": "Rio de Janeiro"
     },
     {
       "key": "nacionaldebrasilia",
-      "name": "Nacional de Brasília",
+      "name": "Estádio Nacional (Mané Garrincha)",
       "capacity": 70042,
       "city": "Brasília"
     },
     {
       "key": "corinthians",
-      "name": "Corinthians",
+      "name": "Arena Corinthians",
       "capacity": 68000,
       "city": "São Paulo"
     },
     {
       "key": "castelao",
-      "name": "Castelão",
+      "name": "Estádio Castelão",
       "capacity": 64846,
       "city": "Fortaleza"
     },
     {
       "key": "mineirao",
-      "name": "Mineirão",
+      "name": "Estádio Mineirão",
       "capacity": 62547,
       "city": "Belo Horizonte"
     },
     {
       "key": "fontenova",
-      "name": "Fonte Nova",
+      "name": "Arena Fonte Nova",
       "capacity": 56000,
       "city": "Salvador"
     },
     {
       "key": "pantanal",
-      "name": "Pantanal",
+      "name": "Arena Pantanal",
       "capacity": 42968,
       "city": "Cuiabá"
     },
     {
       "key": "amazonia",
-      "name": "Amazônia",
+      "name": "Arena Amazônia",
       "capacity": 42374,
       "city": "Manaus"
     },
     {
       "key": "dasdunas",
-      "name": "Das Dunas",
+      "name": "Arena das Dunas",
       "capacity": 42086,
       "city": "Natal"
     },
     {
       "key": "beirario",
-      "name": "Beira-Rio",
+      "name": "Estádio Beira-Rio",
       "capacity": 51300,
       "city": "Porto Alegre"
     },
     {
       "key": "pernambuco",
-      "name": "Pernambuco",
+      "name": "Arena Pernambuco",
       "capacity": 46154,
       "city": "Recife"
     },
     {
       "key": "dabaixada",
-      "name": "Da Baixada",
+      "name": "Arena da Baixada",
       "capacity": 43981,
       "city": "Curitiba"
     }

@@ -30,7 +30,7 @@
           "group": "Group A",
           "stadium": {
             "key": "corinthians",
-            "name": "Corinthians",
+            "name": "Arena Corinthians",
             "city": "São Paulo"
           }
         }
@@ -91,7 +91,7 @@
           "group": "Group B",
           "stadium": {
             "key": "fontenova",
-            "name": "Fonte Nova",
+            "name": "Arena Fonte Nova",
             "city": "Salvador"
           }
         },
@@ -121,7 +121,7 @@
           "group": "Group B",
           "stadium": {
             "key": "pantanal",
-            "name": "Pantanal",
+            "name": "Arena Pantanal",
             "city": "Cuiabá"
           }
         }
@@ -156,7 +156,7 @@
           "group": "Group C",
           "stadium": {
             "key": "mineirao",
-            "name": "Mineirão",
+            "name": "Estádio Mineirão",
             "city": "Belo Horizonte"
           }
         },
@@ -186,7 +186,7 @@
           "group": "Group C",
           "stadium": {
             "key": "pernambuco",
-            "name": "Pernambuco",
+            "name": "Arena Pernambuco",
             "city": "Recife"
           }
         },
@@ -216,7 +216,7 @@
           "group": "Group D",
           "stadium": {
             "key": "castelao",
-            "name": "Castelão",
+            "name": "Estádio Castelão",
             "city": "Fortaleza"
           }
         },
@@ -246,7 +246,7 @@
           "group": "Group D",
           "stadium": {
             "key": "amazonia",
-            "name": "Amazônia",
+            "name": "Arena Amazônia",
             "city": "Manaus"
           }
         }
@@ -281,7 +281,7 @@
           "group": "Group E",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         },
@@ -311,7 +311,7 @@
           "group": "Group E",
           "stadium": {
             "key": "beirario",
-            "name": "Beira-Rio",
+            "name": "Estádio Beira-Rio",
             "city": "Porto Alegre"
           }
         },
@@ -341,7 +341,7 @@
           "group": "Group F",
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         }
@@ -376,7 +376,7 @@
           "group": "Group F",
           "stadium": {
             "key": "dabaixada",
-            "name": "Da Baixada",
+            "name": "Arena da Baixada",
             "city": "Curitiba"
           }
         },
@@ -406,7 +406,7 @@
           "group": "Group G",
           "stadium": {
             "key": "fontenova",
-            "name": "Fonte Nova",
+            "name": "Arena Fonte Nova",
             "city": "Salvador"
           }
         },
@@ -467,7 +467,7 @@
           "group": "Group H",
           "stadium": {
             "key": "mineirao",
-            "name": "Mineirão",
+            "name": "Estádio Mineirão",
             "city": "Belo Horizonte"
           }
         },
@@ -497,7 +497,7 @@
           "group": "Group H",
           "stadium": {
             "key": "pantanal",
-            "name": "Pantanal",
+            "name": "Arena Pantanal",
             "city": "Cuiabá"
           }
         },
@@ -527,7 +527,7 @@
           "group": "Group A",
           "stadium": {
             "key": "castelao",
-            "name": "Castelão",
+            "name": "Estádio Castelão",
             "city": "Fortaleza"
           }
         }
@@ -562,7 +562,7 @@
           "group": "Group A",
           "stadium": {
             "key": "amazonia",
-            "name": "Amazônia",
+            "name": "Arena Amazônia",
             "city": "Manaus"
           }
         },
@@ -592,7 +592,7 @@
           "group": "Group B",
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         },
@@ -622,7 +622,7 @@
           "group": "Group B",
           "stadium": {
             "key": "beirario",
-            "name": "Beira-Rio",
+            "name": "Estádio Beira-Rio",
             "city": "Porto Alegre"
           }
         }
@@ -657,7 +657,7 @@
           "group": "Group C",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         },
@@ -713,7 +713,7 @@
           "group": "Group D",
           "stadium": {
             "key": "corinthians",
-            "name": "Corinthians",
+            "name": "Arena Corinthians",
             "city": "São Paulo"
           }
         }
@@ -748,7 +748,7 @@
           "group": "Group D",
           "stadium": {
             "key": "pernambuco",
-            "name": "Pernambuco",
+            "name": "Arena Pernambuco",
             "city": "Recife"
           }
         },
@@ -778,7 +778,7 @@
           "group": "Group E",
           "stadium": {
             "key": "fontenova",
-            "name": "Fonte Nova",
+            "name": "Arena Fonte Nova",
             "city": "Salvador"
           }
         },
@@ -808,7 +808,7 @@
           "group": "Group E",
           "stadium": {
             "key": "dabaixada",
-            "name": "Da Baixada",
+            "name": "Arena da Baixada",
             "city": "Curitiba"
           }
         }
@@ -843,7 +843,7 @@
           "group": "Group F",
           "stadium": {
             "key": "mineirao",
-            "name": "Mineirão",
+            "name": "Estádio Mineirão",
             "city": "Belo Horizonte"
           }
         },
@@ -873,7 +873,7 @@
           "group": "Group F",
           "stadium": {
             "key": "pantanal",
-            "name": "Pantanal",
+            "name": "Arena Pantanal",
             "city": "Cuiabá"
           }
         },
@@ -903,7 +903,7 @@
           "group": "Group G",
           "stadium": {
             "key": "castelao",
-            "name": "Castelão",
+            "name": "Estádio Castelão",
             "city": "Fortaleza"
           }
         }
@@ -938,7 +938,7 @@
           "group": "Group G",
           "stadium": {
             "key": "amazonia",
-            "name": "Amazônia",
+            "name": "Arena Amazônia",
             "city": "Manaus"
           }
         },
@@ -968,7 +968,7 @@
           "group": "Group H",
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         },
@@ -998,7 +998,7 @@
           "group": "Group H",
           "stadium": {
             "key": "beirario",
-            "name": "Beira-Rio",
+            "name": "Estádio Beira-Rio",
             "city": "Porto Alegre"
           }
         }
@@ -1033,7 +1033,7 @@
           "group": "Group A",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         },
@@ -1063,7 +1063,7 @@
           "group": "Group A",
           "stadium": {
             "key": "pernambuco",
-            "name": "Pernambuco",
+            "name": "Arena Pernambuco",
             "city": "Recife"
           }
         },
@@ -1093,7 +1093,7 @@
           "group": "Group B",
           "stadium": {
             "key": "dabaixada",
-            "name": "Da Baixada",
+            "name": "Arena da Baixada",
             "city": "Curitiba"
           }
         },
@@ -1123,7 +1123,7 @@
           "group": "Group B",
           "stadium": {
             "key": "corinthians",
-            "name": "Corinthians",
+            "name": "Arena Corinthians",
             "city": "São Paulo"
           }
         }
@@ -1158,7 +1158,7 @@
           "group": "Group C",
           "stadium": {
             "key": "pantanal",
-            "name": "Pantanal",
+            "name": "Arena Pantanal",
             "city": "Cuiabá"
           }
         },
@@ -1188,7 +1188,7 @@
           "group": "Group C",
           "stadium": {
             "key": "castelao",
-            "name": "Castelão",
+            "name": "Estádio Castelão",
             "city": "Fortaleza"
           }
         },
@@ -1244,7 +1244,7 @@
           "group": "Group D",
           "stadium": {
             "key": "mineirao",
-            "name": "Mineirão",
+            "name": "Estádio Mineirão",
             "city": "Belo Horizonte"
           }
         }
@@ -1279,7 +1279,7 @@
           "group": "Group E",
           "stadium": {
             "key": "amazonia",
-            "name": "Amazônia",
+            "name": "Arena Amazônia",
             "city": "Manaus"
           }
         },
@@ -1309,7 +1309,7 @@
           "group": "Group E",
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         },
@@ -1339,7 +1339,7 @@
           "group": "Group F",
           "stadium": {
             "key": "beirario",
-            "name": "Beira-Rio",
+            "name": "Estádio Beira-Rio",
             "city": "Porto Alegre"
           }
         },
@@ -1369,7 +1369,7 @@
           "group": "Group F",
           "stadium": {
             "key": "fontenova",
-            "name": "Fonte Nova",
+            "name": "Arena Fonte Nova",
             "city": "Salvador"
           }
         }
@@ -1404,7 +1404,7 @@
           "group": "Group G",
           "stadium": {
             "key": "pernambuco",
-            "name": "Pernambuco",
+            "name": "Arena Pernambuco",
             "city": "Recife"
           }
         },
@@ -1434,7 +1434,7 @@
           "group": "Group G",
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         },
@@ -1464,7 +1464,7 @@
           "group": "Group H",
           "stadium": {
             "key": "corinthians",
-            "name": "Corinthians",
+            "name": "Arena Corinthians",
             "city": "São Paulo"
           }
         },
@@ -1494,7 +1494,7 @@
           "group": "Group H",
           "stadium": {
             "key": "dabaixada",
-            "name": "Da Baixada",
+            "name": "Arena da Baixada",
             "city": "Curitiba"
           }
         }
@@ -1529,7 +1529,7 @@
           "group": null,
           "stadium": {
             "key": "mineirao",
-            "name": "Mineirão",
+            "name": "Estádio Mineirão",
             "city": "Belo Horizonte"
           }
         },
@@ -1559,7 +1559,7 @@
           "group": null,
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         },
@@ -1589,7 +1589,7 @@
           "group": null,
           "stadium": {
             "key": "castelao",
-            "name": "Castelão",
+            "name": "Estádio Castelão",
             "city": "Fortaleza"
           }
         },
@@ -1619,7 +1619,7 @@
           "group": null,
           "stadium": {
             "key": "pernambuco",
-            "name": "Pernambuco",
+            "name": "Arena Pernambuco",
             "city": "Recife"
           }
         },
@@ -1649,7 +1649,7 @@
           "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         },
@@ -1679,7 +1679,7 @@
           "group": null,
           "stadium": {
             "key": "beirario",
-            "name": "Beira-Rio",
+            "name": "Estádio Beira-Rio",
             "city": "Porto Alegre"
           }
         },
@@ -1709,7 +1709,7 @@
           "group": null,
           "stadium": {
             "key": "corinthians",
-            "name": "Corinthians",
+            "name": "Arena Corinthians",
             "city": "São Paulo"
           }
         },
@@ -1739,7 +1739,7 @@
           "group": null,
           "stadium": {
             "key": "fontenova",
-            "name": "Fonte Nova",
+            "name": "Arena Fonte Nova",
             "city": "Salvador"
           }
         }
@@ -1774,7 +1774,7 @@
           "group": null,
           "stadium": {
             "key": "castelao",
-            "name": "Castelão",
+            "name": "Estádio Castelão",
             "city": "Fortaleza"
           }
         },
@@ -1804,7 +1804,7 @@
           "group": null,
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         },
@@ -1834,7 +1834,7 @@
           "group": null,
           "stadium": {
             "key": "fontenova",
-            "name": "Fonte Nova",
+            "name": "Arena Fonte Nova",
             "city": "Salvador"
           }
         },
@@ -1864,7 +1864,7 @@
           "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         }
@@ -1899,7 +1899,7 @@
           "group": null,
           "stadium": {
             "key": "mineirao",
-            "name": "Mineirão",
+            "name": "Estádio Mineirão",
             "city": "Belo Horizonte"
           }
         },
@@ -1929,7 +1929,7 @@
           "group": null,
           "stadium": {
             "key": "corinthians",
-            "name": "Corinthians",
+            "name": "Arena Corinthians",
             "city": "São Paulo"
           }
         }
@@ -1964,7 +1964,7 @@
           "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
-            "name": "Nacional de Brasília",
+            "name": "Estádio Nacional (Mané Garrincha)",
             "city": "Brasília"
           }
         }
@@ -1999,7 +1999,7 @@
           "group": null,
           "stadium": {
             "key": "maracana",
-            "name": "Maracanã",
+            "name": "Estádio do Maracanã",
             "city": "Rio de Janeiro"
           }
         }
