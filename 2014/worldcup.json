@@ -20,18 +20,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "corinthians",
             "name": "Arena Corinthians"
           },
           "city": "São Paulo",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -54,15 +49,7 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
-          "group": "Group A",
-          "stadium": null,
-          "city": null,
-          "timezone": "?"
+          "group": "Group A"
         },
         {
           "num": 3,
@@ -80,18 +67,13 @@
           "score2": 5,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "fontenova",
             "name": "Arena Fonte Nova"
           },
           "city": "Salvador",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 4,
@@ -109,18 +91,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "pantanal",
             "name": "Arena Pantanal"
           },
           "city": "Cuiabá",
-          "timezone": "?"
+          "timezone": "UTC-4"
         }
       ]
     },
@@ -143,18 +120,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "mineirao",
             "name": "Estádio Mineirão"
           },
           "city": "Belo Horizonte",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 6,
@@ -172,18 +144,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "pernambuco",
             "name": "Arena Pernambuco"
           },
           "city": "Recife",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 7,
@@ -201,18 +168,13 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "castelao",
             "name": "Estádio Castelão"
           },
           "city": "Fortaleza",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 8,
@@ -230,18 +192,13 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "amazonia",
             "name": "Arena Amazônia"
           },
           "city": "Manaus",
-          "timezone": "?"
+          "timezone": "UTC-4"
         }
       ]
     },
@@ -264,18 +221,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 10,
@@ -293,18 +245,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "beirario",
             "name": "Estádio Beira-Rio"
           },
           "city": "Porto Alegre",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 11,
@@ -322,18 +269,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -356,18 +298,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "dabaixada",
             "name": "Arena da Baixada"
           },
           "city": "Curitiba",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 13,
@@ -385,18 +322,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "fontenova",
             "name": "Arena Fonte Nova"
           },
           "city": "Salvador",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 14,
@@ -414,15 +346,7 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
-          "group": "Group G",
-          "stadium": null,
-          "city": null,
-          "timezone": "?"
+          "group": "Group G"
         }
       ]
     },
@@ -445,18 +369,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "mineirao",
             "name": "Estádio Mineirão"
           },
           "city": "Belo Horizonte",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 16,
@@ -474,18 +393,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "pantanal",
             "name": "Arena Pantanal"
           },
           "city": "Cuiabá",
-          "timezone": "?"
+          "timezone": "UTC-4"
         },
         {
           "num": 17,
@@ -503,18 +417,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "castelao",
             "name": "Estádio Castelão"
           },
           "city": "Fortaleza",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -537,18 +446,13 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "amazonia",
             "name": "Arena Amazônia"
           },
           "city": "Manaus",
-          "timezone": "?"
+          "timezone": "UTC-4"
         },
         {
           "num": 19,
@@ -566,18 +470,13 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 20,
@@ -595,18 +494,13 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "beirario",
             "name": "Estádio Beira-Rio"
           },
           "city": "Porto Alegre",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -629,18 +523,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 22,
@@ -658,15 +547,7 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
-          "group": "Group C",
-          "stadium": null,
-          "city": null,
-          "timezone": "?"
+          "group": "Group C"
         },
         {
           "num": 23,
@@ -684,18 +565,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "corinthians",
             "name": "Arena Corinthians"
           },
           "city": "São Paulo",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -718,18 +594,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "pernambuco",
             "name": "Arena Pernambuco"
           },
           "city": "Recife",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 25,
@@ -747,18 +618,13 @@
           "score2": 5,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "fontenova",
             "name": "Arena Fonte Nova"
           },
           "city": "Salvador",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 26,
@@ -776,18 +642,13 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "dabaixada",
             "name": "Arena da Baixada"
           },
           "city": "Curitiba",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -810,18 +671,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "mineirao",
             "name": "Estádio Mineirão"
           },
           "city": "Belo Horizonte",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 28,
@@ -839,18 +695,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "pantanal",
             "name": "Arena Pantanal"
           },
           "city": "Cuiabá",
-          "timezone": "?"
+          "timezone": "UTC-4"
         },
         {
           "num": 29,
@@ -868,18 +719,13 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "castelao",
             "name": "Estádio Castelão"
           },
           "city": "Fortaleza",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -902,18 +748,13 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "amazonia",
             "name": "Arena Amazônia"
           },
           "city": "Manaus",
-          "timezone": "?"
+          "timezone": "UTC-4"
         },
         {
           "num": 31,
@@ -931,18 +772,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 32,
@@ -960,18 +796,13 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "beirario",
             "name": "Estádio Beira-Rio"
           },
           "city": "Porto Alegre",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -994,18 +825,13 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 34,
@@ -1023,18 +849,13 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "pernambuco",
             "name": "Arena Pernambuco"
           },
           "city": "Recife",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 35,
@@ -1052,18 +873,13 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "dabaixada",
             "name": "Arena da Baixada"
           },
           "city": "Curitiba",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 36,
@@ -1081,18 +897,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "corinthians",
             "name": "Arena Corinthians"
           },
           "city": "São Paulo",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1115,18 +926,13 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "pantanal",
             "name": "Arena Pantanal"
           },
           "city": "Cuiabá",
-          "timezone": "?"
+          "timezone": "UTC-4"
         },
         {
           "num": 38,
@@ -1144,18 +950,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "castelao",
             "name": "Estádio Castelão"
           },
           "city": "Fortaleza",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 39,
@@ -1173,15 +974,7 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
-          "group": "Group D",
-          "stadium": null,
-          "city": null,
-          "timezone": "?"
+          "group": "Group D"
         },
         {
           "num": 40,
@@ -1199,18 +992,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "mineirao",
             "name": "Estádio Mineirão"
           },
           "city": "Belo Horizonte",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1233,18 +1021,13 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "amazonia",
             "name": "Arena Amazônia"
           },
           "city": "Manaus",
-          "timezone": "?"
+          "timezone": "UTC-4"
         },
         {
           "num": 42,
@@ -1262,18 +1045,13 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 43,
@@ -1291,18 +1069,13 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "beirario",
             "name": "Estádio Beira-Rio"
           },
           "city": "Porto Alegre",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 44,
@@ -1320,18 +1093,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "fontenova",
             "name": "Arena Fonte Nova"
           },
           "city": "Salvador",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1354,18 +1122,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "pernambuco",
             "name": "Arena Pernambuco"
           },
           "city": "Recife",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 46,
@@ -1383,18 +1146,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 47,
@@ -1412,18 +1170,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "corinthians",
             "name": "Arena Corinthians"
           },
           "city": "São Paulo",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 48,
@@ -1441,18 +1194,13 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "dabaixada",
             "name": "Arena da Baixada"
           },
           "city": "Curitiba",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1480,13 +1228,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "mineirao",
             "name": "Estádio Mineirão"
           },
           "city": "Belo Horizonte",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 50,
@@ -1509,13 +1256,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 51,
@@ -1538,13 +1284,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "castelao",
             "name": "Estádio Castelão"
           },
           "city": "Fortaleza",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 52,
@@ -1567,13 +1312,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "pernambuco",
             "name": "Arena Pernambuco"
           },
           "city": "Recife",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 53,
@@ -1596,13 +1340,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 54,
@@ -1625,13 +1368,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "beirario",
             "name": "Estádio Beira-Rio"
           },
           "city": "Porto Alegre",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 55,
@@ -1654,13 +1396,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "corinthians",
             "name": "Arena Corinthians"
           },
           "city": "São Paulo",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 56,
@@ -1683,13 +1424,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "fontenova",
             "name": "Arena Fonte Nova"
           },
           "city": "Salvador",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1717,13 +1457,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "castelao",
             "name": "Estádio Castelão"
           },
           "city": "Fortaleza",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 58,
@@ -1746,13 +1485,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 59,
@@ -1775,13 +1513,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "fontenova",
             "name": "Arena Fonte Nova"
           },
           "city": "Salvador",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 60,
@@ -1804,13 +1541,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1838,13 +1574,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "mineirao",
             "name": "Estádio Mineirão"
           },
           "city": "Belo Horizonte",
-          "timezone": "?"
+          "timezone": "UTC-3"
         },
         {
           "num": 62,
@@ -1867,13 +1602,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "corinthians",
             "name": "Arena Corinthians"
           },
           "city": "São Paulo",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1901,13 +1635,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "nacionaldebrasilia",
             "name": "Estádio Nacional (Mané Garrincha)"
           },
           "city": "Brasília",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     },
@@ -1935,13 +1668,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "group": null,
           "stadium": {
             "key": "maracana",
             "name": "Estádio do Maracanã"
           },
           "city": "Rio de Janeiro",
-          "timezone": "?"
+          "timezone": "UTC-3"
         }
       ]
     }

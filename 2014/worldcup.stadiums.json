@@ -6,84 +6,84 @@
       "name": "Estádio do Maracanã",
       "capacity": 76935,
       "city": "Rio de Janeiro",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "nacionaldebrasilia",
       "name": "Estádio Nacional (Mané Garrincha)",
       "capacity": 70042,
       "city": "Brasília",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "corinthians",
       "name": "Arena Corinthians",
       "capacity": 68000,
       "city": "São Paulo",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "castelao",
       "name": "Estádio Castelão",
       "capacity": 64846,
       "city": "Fortaleza",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "mineirao",
       "name": "Estádio Mineirão",
       "capacity": 62547,
       "city": "Belo Horizonte",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "fontenova",
       "name": "Arena Fonte Nova",
       "capacity": 56000,
       "city": "Salvador",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "pantanal",
       "name": "Arena Pantanal",
       "capacity": 42968,
       "city": "Cuiabá",
-      "timezone": "?"
+      "timezone": "UTC-4"
     },
     {
       "key": "amazonia",
       "name": "Arena Amazônia",
       "capacity": 42374,
       "city": "Manaus",
-      "timezone": "?"
+      "timezone": "UTC-4"
     },
     {
       "key": "dasdunas",
       "name": "Arena das Dunas",
       "capacity": 42086,
       "city": "Natal",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "beirario",
       "name": "Estádio Beira-Rio",
       "capacity": 51300,
       "city": "Porto Alegre",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "pernambuco",
       "name": "Arena Pernambuco",
       "capacity": 46154,
       "city": "Recife",
-      "timezone": "?"
+      "timezone": "UTC-3"
     },
     {
       "key": "dabaixada",
       "name": "Arena da Baixada",
       "capacity": 43981,
       "city": "Curitiba",
-      "timezone": "?"
+      "timezone": "UTC-3"
     }
   ]
 }

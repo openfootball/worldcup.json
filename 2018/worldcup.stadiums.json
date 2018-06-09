@@ -6,84 +6,84 @@
       "name": "Samara Arena",
       "capacity": 45000,
       "city": "Samara",
-      "timezone": "?"
+      "timezone": "UTC+4"
     },
     {
       "key": "nizhnynovgorod",
       "name": "Nizhny Novgorod Stadium",
       "capacity": 45000,
       "city": "Nizhny Novgorod",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "volgograd",
       "name": "Volgograd Arena",
       "capacity": 45000,
       "city": "Volgograd",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "ekaterinburg",
       "name": "Ekaterinburg Arena",
       "capacity": 35000,
       "city": "Ekaterinburg",
-      "timezone": "?"
+      "timezone": "UTC+5"
     },
     {
       "key": "mordovia",
       "name": "Mordovia Arena",
       "capacity": 44000,
       "city": "Saransk",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "rostov",
       "name": "Rostov Arena",
       "capacity": 45000,
       "city": "Rostov-on-Don",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "kaliningrad",
       "name": "Kaliningrad Stadium",
       "capacity": 35000,
       "city": "Kaliningrad",
-      "timezone": "?"
+      "timezone": "UTC+2"
     },
     {
       "key": "kazan",
       "name": "Kazan Arena",
       "capacity": 45000,
       "city": "Kazan",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "fisht",
       "name": "Fisht Stadium",
       "capacity": 45000,
       "city": "Sochi",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "saintpetersburg",
       "name": "Saint Petersburg Stadium",
       "capacity": 67000,
       "city": "Saint Petersburg",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "spartak",
       "name": "Spartak Stadium",
       "capacity": 45000,
       "city": "Moscow",
-      "timezone": "?"
+      "timezone": "UTC+3"
     },
     {
       "key": "luzhniki",
       "name": "Luzhniki Stadium",
       "capacity": 80000,
       "city": "Moscow",
-      "timezone": "?"
+      "timezone": "UTC+3"
     }
   ]
 }

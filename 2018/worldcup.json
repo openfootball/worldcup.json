@@ -20,18 +20,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "luzhniki",
             "name": "Luzhniki Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -54,18 +49,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "ekaterinburg",
             "name": "Ekaterinburg Arena"
           },
           "city": "Ekaterinburg",
-          "timezone": "?"
+          "timezone": "UTC+5"
         },
         {
           "num": 3,
@@ -83,18 +73,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "fisht",
             "name": "Fisht Stadium"
           },
           "city": "Sochi",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 4,
@@ -112,18 +97,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "saintpetersburg",
             "name": "Saint Petersburg Stadium"
           },
           "city": "Saint Petersburg",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -146,18 +126,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "kazan",
             "name": "Kazan Arena"
           },
           "city": "Kazan",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 6,
@@ -175,18 +150,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "mordovia",
             "name": "Mordovia Arena"
           },
           "city": "Saransk",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 7,
@@ -204,18 +174,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "spartak",
             "name": "Spartak Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 8,
@@ -233,18 +198,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "kaliningrad",
             "name": "Kaliningrad Stadium"
           },
           "city": "Kaliningrad",
-          "timezone": "?"
+          "timezone": "UTC+2"
         }
       ]
     },
@@ -267,18 +227,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "rostov",
             "name": "Rostov Arena"
           },
           "city": "Rostov-on-Don",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 10,
@@ -296,18 +251,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "samara",
             "name": "Samara Arena"
           },
           "city": "Samara",
-          "timezone": "?"
+          "timezone": "UTC+4"
         },
         {
           "num": 11,
@@ -325,18 +275,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "luzhniki",
             "name": "Luzhniki Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -359,18 +304,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "nizhnynovgorod",
             "name": "Nizhny Novgorod Stadium"
           },
           "city": "Nizhny Novgorod",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 13,
@@ -388,18 +328,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "fisht",
             "name": "Fisht Stadium"
           },
           "city": "Sochi",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 14,
@@ -417,18 +352,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "volgograd",
             "name": "Volgograd Arena"
           },
           "city": "Volgograd",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -451,18 +381,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "spartak",
             "name": "Spartak Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 16,
@@ -480,18 +405,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "mordovia",
             "name": "Mordovia Arena"
           },
           "city": "Saransk",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 17,
@@ -509,18 +429,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "saintpetersburg",
             "name": "Saint Petersburg Stadium"
           },
           "city": "Saint Petersburg",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -543,18 +458,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "rostov",
             "name": "Rostov Arena"
           },
           "city": "Rostov-on-Don",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 19,
@@ -572,18 +482,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "luzhniki",
             "name": "Luzhniki Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 20,
@@ -601,18 +506,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "kazan",
             "name": "Kazan Arena"
           },
           "city": "Kazan",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -635,18 +535,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "ekaterinburg",
             "name": "Ekaterinburg Arena"
           },
           "city": "Ekaterinburg",
-          "timezone": "?"
+          "timezone": "UTC+5"
         },
         {
           "num": 22,
@@ -664,18 +559,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "samara",
             "name": "Samara Arena"
           },
           "city": "Samara",
-          "timezone": "?"
+          "timezone": "UTC+4"
         },
         {
           "num": 23,
@@ -693,18 +583,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "nizhnynovgorod",
             "name": "Nizhny Novgorod Stadium"
           },
           "city": "Nizhny Novgorod",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -727,18 +612,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "volgograd",
             "name": "Volgograd Arena"
           },
           "city": "Volgograd",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 25,
@@ -756,18 +636,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "saintpetersburg",
             "name": "Saint Petersburg Stadium"
           },
           "city": "Saint Petersburg",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 26,
@@ -785,18 +660,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "kaliningrad",
             "name": "Kaliningrad Stadium"
           },
           "city": "Kaliningrad",
-          "timezone": "?"
+          "timezone": "UTC+2"
         }
       ]
     },
@@ -819,18 +689,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "fisht",
             "name": "Fisht Stadium"
           },
           "city": "Sochi",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 28,
@@ -848,18 +713,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "rostov",
             "name": "Rostov Arena"
           },
           "city": "Rostov-on-Don",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 29,
@@ -877,18 +737,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "spartak",
             "name": "Spartak Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -911,18 +766,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "nizhnynovgorod",
             "name": "Nizhny Novgorod Stadium"
           },
           "city": "Nizhny Novgorod",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 31,
@@ -940,18 +790,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "kazan",
             "name": "Kazan Arena"
           },
           "city": "Kazan",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 32,
@@ -969,18 +814,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "ekaterinburg",
             "name": "Ekaterinburg Arena"
           },
           "city": "Ekaterinburg",
-          "timezone": "?"
+          "timezone": "UTC+5"
         }
       ]
     },
@@ -1003,18 +843,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "samara",
             "name": "Samara Arena"
           },
           "city": "Samara",
-          "timezone": "?"
+          "timezone": "UTC+4"
         },
         {
           "num": 34,
@@ -1032,18 +867,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group A",
           "stadium": {
             "key": "volgograd",
             "name": "Volgograd Arena"
           },
           "city": "Volgograd",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 35,
@@ -1061,18 +891,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "mordovia",
             "name": "Mordovia Arena"
           },
           "city": "Saransk",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 36,
@@ -1090,18 +915,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group B",
           "stadium": {
             "key": "kaliningrad",
             "name": "Kaliningrad Stadium"
           },
           "city": "Kaliningrad",
-          "timezone": "?"
+          "timezone": "UTC+2"
         }
       ]
     },
@@ -1124,18 +944,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "luzhniki",
             "name": "Luzhniki Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 38,
@@ -1153,18 +968,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group C",
           "stadium": {
             "key": "fisht",
             "name": "Fisht Stadium"
           },
           "city": "Sochi",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 39,
@@ -1182,18 +992,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "saintpetersburg",
             "name": "Saint Petersburg Stadium"
           },
           "city": "Saint Petersburg",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 40,
@@ -1211,18 +1016,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group D",
           "stadium": {
             "key": "rostov",
             "name": "Rostov Arena"
           },
           "city": "Rostov-on-Don",
-          "timezone": "?"
+          "timezone": "UTC+3"
         }
       ]
     },
@@ -1245,18 +1045,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "spartak",
             "name": "Spartak Stadium"
           },
           "city": "Moscow",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 42,
@@ -1274,18 +1069,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group E",
           "stadium": {
             "key": "nizhnynovgorod",
             "name": "Nizhny Novgorod Stadium"
           },
           "city": "Nizhny Novgorod",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 43,
@@ -1303,18 +1093,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "kazan",
             "name": "Kazan Arena"
           },
           "city": "Kazan",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 44,
@@ -1332,18 +1117,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group F",
           "stadium": {
             "key": "ekaterinburg",
             "name": "Ekaterinburg Arena"
           },
           "city": "Ekaterinburg",
-          "timezone": "?"
+          "timezone": "UTC+5"
         }
       ]
     },
@@ -1366,18 +1146,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "kaliningrad",
             "name": "Kaliningrad Stadium"
           },
           "city": "Kaliningrad",
-          "timezone": "?"
+          "timezone": "UTC+2"
         },
         {
           "num": 46,
@@ -1395,18 +1170,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group G",
           "stadium": {
             "key": "mordovia",
             "name": "Mordovia Arena"
           },
           "city": "Saransk",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 47,
@@ -1424,18 +1194,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "volgograd",
             "name": "Volgograd Arena"
           },
           "city": "Volgograd",
-          "timezone": "?"
+          "timezone": "UTC+3"
         },
         {
           "num": 48,
@@ -1453,18 +1218,13 @@
           "score2": null,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
-          "score1p": null,
-          "score2p": null,
-          "knockout": false,
           "group": "Group H",
           "stadium": {
             "key": "samara",
             "name": "Samara Arena"
           },
           "city": "Samara",
-          "timezone": "?"
+          "timezone": "UTC+4"
         }
       ]
     },
