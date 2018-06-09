@@ -8,9 +8,10 @@
       "assoc": {
         "key": "alg",
         "name": "Fédération Algérienne de Football",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confédération Africaine de Football (CAF)",
+          "code": "CAF"
+        }
       }
     },
     {
@@ -20,9 +21,10 @@
       "assoc": {
         "key": "civ",
         "name": "Fédération Ivoirienne de Football",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confédération Africaine de Football (CAF)",
+          "code": "CAF"
+        }
       }
     },
     {
@@ -32,9 +34,10 @@
       "assoc": {
         "key": "gha",
         "name": "Ghana Football Association",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confédération Africaine de Football (CAF)",
+          "code": "CAF"
+        }
       }
     },
     {
@@ -44,9 +47,10 @@
       "assoc": {
         "key": "nga",
         "name": "Nigeria Football Federation",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confédération Africaine de Football (CAF)",
+          "code": "CAF"
+        }
       }
     },
     {
@@ -56,9 +60,10 @@
       "assoc": {
         "key": "cmr",
         "name": "Fédération Camerounaise de Football",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confédération Africaine de Football (CAF)",
+          "code": "CAF"
+        }
       }
     },
     {
@@ -68,9 +73,10 @@
       "assoc": {
         "key": "jpn",
         "name": "Japan Football Association",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Asian Football Confederation (AFC)",
+          "code": "AFC"
+        }
       }
     },
     {
@@ -80,9 +86,10 @@
       "assoc": {
         "key": "kor",
         "name": "Korea Football Association",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Asian Football Confederation (AFC)",
+          "code": "AFC"
+        }
       }
     },
     {
@@ -92,9 +99,10 @@
       "assoc": {
         "key": "hon",
         "name": "Federación Nacional Autónoma de Fútbol de Honduras",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+          "code": "CONCACAF"
+        }
       }
     },
     {
@@ -104,9 +112,10 @@
       "assoc": {
         "key": "crc",
         "name": "Federación Costarricense de Fútbol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+          "code": "CONCACAF"
+        }
       }
     },
     {
@@ -116,9 +125,10 @@
       "assoc": {
         "key": "bel",
         "name": "Koninklijke Belgische Voetbalbond",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -128,9 +138,10 @@
       "assoc": {
         "key": "ger",
         "name": "Deutscher Fußball-Bund",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -140,9 +151,10 @@
       "assoc": {
         "key": "esp",
         "name": "Real Federación Española de Fútbol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -152,9 +164,10 @@
       "assoc": {
         "key": "fra",
         "name": "Fédération Française de Football",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -164,9 +177,10 @@
       "assoc": {
         "key": "gre",
         "name": "Hellenic Football Federation",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -176,9 +190,10 @@
       "assoc": {
         "key": "ita",
         "name": "Federazione Italiana Giuoco Calcio",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -188,9 +203,10 @@
       "assoc": {
         "key": "bon",
         "name": "Bonaire Football Federation",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+          "code": "CONCACAF"
+        }
       }
     },
     {
@@ -200,9 +216,10 @@
       "assoc": {
         "key": "por",
         "name": "Federação Portuguesa de Futebol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -212,9 +229,10 @@
       "assoc": {
         "key": "sui",
         "name": "Association Suisse de Football",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -224,9 +242,10 @@
       "assoc": {
         "key": "cro",
         "name": "Hrvatski Nogometni Savez",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -236,9 +255,10 @@
       "assoc": {
         "key": "rus",
         "name": "Russian Football Union",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
@@ -248,17 +268,16 @@
       "assoc": {
         "key": "bih",
         "name": "Nogometni/Fudbalski Savez Bosne i Hercegovine",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Union of European Football Associations (UEFA)",
+          "code": "UEFA"
+        }
       }
     },
     {
       "name": "England",
       "code": "ENG",
-      "continent": "Europe",
-      "assoc": {
-      }
+      "continent": "Europe"
     },
     {
       "name": "Iran",
@@ -267,9 +286,10 @@
       "assoc": {
         "key": "irn",
         "name": "Football Federation Islamic Republic of Iran",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Asian Football Confederation (AFC)",
+          "code": "AFC"
+        }
       }
     },
     {
@@ -279,9 +299,10 @@
       "assoc": {
         "key": "mex",
         "name": "Federación Mexicana de Fútbol Asociación",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+          "code": "CONCACAF"
+        }
       }
     },
     {
@@ -291,9 +312,10 @@
       "assoc": {
         "key": "usa",
         "name": "United States Soccer Federation",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+          "code": "CONCACAF"
+        }
       }
     },
     {
@@ -303,9 +325,10 @@
       "assoc": {
         "key": "aus",
         "name": "Football Federation Australia",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Asian Football Confederation (AFC)",
+          "code": "AFC"
+        }
       }
     },
     {
@@ -315,9 +338,10 @@
       "assoc": {
         "key": "arg",
         "name": "Asociación del Fútbol Argentino",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
       }
     },
     {
@@ -327,9 +351,10 @@
       "assoc": {
         "key": "bra",
         "name": "Confederação Brasileira de Futebol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
       }
     },
     {
@@ -339,9 +364,10 @@
       "assoc": {
         "key": "chi",
         "name": "Federación de Fútbol de Chile",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
       }
     },
     {
@@ -351,9 +377,10 @@
       "assoc": {
         "key": "uru",
         "name": "Asociación Uruguaya de Fútbol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
       }
     },
     {
@@ -363,9 +390,10 @@
       "assoc": {
         "key": "col",
         "name": "Federación Colombiana de Fútbol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
       }
     },
     {
@@ -375,9 +403,10 @@
       "assoc": {
         "key": "ecu",
         "name": "Federación Ecuatoriana de Fútbol",
-        "parents": [
-
-        ]
+        "continental": {
+          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+          "code": "CONMEBOL"
+        }
       }
     }
   ]
