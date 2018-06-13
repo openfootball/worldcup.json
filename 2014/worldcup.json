@@ -20,34 +20,15 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Marcelo",
-              "team": {
-                "name": "Croatia",
-                "code": "CRO"
-              },
-              "minute": 11,
-              "score1": 0,
-              "score2": 1,
-              "owngoal": true
-            },
+          "goals1": [
             {
               "name": "Neymar",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 29,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Neymar",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 71,
               "score1": 2,
               "score2": 1,
@@ -55,14 +36,19 @@
             },
             {
               "name": "Oscar",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 90,
               "offset": 1,
               "score1": 3,
               "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Marcelo",
+              "minute": 11,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
             }
           ],
           "group": "Group A",
@@ -94,17 +80,16 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Oribe Peralta",
-              "team": {
-                "name": "Mexico",
-                "code": "MEX"
-              },
               "minute": 61,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group A"
         },
@@ -124,64 +109,42 @@
           "score2": 5,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Xabi Alonso",
-              "team": {
-                "name": "Spain",
-                "code": "ESP"
-              },
               "minute": 27,
               "score1": 1,
               "score2": 0,
               "penalty": true
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Robin Van Persie",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 44,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Arjen Robben",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 53,
               "score1": 1,
               "score2": 2
             },
             {
               "name": "Stefan De Vrij",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 65,
               "score1": 1,
               "score2": 3
             },
             {
               "name": "Robin Van Persie",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 72,
               "score1": 1,
               "score2": 4
             },
             {
               "name": "Arjen Robben",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 80,
               "score1": 1,
               "score2": 5
@@ -211,46 +174,32 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Alexis Sánchez",
-              "team": {
-                "name": "Chile",
-                "code": "CHI"
-              },
               "minute": 12,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Jorge Valdívia",
-              "team": {
-                "name": "Chile",
-                "code": "CHI"
-              },
               "minute": 14,
               "score1": 2,
               "score2": 0
             },
             {
-              "name": "Cahill",
-              "team": {
-                "name": "Australia",
-                "code": "AUS"
-              },
-              "minute": 35,
-              "score1": 2,
-              "score2": 1
-            },
-            {
               "name": "Jean Beausejour",
-              "team": {
-                "name": "Chile",
-                "code": "CHI"
-              },
               "minute": 90,
               "offset": 2,
               "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Cahill",
+              "minute": 35,
+              "score1": 2,
               "score2": 1
             }
           ],
@@ -283,38 +232,29 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Pablo Armero",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 5,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Teofilo Gutiérrez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 58,
               "score1": 2,
               "score2": 0
             },
             {
               "name": "James Rodríguez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 90,
               "offset": 3,
               "score1": 3,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group C",
           "stadium": {
@@ -340,35 +280,25 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Keisuke Honda",
-              "team": {
-                "name": "Japan",
-                "code": "JPN"
-              },
-              "minute": 16,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Wilfried Bony",
-              "team": {
-                "name": "Côte d'Ivoire",
-                "code": "CIV"
-              },
               "minute": 64,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Gervinho",
-              "team": {
-                "name": "Côte d'Ivoire",
-                "code": "CIV"
-              },
               "minute": 66,
               "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Keisuke Honda",
+              "minute": 16,
+              "score1": 0,
               "score2": 1
             }
           ],
@@ -396,44 +326,30 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Edinson Cavani",
-              "team": {
-                "name": "Uruguay",
-                "code": "URU"
-              },
               "minute": 24,
               "score1": 1,
               "score2": 0,
               "penalty": true
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Joel Campbell",
-              "team": {
-                "name": "Costa Rica",
-                "code": "CRC"
-              },
               "minute": 54,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Oscar Duarte",
-              "team": {
-                "name": "Costa Rica",
-                "code": "CRC"
-              },
               "minute": 57,
               "score1": 1,
               "score2": 2
             },
             {
               "name": "Marcos Ureña",
-              "team": {
-                "name": "Costa Rica",
-                "code": "CRC"
-              },
               "minute": 84,
               "score1": 1,
               "score2": 3
@@ -463,33 +379,23 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+            {
+              "name": "Daniel Sturridge",
+              "minute": 37,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
             {
               "name": "Claudio Marchisio",
-              "team": {
-                "name": "Italy",
-                "code": "ITA"
-              },
               "minute": 35,
               "score1": 0,
               "score2": 1
             },
             {
-              "name": "Daniel Sturridge",
-              "team": {
-                "name": "England",
-                "code": "ENG"
-              },
-              "minute": 37,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "Mario Balotelli",
-              "team": {
-                "name": "Italy",
-                "code": "ITA"
-              },
               "minute": 50,
               "score1": 1,
               "score2": 2
@@ -524,36 +430,26 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Enner Valencia",
-              "team": {
-                "name": "Ecuador",
-                "code": "ECU"
-              },
-              "minute": 22,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Admir Mehmedi",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 48,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Haris Seferović",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 90,
               "offset": 3,
               "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Enner Valencia",
+              "minute": 22,
+              "score1": 0,
               "score2": 1
             }
           ],
@@ -581,13 +477,9 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Karim Benzema",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
               "minute": 45,
               "score1": 1,
               "score2": 0,
@@ -595,10 +487,6 @@
             },
             {
               "name": "Noel Valladares",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
               "minute": 48,
               "score1": 2,
               "score2": 0,
@@ -606,14 +494,13 @@
             },
             {
               "name": "Karim Benzema",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
               "minute": 72,
               "score1": 3,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group E",
           "stadium": {
@@ -639,13 +526,9 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Sead Kolašinac",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
               "minute": 3,
               "score1": 1,
               "score2": 0,
@@ -653,20 +536,14 @@
             },
             {
               "name": "Lionel Messi",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
               "minute": 65,
               "score1": 2,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Vedad Ibišević",
-              "team": {
-                "name": "Bosnia-Herzegovina",
-                "code": "BIH"
-              },
               "minute": 85,
               "score1": 2,
               "score2": 1
@@ -725,13 +602,9 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Thomas Müller",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 12,
               "score1": 1,
               "score2": 0,
@@ -739,20 +612,12 @@
             },
             {
               "name": "Mats Hummels",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 32,
               "score1": 2,
               "score2": 0
             },
             {
               "name": "Thomas Müller",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 45,
               "offset": 1,
               "score1": 3,
@@ -760,14 +625,13 @@
             },
             {
               "name": "Thomas Müller",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 78,
               "score1": 4,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group G",
           "stadium": {
@@ -793,33 +657,23 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+            {
+              "name": "André Ayew",
+              "minute": 82,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
             {
               "name": "Clint Dempsey",
-              "team": {
-                "name": "United States",
-                "code": "USA"
-              },
               "minute": 1,
               "score1": 0,
               "score2": 1
             },
             {
-              "name": "André Ayew",
-              "team": {
-                "name": "Ghana",
-                "code": "GHA"
-              },
-              "minute": 82,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "John Brooks",
-              "team": {
-                "name": "United States",
-                "code": "USA"
-              },
               "minute": 86,
               "score1": 1,
               "score2": 2
@@ -848,37 +702,27 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Sofiane Feghouli",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
-              "minute": 25,
-              "score1": 0,
-              "score2": 1,
-              "penalty": true
-            },
+          "goals1": [
             {
               "name": "Marouane Fellaini",
-              "team": {
-                "name": "Belgium",
-                "code": "BEL"
-              },
               "minute": 70,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Dries Mertens",
-              "team": {
-                "name": "Belgium",
-                "code": "BEL"
-              },
               "minute": 80,
               "score1": 2,
               "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Sofiane Feghouli",
+              "minute": 25,
+              "score1": 0,
+              "score2": 1,
+              "penalty": true
             }
           ],
           "group": "Group H",
@@ -905,25 +749,19 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Lee Keunho",
-              "team": {
-                "name": "South Korea",
-                "code": "KOR"
-              },
-              "minute": 68,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Alexander Kerzhakov",
-              "team": {
-                "name": "Russia",
-                "code": "RUS"
-              },
               "minute": 74,
               "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Lee Keunho",
+              "minute": 68,
+              "score1": 0,
               "score2": 1
             }
           ],
@@ -980,43 +818,30 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Ivica Olić",
-              "team": {
-                "name": "Croatia",
-                "code": "CRO"
-              },
               "minute": 11,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Ivan Perišić",
-              "team": {
-                "name": "Croatia",
-                "code": "CRO"
-              },
               "minute": 48,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Mario Mandžukić",
-              "team": {
-                "name": "Croatia",
-                "code": "CRO"
-              },
               "minute": 61,
               "score1": 0,
               "score2": 3
             },
             {
               "name": "Mario Mandžukić",
-              "team": {
-                "name": "Croatia",
-                "code": "CRO"
-              },
               "minute": 73,
               "score1": 0,
               "score2": 4
@@ -1046,23 +871,18 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Eduardo Vargas",
-              "team": {
-                "name": "Chile",
-                "code": "CHI"
-              },
               "minute": 20,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Charles Aránguiz",
-              "team": {
-                "name": "Chile",
-                "code": "CHI"
-              },
               "minute": 43,
               "score1": 0,
               "score2": 2
@@ -1092,54 +912,36 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Arjen Robben",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
-              "minute": 20,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Tim Cahill",
-              "team": {
-                "name": "Australia",
-                "code": "AUS"
-              },
               "minute": 21,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Mile Jedinak",
-              "team": {
-                "name": "Australia",
-                "code": "AUS"
-              },
               "minute": 54,
               "score1": 2,
               "score2": 1,
               "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Arjen Robben",
+              "minute": 20,
+              "score1": 0,
+              "score2": 1
             },
             {
               "name": "Robin Van Persie",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 58,
               "score1": 2,
               "score2": 2
             },
             {
               "name": "Memphis Depay",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 68,
               "score1": 2,
               "score2": 3
@@ -1174,33 +976,23 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "James Rodríguez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 64,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Juan Quintero",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 70,
               "score1": 2,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Gervinho",
-              "team": {
-                "name": "Côte d'Ivoire",
-                "code": "CIV"
-              },
               "minute": 73,
               "score1": 2,
               "score2": 1
@@ -1248,35 +1040,25 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Luis Suárez",
-              "team": {
-                "name": "Uruguay",
-                "code": "URU"
-              },
               "minute": 39,
               "score1": 1,
               "score2": 0
             },
             {
-              "name": "Wayne Rooney",
-              "team": {
-                "name": "England",
-                "code": "ENG"
-              },
-              "minute": 75,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "Luis Suárez",
-              "team": {
-                "name": "Uruguay",
-                "code": "URU"
-              },
               "minute": 85,
               "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Wayne Rooney",
+              "minute": 75,
+              "score1": 1,
               "score2": 1
             }
           ],
@@ -1309,13 +1091,12 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Bryan Ruiz",
-              "team": {
-                "name": "Costa Rica",
-                "code": "CRC"
-              },
               "minute": 44,
               "score1": 0,
               "score2": 1
@@ -1345,75 +1126,49 @@
           "score2": 5,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Olivier Giroud",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
-              "minute": 17,
-              "score1": 0,
-              "score2": 1
-            },
-            {
-              "name": "Blaise Matuidi",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
-              "minute": 18,
-              "score1": 0,
-              "score2": 2
-            },
-            {
-              "name": "Mathieu Valbuena",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
-              "minute": 40,
-              "score1": 0,
-              "score2": 3
-            },
-            {
-              "name": "Karim Benzema",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
-              "minute": 67,
-              "score1": 0,
-              "score2": 4
-            },
-            {
-              "name": "Moussa Sissoko",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
-              "minute": 73,
-              "score1": 0,
-              "score2": 5
-            },
+          "goals1": [
             {
               "name": "Blerim Džemaili",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 81,
               "score1": 1,
               "score2": 5
             },
             {
               "name": "Granit Xhaka",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 87,
               "score1": 2,
+              "score2": 5
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Olivier Giroud",
+              "minute": 17,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Blaise Matuidi",
+              "minute": 18,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Mathieu Valbuena",
+              "minute": 40,
+              "score1": 0,
+              "score2": 3
+            },
+            {
+              "name": "Karim Benzema",
+              "minute": 67,
+              "score1": 0,
+              "score2": 4
+            },
+            {
+              "name": "Moussa Sissoko",
+              "minute": 73,
+              "score1": 0,
               "score2": 5
             }
           ],
@@ -1441,33 +1196,23 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Carlo Costly",
-              "team": {
-                "name": "Honduras",
-                "code": "HON"
-              },
               "minute": 31,
               "score1": 1,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Enner Valencia",
-              "team": {
-                "name": "Ecuador",
-                "code": "ECU"
-              },
               "minute": 34,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Enner Valencia",
-              "team": {
-                "name": "Ecuador",
-                "code": "ECU"
-              },
               "minute": 65,
               "score1": 1,
               "score2": 2
@@ -1502,17 +1247,16 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Lionel Messi",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
               "minute": 90,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group F",
           "stadium": {
@@ -1538,17 +1282,16 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Peter Odemwingie",
-              "team": {
-                "name": "Nigeria",
-                "code": "NGA"
-              },
               "minute": 29,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group F",
           "stadium": {
@@ -1574,45 +1317,31 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Mario Götze",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 51,
               "score1": 1,
               "score2": 0
             },
             {
+              "name": "Miroslav Klose",
+              "minute": 71,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
               "name": "André Ayew",
-              "team": {
-                "name": "Ghana",
-                "code": "GHA"
-              },
               "minute": 54,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Asamoah Gyan",
-              "team": {
-                "name": "Ghana",
-                "code": "GHA"
-              },
               "minute": 63,
               "score1": 1,
-              "score2": 2
-            },
-            {
-              "name": "Miroslav Klose",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
-              "minute": 71,
-              "score1": 2,
               "score2": 2
             }
           ],
@@ -1645,43 +1374,29 @@
           "score2": 2,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Nani",
-              "team": {
-                "name": "Portugal",
-                "code": "POR"
-              },
-              "minute": 5,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Jermaine Jones",
-              "team": {
-                "name": "United States",
-                "code": "USA"
-              },
               "minute": 64,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Clint Dempsey",
-              "team": {
-                "name": "United States",
-                "code": "USA"
-              },
               "minute": 81,
               "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Nani",
+              "minute": 5,
+              "score1": 0,
               "score2": 1
             },
             {
               "name": "Varela",
-              "team": {
-                "name": "Portugal",
-                "code": "POR"
-              },
               "minute": 90,
               "offset": 5,
               "score1": 2,
@@ -1712,17 +1427,16 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Divock Origi",
-              "team": {
-                "name": "Belgium",
-                "code": "BEL"
-              },
               "minute": 88,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group H",
           "stadium": {
@@ -1748,65 +1462,43 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+            {
+              "name": "Son Heung Min",
+              "minute": 50,
+              "score1": 1,
+              "score2": 3
+            },
+            {
+              "name": "Koo Jacheol",
+              "minute": 72,
+              "score1": 2,
+              "score2": 4
+            }
+          ],
+          "goals2": [
             {
               "name": "Islam Slimani",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
               "minute": 26,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Rafik Halliche",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
               "minute": 28,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Abdelmoumene Djabou",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
               "minute": 38,
               "score1": 0,
               "score2": 3
             },
             {
-              "name": "Son Heung Min",
-              "team": {
-                "name": "South Korea",
-                "code": "KOR"
-              },
-              "minute": 50,
-              "score1": 1,
-              "score2": 3
-            },
-            {
               "name": "Yacine Brahimi",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
               "minute": 62,
               "score1": 1,
-              "score2": 4
-            },
-            {
-              "name": "Koo Jacheol",
-              "team": {
-                "name": "South Korea",
-                "code": "KOR"
-              },
-              "minute": 72,
-              "score1": 2,
               "score2": 4
             }
           ],
@@ -1839,53 +1531,35 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+            {
+              "name": "Joel Matip",
+              "minute": 26,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
             {
               "name": "Neymar",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 17,
               "score1": 0,
               "score2": 1
             },
             {
-              "name": "Joel Matip",
-              "team": {
-                "name": "Cameroon",
-                "code": "CMR"
-              },
-              "minute": 26,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "Neymar",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 35,
               "score1": 1,
               "score2": 2
             },
             {
               "name": "Fred",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 49,
               "score1": 1,
               "score2": 3
             },
             {
               "name": "Fernandinho",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 84,
               "score1": 1,
               "score2": 4
@@ -1915,45 +1589,31 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+            {
+              "name": "Ivan Perišić",
+              "minute": 87,
+              "score1": 1,
+              "score2": 3
+            }
+          ],
+          "goals2": [
             {
               "name": "Rafael Márquez",
-              "team": {
-                "name": "Mexico",
-                "code": "MEX"
-              },
               "minute": 72,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Andres Guardado",
-              "team": {
-                "name": "Mexico",
-                "code": "MEX"
-              },
               "minute": 75,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Javier Hernández",
-              "team": {
-                "name": "Mexico",
-                "code": "MEX"
-              },
               "minute": 82,
               "score1": 0,
-              "score2": 3
-            },
-            {
-              "name": "Ivan Perišić",
-              "team": {
-                "name": "Croatia",
-                "code": "CRO"
-              },
-              "minute": 87,
-              "score1": 1,
               "score2": 3
             }
           ],
@@ -1981,33 +1641,24 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "David Villa",
-              "team": {
-                "name": "Spain",
-                "code": "ESP"
-              },
               "minute": 36,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Fernando Torres",
-              "team": {
-                "name": "Spain",
-                "code": "ESP"
-              },
               "minute": 69,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Juan Mata",
-              "team": {
-                "name": "Spain",
-                "code": "ESP"
-              },
               "minute": 82,
               "score1": 0,
               "score2": 3
@@ -2037,28 +1688,23 @@
           "score2": 0,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Leroy Fer",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 77,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Memphis Depay",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 90,
               "offset": 2,
               "score1": 2,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "group": "Group B",
           "stadium": {
@@ -2089,55 +1735,37 @@
           "score2": 4,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+            {
+              "name": "Shinji Okazaki",
+              "minute": 45,
+              "offset": 1,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
             {
               "name": "Juan Cuadrado",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 17,
               "score1": 0,
               "score2": 1,
               "penalty": true
             },
             {
-              "name": "Shinji Okazaki",
-              "team": {
-                "name": "Japan",
-                "code": "JPN"
-              },
-              "minute": 45,
-              "offset": 1,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "Jackson Martínez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 55,
               "score1": 1,
               "score2": 2
             },
             {
               "name": "Jackson Martínez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 82,
               "score1": 1,
               "score2": 3
             },
             {
               "name": "James Rodríguez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 90,
               "score1": 1,
               "score2": 4
@@ -2167,38 +1795,28 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Andreas Samaris",
-              "team": {
-                "name": "Greece",
-                "code": "GRE"
-              },
               "minute": 42,
               "score1": 1,
               "score2": 0
             },
             {
-              "name": "Wilfried Bony",
-              "team": {
-                "name": "Côte d'Ivoire",
-                "code": "CIV"
-              },
-              "minute": 74,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "Georgios Samaras",
-              "team": {
-                "name": "Greece",
-                "code": "GRE"
-              },
               "minute": 90,
               "offset": 3,
               "score1": 2,
               "score2": 1,
               "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Wilfried Bony",
+              "minute": 74,
+              "score1": 1,
+              "score2": 1
             }
           ],
           "group": "Group C",
@@ -2225,13 +1843,12 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Diego Godín",
-              "team": {
-                "name": "Uruguay",
-                "code": "URU"
-              },
               "minute": 81,
               "score1": 0,
               "score2": 1
@@ -2284,33 +1901,24 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Xherdan Shaqiri",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 6,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Xherdan Shaqiri",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 31,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Xherdan Shaqiri",
-              "team": {
-                "name": "Switzerland",
-                "code": "SUI"
-              },
               "minute": 71,
               "score1": 0,
               "score2": 3
@@ -2364,54 +1972,36 @@
           "score2": 3,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Lionel Messi",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
-              "minute": 3,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Ahmed Musa",
-              "team": {
-                "name": "Nigeria",
-                "code": "NGA"
-              },
               "minute": 4,
               "score1": 1,
               "score2": 1
             },
             {
+              "name": "Ahmed Musa",
+              "minute": 47,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
               "name": "Lionel Messi",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
+              "minute": 3,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Lionel Messi",
               "minute": 45,
               "offset": 1,
               "score1": 1,
               "score2": 2
             },
             {
-              "name": "Ahmed Musa",
-              "team": {
-                "name": "Nigeria",
-                "code": "NGA"
-              },
-              "minute": 47,
-              "score1": 2,
-              "score2": 2
-            },
-            {
               "name": "Marcos Rojo",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
               "minute": 50,
               "score1": 2,
               "score2": 3
@@ -2441,45 +2031,31 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "Edin Džeko",
-              "team": {
-                "name": "Bosnia-Herzegovina",
-                "code": "BIH"
-              },
               "minute": 23,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Miralem Pjanić",
-              "team": {
-                "name": "Bosnia-Herzegovina",
-                "code": "BIH"
-              },
               "minute": 59,
               "score1": 2,
               "score2": 0
             },
             {
-              "name": "Reza Ghoochannejhad",
-              "team": {
-                "name": "Iran",
-                "code": "IRN"
-              },
-              "minute": 82,
-              "score1": 2,
-              "score2": 1
-            },
-            {
               "name": "Avdija Vršajević",
-              "team": {
-                "name": "Bosnia-Herzegovina",
-                "code": "BIH"
-              },
               "minute": 83,
               "score1": 3,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Reza Ghoochannejhad",
+              "minute": 82,
+              "score1": 2,
               "score2": 1
             }
           ],
@@ -2512,13 +2088,12 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Thomas Müller",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 55,
               "score1": 0,
               "score2": 1
@@ -2548,36 +2123,26 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
             {
               "name": "John Boye",
-              "team": {
-                "name": "Portugal",
-                "code": "POR"
-              },
               "minute": 31,
               "score1": 1,
               "score2": 0,
               "owngoal": true
             },
             {
-              "name": "Asamoah Gyan",
-              "team": {
-                "name": "Ghana",
-                "code": "GHA"
-              },
-              "minute": 57,
-              "score1": 1,
-              "score2": 1
-            },
-            {
               "name": "Cristiano Ronaldo",
-              "team": {
-                "name": "Portugal",
-                "code": "POR"
-              },
               "minute": 80,
               "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Asamoah Gyan",
+              "minute": 57,
+              "score1": 1,
               "score2": 1
             }
           ],
@@ -2605,13 +2170,12 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Jan Vertonghen",
-              "team": {
-                "name": "Belgium",
-                "code": "BEL"
-              },
               "minute": 78,
               "score1": 0,
               "score2": 1
@@ -2641,25 +2205,19 @@
           "score2": 1,
           "score1i": null,
           "score2i": null,
-          "goals": [
-            {
-              "name": "Alexander Kokorin",
-              "team": {
-                "name": "Russia",
-                "code": "RUS"
-              },
-              "minute": 6,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Islam Slimani",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
               "minute": 60,
               "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Alexander Kokorin",
+              "minute": 6,
+              "score1": 0,
               "score2": 1
             }
           ],
@@ -2697,23 +2255,17 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "David Luiz",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 18,
               "score1": 1,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Alexis Sánchez",
-              "team": {
-                "name": "Chile",
-                "code": "CHI"
-              },
               "minute": 32,
               "score1": 1,
               "score2": 1
@@ -2747,27 +2299,22 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "James Rodríguez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 28,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "James Rodríguez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 50,
               "score1": 2,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "stadium": {
             "key": "maracana",
@@ -2797,35 +2344,25 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
-            {
-              "name": "Giovani dos Santos",
-              "team": {
-                "name": "Mexico",
-                "code": "MEX"
-              },
-              "minute": 48,
-              "score1": 0,
-              "score2": 1
-            },
+          "goals1": [
             {
               "name": "Wesley Sneijder",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 88,
               "score1": 1,
               "score2": 1
             },
             {
               "name": "Klaas Jan Huntelaar",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 90,
               "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Giovani dos Santos",
+              "minute": 48,
+              "score1": 0,
               "score2": 1
             }
           ],
@@ -2857,23 +2394,17 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Bryan Ruiz",
-              "team": {
-                "name": "Costa Rica",
-                "code": "CRC"
-              },
               "minute": 52,
               "score1": 1,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Socratis Papastathopoulos",
-              "team": {
-                "name": "Greece",
-                "code": "GRE"
-              },
               "minute": 90,
               "score1": 1,
               "score2": 1
@@ -2907,29 +2438,24 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Paul Pogba",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
               "minute": 79,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Joseph Yobo",
-              "team": {
-                "name": "France",
-                "code": "FRA"
-              },
               "minute": 90,
               "offset": 2,
               "score1": 2,
               "score2": 0,
               "owngoal": true
             }
+          ],
+          "goals2": [
+
           ],
           "stadium": {
             "key": "nacionaldebrasilia",
@@ -2959,33 +2485,23 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "André Schürrle",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 92,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Mesut Özil",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 120,
               "score1": 2,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Abdelmoumene Djabou",
-              "team": {
-                "name": "Algeria",
-                "code": "ALG"
-              },
               "minute": 121,
               "score1": 2,
               "score2": 1
@@ -3019,17 +2535,16 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Ángel di María",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
               "minute": 118,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "stadium": {
             "key": "corinthians",
@@ -3059,33 +2574,23 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Kevin De Bruyne",
-              "team": {
-                "name": "Belgium",
-                "code": "BEL"
-              },
               "minute": 93,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "Romelu Lukaku",
-              "team": {
-                "name": "Belgium",
-                "code": "BEL"
-              },
               "minute": 105,
               "score1": 2,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "Julian Green",
-              "team": {
-                "name": "United States",
-                "code": "USA"
-              },
               "minute": 107,
               "score1": 2,
               "score2": 1
@@ -3124,33 +2629,23 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Thiago Silva",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 7,
               "score1": 1,
               "score2": 0
             },
             {
               "name": "David Luiz",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
               "minute": 69,
               "score1": 2,
               "score2": 0
-            },
+            }
+          ],
+          "goals2": [
             {
               "name": "James Rodríguez",
-              "team": {
-                "name": "Colombia",
-                "code": "COL"
-              },
               "minute": 80,
               "score1": 2,
               "score2": 1,
@@ -3185,13 +2680,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Mats Hummels",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 13,
               "score1": 0,
               "score2": 1
@@ -3253,17 +2747,16 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Gonzalo Higuaín",
-              "team": {
-                "name": "Argentina",
-                "code": "ARG"
-              },
               "minute": 8,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "stadium": {
             "key": "nacionaldebrasilia",
@@ -3298,85 +2791,55 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
+            {
+              "name": "Oscar",
+              "minute": 90,
+              "score1": 1,
+              "score2": 7
+            }
+          ],
+          "goals2": [
             {
               "name": "Thomas Müller",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 11,
               "score1": 0,
               "score2": 1
             },
             {
               "name": "Miroslav Klose",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 23,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Toni Kroos",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 24,
               "score1": 0,
               "score2": 3
             },
             {
               "name": "Toni Kroos",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 26,
               "score1": 0,
               "score2": 4
             },
             {
               "name": "Sami Khedira",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 29,
               "score1": 0,
               "score2": 5
             },
             {
               "name": "Andre Schürrle",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 69,
               "score1": 0,
               "score2": 6
             },
             {
               "name": "Andre Schürrle",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 79,
               "score1": 0,
-              "score2": 7
-            },
-            {
-              "name": "Oscar",
-              "team": {
-                "name": "Brazil",
-                "code": "BRA"
-              },
-              "minute": 90,
-              "score1": 1,
               "score2": 7
             }
           ],
@@ -3441,13 +2904,12 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
+
+          ],
+          "goals2": [
             {
               "name": "Robin Van Persie",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 3,
               "score1": 0,
               "score2": 1,
@@ -3455,20 +2917,12 @@
             },
             {
               "name": "Daley Blind",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 17,
               "score1": 0,
               "score2": 2
             },
             {
               "name": "Georginio Wijnaldum",
-              "team": {
-                "name": "Netherlands",
-                "code": "NED"
-              },
               "minute": 90,
               "offset": 1,
               "score1": 0,
@@ -3508,17 +2962,16 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
-          "goals": [
+          "goals1": [
             {
               "name": "Mario Götze",
-              "team": {
-                "name": "Germany",
-                "code": "GER"
-              },
               "minute": 113,
               "score1": 1,
               "score2": 0
             }
+          ],
+          "goals2": [
+
           ],
           "stadium": {
             "key": "maracana",
