@@ -16,8 +16,8 @@
             "name": "Saudi Arabia",
             "code": "KSA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 5,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
           "group": "Group A",
