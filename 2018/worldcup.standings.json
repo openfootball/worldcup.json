@@ -6,38 +6,24 @@
       "standings": [
         {
           "team": {
-            "name": "Egypt",
-            "code": "EGY"
-          },
-          "pos": 1,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        },
-        {
-          "team": {
             "name": "Russia",
             "code": "RUS"
           },
-          "pos": 2,
-          "played": 0,
-          "won": 0,
+          "pos": 1,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
+          "goals_for": 5,
           "goals_against": 0,
-          "pts": 0
+          "pts": 3
         },
         {
           "team": {
-            "name": "Saudi Arabia",
-            "code": "KSA"
+            "name": "Egypt",
+            "code": "EGY"
           },
-          "pos": 3,
+          "pos": 2,
           "played": 0,
           "won": 0,
           "drawn": 0,
@@ -51,13 +37,27 @@
             "name": "Uruguay",
             "code": "URU"
           },
-          "pos": 4,
+          "pos": 3,
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
           "goals_for": 0,
           "goals_against": 0,
+          "pts": 0
+        },
+        {
+          "team": {
+            "name": "Saudi Arabia",
+            "code": "KSA"
+          },
+          "pos": 4,
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 0,
+          "goals_against": 5,
           "pts": 0
         }
       ]

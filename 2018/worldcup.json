@@ -16,10 +16,47 @@
             "name": "Saudi Arabia",
             "code": "KSA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 5,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Gazinsky",
+              "minute": 12,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Cheryshev",
+              "minute": 43,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Dzyuba",
+              "minute": 71,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Cheryshev",
+              "minute": 90,
+              "offset": 1,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Golovin",
+              "minute": 90,
+              "offset": 4,
+              "score1": 5,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A",
           "stadium": {
             "key": "luzhniki",
