@@ -28,10 +28,45 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
             "name": "Saudi Arabia",
             "code": "KSA"
           },
-          "score1": null,
-          "score2": null,
-          "score1i": null,
-          "score2i": null,
+          "score1": 5,
+          "score2": 0,
+          "score1i": 2,
+          "score2i": 0,
+          "goals1": [
+            {
+              "name": "Gazinsky",
+              "minute": 12,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Cheryshev",
+              "minute": 43,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Dzyuba",
+              "minute": 71,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Cheryshev",
+              "minute": 90,
+              "offset": 1,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Golovin",
+              "minute": 90,
+              "offset": 4,
+              "score1": 5,
+              "score2": 0
+            }
+          ],
+          "goals2": [],
           "group": "Group A",
           "stadium": {
             "key": "luzhniki",
@@ -88,18 +123,25 @@ $ curl https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018
 
 
 
+## Updates / Contributions Welcome - Please Update the Source Text Files
 
-
-## Automate, Automate, Automate
-
-Note: The JSON files get (auto-)generated using the football.db datasets, thus, please do NOT
-edit the JSON files but the source files in the world cup (and friends) repos e.g.:
+Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
+edit the JSON files but the source text files in the world cup (and friends) repos** e.g.:
 
 - World Cups in [`/world-cup`](https://github.com/openfootball/world-cup)
 - National Teams in [`/national-teams`](https://github.com/openfootball/national-teams)
 - Stadiums in [`/stadiums`](https://github.com/openfootball/stadiums)
 - and so on
 
+
+Note: For the World Cup 2018 please update the source text file
+[`/world-cup/2018--russia/cup.txt`](https://github.com/openfootball/world-cup/blob/master/2018--russia/cup.txt) for the group stage and
+[`/world-cup/2018--russia/cup_finals.txt`](https://github.com/openfootball/world-cup/blob/master/2018--russia/cup_finals.txt) for the knockout (quarter-finals, semi-finals, etc.) stage.
+
+
+
+
+## Automate, Automate, Automate
 
 If all works (almost) daily updates get pushed by yorobot.
 See the [`yorobot/football.db`](https://github.com/yorobot/football.db) build scripts for
