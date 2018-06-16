@@ -20,30 +20,30 @@
         },
         {
           "team": {
-            "name": "Egypt",
-            "code": "EGY"
-          },
-          "pos": 2,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        },
-        {
-          "team": {
             "name": "Uruguay",
             "code": "URU"
           },
-          "pos": 3,
-          "played": 0,
-          "won": 0,
+          "pos": 2,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Egypt",
+            "code": "EGY"
+          },
+          "pos": 3,
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 0,
+          "goals_against": 1,
           "pts": 0
         },
         {
@@ -67,17 +67,17 @@
       "standings": [
         {
           "team": {
-            "name": "Morocco",
-            "code": "MAR"
+            "name": "Iran",
+            "code": "IRN"
           },
           "pos": 1,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "pts": 0
+          "pts": 3
         },
         {
           "team": {
@@ -85,13 +85,13 @@
             "code": "ESP"
           },
           "pos": 2,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
+          "goals_for": 3,
+          "goals_against": 3,
+          "pts": 1
         },
         {
           "team": {
@@ -99,26 +99,26 @@
             "code": "POR"
           },
           "pos": 3,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
+          "goals_for": 3,
+          "goals_against": 3,
+          "pts": 1
         },
         {
           "team": {
-            "name": "Iran",
-            "code": "IRN"
+            "name": "Morocco",
+            "code": "MAR"
           },
           "pos": 4,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 0,
-          "goals_against": 0,
+          "goals_against": 1,
           "pts": 0
         }
       ]

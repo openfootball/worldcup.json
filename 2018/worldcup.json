@@ -82,10 +82,21 @@
             "name": "Uruguay",
             "code": "URU"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Giménez",
+              "minute": 89,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group A",
           "stadium": {
             "key": "ekaterinburg",
@@ -106,10 +117,51 @@
             "name": "Spain",
             "code": "ESP"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 3,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Ronaldo",
+              "minute": 4,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 44,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Ronaldo",
+              "minute": 88,
+              "score1": 3,
+              "score2": 3
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Costa",
+              "minute": 24,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Costa",
+              "minute": 55,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "Nacho",
+              "minute": 58,
+              "score1": 2,
+              "score2": 3
+            }
+          ],
           "group": "Group B",
           "stadium": {
             "key": "fisht",
@@ -130,10 +182,23 @@
             "name": "Iran",
             "code": "IRN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Bouhaddouz",
+              "minute": 90,
+              "offset": 5,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            }
+          ],
           "group": "Group B",
           "stadium": {
             "key": "saintpetersburg",
