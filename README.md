@@ -20,58 +20,22 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "num": 1,
           "date": "2018-06-14",
           "time": "18:00",
-          "team1": {
-            "name": "Russia",
-            "code": "RUS"
-          },
-          "team2": {
-            "name": "Saudi Arabia",
-            "code": "KSA"
-          },
-          "score1": 5,
-          "score2": 0,
+          "team1": { "name": "Russia",       "code": "RUS" },
+          "team2": { "name": "Saudi Arabia", "code": "KSA" },
+          "score1":  5,
+          "score2":  0,
           "score1i": 2,
           "score2i": 0,
           "goals1": [
-            {
-              "name": "Gazinsky",
-              "minute": 12,
-              "score1": 1,
-              "score2": 0
-            },
-            {
-              "name": "Cheryshev",
-              "minute": 43,
-              "score1": 2,
-              "score2": 0
-            },
-            {
-              "name": "Dzyuba",
-              "minute": 71,
-              "score1": 3,
-              "score2": 0
-            },
-            {
-              "name": "Cheryshev",
-              "minute": 90,
-              "offset": 1,
-              "score1": 4,
-              "score2": 0
-            },
-            {
-              "name": "Golovin",
-              "minute": 90,
-              "offset": 4,
-              "score1": 5,
-              "score2": 0
-            }
+            { "name": "Gazinsky",   "minute": 12,              "score1": 1, "score2": 0 },
+            { "name": "Cheryshev",  "minute": 43,              "score1": 2, "score2": 0 },
+            { "name": "Dzyuba",     "minute": 71,              "score1": 3, "score2": 0 },
+            { "name": "Cheryshev",  "minute": 90, "offset": 1, "score1": 4, "score2": 0 },
+            { "name": "Golovin",    "minute": 90, "offset": 4, "score1": 5, "score2": 0 }
           ],
           "goals2": [],
           "group": "Group A",
-          "stadium": {
-            "key": "luzhniki",
-            "name": "Luzhniki Stadium"
-          },
+          "stadium": { "key": "luzhniki", "name": "Luzhniki Stadium" },
           "city": "Moscow",
           "timezone": "UTC+3"
         }
@@ -84,23 +48,18 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "num": 2,
           "date": "2018-06-15",
           "time": "17:00",
-          "team1": {
-            "name": "Egypt",
-            "code": "EGY"
-          },
-          "team2": {
-            "name": "Uruguay",
-            "code": "URU"
-          },
-          "score1": null,
-          "score2": null,
-          "score1i": null,
-          "score2i": null,
+          "team1": { "name": "Egypt", "code": "EGY" },
+          "team2": { "name": "Uruguay", "code": "URU" },
+          "score1":  0,
+          "score2":  1,
+          "score1i": 0,
+          "score2i": 0,
+          "goals1": [],
+          "goals2": [
+            { "name": "Giménez",  "minute": 89,  "score1": 0, "score2": 1 }
+          ],
           "group": "Group A",
-          "stadium": {
-            "key": "ekaterinburg",
-            "name": "Ekaterinburg Arena"
-          },          
+          "stadium": { "key": "ekaterinburg", "name": "Ekaterinburg Arena" },          
           "city": "Ekaterinburg",
           "timezone": "UTC+5"
         },
