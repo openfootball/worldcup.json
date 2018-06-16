@@ -48,7 +48,7 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
           "num": 2,
           "date": "2018-06-15",
           "time": "17:00",
-          "team1": { "name": "Egypt", "code": "EGY" },
+          "team1": { "name": "Egypt",   "code": "EGY" },
           "team2": { "name": "Uruguay", "code": "URU" },
           "score1":  0,
           "score2":  1,
