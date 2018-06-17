@@ -132,13 +132,13 @@
             "code": "FRA"
           },
           "pos": 1,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 1,
+          "pts": 3
         },
         {
           "team": {
@@ -146,13 +146,13 @@
             "code": "DEN"
           },
           "pos": 2,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "pts": 0
+          "pts": 3
         },
         {
           "team": {
@@ -160,12 +160,12 @@
             "code": "AUS"
           },
           "pos": 3,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 2,
           "pts": 0
         },
         {
@@ -174,12 +174,12 @@
             "code": "PER"
           },
           "pos": 4,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 0,
-          "goals_against": 0,
+          "goals_against": 1,
           "pts": 0
         }
       ]
@@ -189,31 +189,31 @@
       "standings": [
         {
           "team": {
-            "name": "Nigeria",
-            "code": "NGA"
-          },
-          "pos": 1,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        },
-        {
-          "team": {
             "name": "Croatia",
             "code": "CRO"
           },
-          "pos": 2,
-          "played": 0,
-          "won": 0,
+          "pos": 1,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
+          "goals_for": 2,
           "goals_against": 0,
-          "pts": 0
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "pos": 2,
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 1,
+          "pts": 1
         },
         {
           "team": {
@@ -221,26 +221,26 @@
             "code": "ISL"
           },
           "pos": 3,
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
+          "goals_for": 1,
+          "goals_against": 1,
+          "pts": 1
         },
         {
           "team": {
-            "name": "Argentina",
-            "code": "ARG"
+            "name": "Nigeria",
+            "code": "NGA"
           },
           "pos": 4,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 0,
-          "goals_against": 0,
+          "goals_against": 2,
           "pts": 0
         }
       ]

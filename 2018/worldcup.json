@@ -224,10 +224,34 @@
             "name": "Australia",
             "code": "AUS"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Griezmann",
+              "minute": 58,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Pogba",
+              "minute": 81,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Jedinak",
+              "minute": 62,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
           "group": "Group C",
           "stadium": {
             "key": "kazan",
@@ -248,10 +272,21 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Poulsen",
+              "minute": 59,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group C",
           "stadium": {
             "key": "mordovia",
@@ -272,10 +307,26 @@
             "name": "Iceland",
             "code": "ISL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Agüero",
+              "minute": 19,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Finnbogason",
+              "minute": 23,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
           "group": "Group D",
           "stadium": {
             "key": "spartak",
@@ -296,10 +347,29 @@
             "name": "Nigeria",
             "code": "NGA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Etebo",
+              "minute": 32,
+              "score1": 1,
+              "score2": 0,
+              "owngoal": true
+            },
+            {
+              "name": "Modrić",
+              "minute": 71,
+              "score1": 2,
+              "score2": 0,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group D",
           "stadium": {
             "key": "kaliningrad",
