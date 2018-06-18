@@ -250,22 +250,83 @@
       "standings": [
         {
           "team": {
-            "name": "Costa Rica",
-            "code": "CRC"
+            "name": "Serbia",
+            "code": "SRB"
           },
           "pos": 1,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
+          "goals_for": 1,
           "goals_against": 0,
-          "pts": 0
+          "pts": 3
         },
         {
           "team": {
             "name": "Switzerland",
             "code": "SUI"
+          },
+          "pos": 2,
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 1,
+          "pts": 1
+        },
+        {
+          "team": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "pos": 3,
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 1,
+          "pts": 1
+        },
+        {
+          "team": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "pos": 4,
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 0,
+          "goals_against": 1,
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "standings": [
+        {
+          "team": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "pos": 1,
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "goals_for": 1,
+          "goals_against": 0,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Sweden",
+            "code": "SWE"
           },
           "pos": 2,
           "played": 0,
@@ -278,43 +339,10 @@
         },
         {
           "team": {
-            "name": "Serbia",
-            "code": "SRB"
-          },
-          "pos": 3,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        },
-        {
-          "team": {
-            "name": "Brazil",
-            "code": "BRA"
-          },
-          "pos": 4,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        }
-      ]
-    },
-    {
-      "name": "Group F",
-      "standings": [
-        {
-          "team": {
             "name": "South Korea",
             "code": "KOR"
           },
-          "pos": 1,
+          "pos": 3,
           "played": 0,
           "won": 0,
           "drawn": 0,
@@ -328,41 +356,13 @@
             "name": "Germany",
             "code": "GER"
           },
-          "pos": 2,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        },
-        {
-          "team": {
-            "name": "Sweden",
-            "code": "SWE"
-          },
-          "pos": 3,
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
-        },
-        {
-          "team": {
-            "name": "Mexico",
-            "code": "MEX"
-          },
           "pos": 4,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 0,
-          "goals_against": 0,
+          "goals_against": 1,
           "pts": 0
         }
       ]

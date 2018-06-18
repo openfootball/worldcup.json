@@ -395,10 +395,26 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Coutinho",
+              "minute": 20,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Zuber",
+              "minute": 50,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
           "group": "Group E",
           "stadium": {
             "key": "rostov",
@@ -419,10 +435,21 @@
             "name": "Serbia",
             "code": "SRB"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Kolarov",
+              "minute": 56,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group E",
           "stadium": {
             "key": "samara",
@@ -443,10 +470,21 @@
             "name": "Mexico",
             "code": "MEX"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Lozano",
+              "minute": 35,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group F",
           "stadium": {
             "key": "luzhniki",
