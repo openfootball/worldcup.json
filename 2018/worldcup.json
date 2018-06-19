@@ -510,10 +510,22 @@
             "name": "South Korea",
             "code": "KOR"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Granqvist",
+              "minute": 65,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group F",
           "stadium": {
             "key": "nizhnynovgorod",
@@ -534,10 +546,33 @@
             "name": "Panama",
             "code": "PAN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Mertens",
+              "minute": 47,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Lukaku",
+              "minute": 69,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "Lukaku",
+              "minute": 75,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group G",
           "stadium": {
             "key": "fisht",
@@ -558,10 +593,34 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Sassi",
+              "minute": 35,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kane",
+              "minute": 11,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Kane",
+              "minute": 90,
+              "offset": 1,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group G",
           "stadium": {
             "key": "volgograd",
