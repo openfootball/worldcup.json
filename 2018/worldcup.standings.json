@@ -10,13 +10,13 @@
             "code": "RUS"
           },
           "pos": 1,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 5,
-          "goals_against": 0,
-          "pts": 3
+          "goals_for": 8,
+          "goals_against": 1,
+          "pts": 6
         },
         {
           "team": {
@@ -38,12 +38,12 @@
             "code": "EGY"
           },
           "pos": 3,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "goals_for": 0,
-          "goals_against": 1,
+          "lost": 2,
+          "goals_for": 1,
+          "goals_against": 4,
           "pts": 0
         },
         {
@@ -437,13 +437,13 @@
             "code": "SEN"
           },
           "pos": 1,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 1,
+          "pts": 3
         },
         {
           "team": {
@@ -451,13 +451,13 @@
             "code": "JPN"
           },
           "pos": 2,
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 1,
+          "pts": 3
         },
         {
           "team": {
@@ -465,12 +465,12 @@
             "code": "POL"
           },
           "pos": 3,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 2,
           "pts": 0
         },
         {
@@ -479,12 +479,12 @@
             "code": "COL"
           },
           "pos": 4,
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goals_for": 0,
-          "goals_against": 0,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 2,
           "pts": 0
         }
       ]
