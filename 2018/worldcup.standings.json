@@ -24,13 +24,13 @@
             "code": "URU"
           },
           "pos": 2,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 1,
+          "goals_for": 2,
           "goals_against": 0,
-          "pts": 3
+          "pts": 6
         },
         {
           "team": {
@@ -52,12 +52,12 @@
             "code": "KSA"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 0,
-          "goals_against": 5,
+          "goals_against": 6,
           "pts": 0
         }
       ]
@@ -67,17 +67,17 @@
       "standings": [
         {
           "team": {
-            "name": "Iran",
-            "code": "IRN"
+            "name": "Portugal",
+            "code": "POR"
           },
           "pos": 1,
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 1,
-          "goals_against": 0,
-          "pts": 3
+          "goals_for": 4,
+          "goals_against": 3,
+          "pts": 4
         },
         {
           "team": {
@@ -85,27 +85,27 @@
             "code": "ESP"
           },
           "pos": 2,
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "goals_for": 3,
+          "goals_for": 4,
           "goals_against": 3,
-          "pts": 1
+          "pts": 4
         },
         {
           "team": {
-            "name": "Portugal",
-            "code": "POR"
+            "name": "Iran",
+            "code": "IRN"
           },
           "pos": 3,
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goals_for": 3,
-          "goals_against": 3,
-          "pts": 1
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 1,
+          "goals_against": 1,
+          "pts": 3
         },
         {
           "team": {
@@ -113,12 +113,12 @@
             "code": "MAR"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 0,
-          "goals_against": 1,
+          "goals_against": 2,
           "pts": 0
         }
       ]

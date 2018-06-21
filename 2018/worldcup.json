@@ -799,10 +799,21 @@
             "name": "Saudi Arabia",
             "code": "KSA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "L. Suarez",
+              "minute": 23,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A",
           "stadium": {
             "key": "rostov",
@@ -823,10 +834,21 @@
             "name": "Morocco",
             "code": "MAR"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Ronaldo",
+              "minute": 4,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B",
           "stadium": {
             "key": "luzhniki",
@@ -847,10 +869,21 @@
             "name": "Spain",
             "code": "ESP"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Diego Costa",
+              "minute": 54,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group B",
           "stadium": {
             "key": "kazan",
