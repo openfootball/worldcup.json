@@ -132,13 +132,13 @@
             "code": "FRA"
           },
           "pos": 1,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 2,
+          "goals_for": 3,
           "goals_against": 1,
-          "pts": 3
+          "pts": 6
         },
         {
           "team": {
@@ -146,13 +146,13 @@
             "code": "DEN"
           },
           "pos": 2,
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 1,
-          "goals_against": 0,
-          "pts": 3
+          "goals_for": 2,
+          "goals_against": 1,
+          "pts": 4
         },
         {
           "team": {
@@ -160,13 +160,13 @@
             "code": "AUS"
           },
           "pos": 3,
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "goals_for": 1,
-          "goals_against": 2,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 3,
+          "pts": 1
         },
         {
           "team": {
@@ -174,12 +174,12 @@
             "code": "PER"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 0,
-          "goals_against": 1,
+          "goals_against": 2,
           "pts": 0
         }
       ]
@@ -193,18 +193,18 @@
             "code": "CRO"
           },
           "pos": 1,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 2,
+          "goals_for": 5,
           "goals_against": 0,
-          "pts": 3
+          "pts": 6
         },
         {
           "team": {
-            "name": "Argentina",
-            "code": "ARG"
+            "name": "Iceland",
+            "code": "ISL"
           },
           "pos": 2,
           "played": 1,
@@ -217,16 +217,16 @@
         },
         {
           "team": {
-            "name": "Iceland",
-            "code": "ISL"
+            "name": "Argentina",
+            "code": "ARG"
           },
           "pos": 3,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 1,
-          "goals_against": 1,
+          "goals_against": 4,
           "pts": 1
         },
         {

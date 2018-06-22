@@ -915,7 +915,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "K. Mbappe",
+              "name": "Mbappe",
               "minute": 34,
               "score1": 1,
               "score2": 0
@@ -950,22 +950,20 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "C. Eriksen",
+              "name": "Eriksen",
               "minute": 7,
               "score1": 1,
               "score2": 0
             }
           ],
           "goals2": [
-             {
-              "name": "M. Jedinak",
+            {
+              "name": "Jedinak",
               "minute": 38,
               "score1": 1,
               "score2": 1,
-               "penalty":true
-            
-            }           
-
+              "penalty": true
+            }
           ],
           "group": "Group C",
           "stadium": {
@@ -992,28 +990,28 @@
           "score1i": null,
           "score2i": null,
           "goals1": [
-           
+
           ],
           "goals2": [
-             {
-              "name": "A. Rebic",
+            {
+              "name": "Rebic",
               "minute": 53,
               "score1": 0,
               "score2": 1
             },
-             {
-              "name": "L. Modric",
+            {
+              "name": "Modric",
               "minute": 80,
               "score1": 0,
               "score2": 2
             },
-              {
-              "name": "I. Rakitic",
-              "minute": 91,
+            {
+              "name": "Rakitic",
+              "minute": 90,
+              "offset": 1,
               "score1": 0,
               "score2": 3
             }
-
           ],
           "group": "Group D",
           "stadium": {
