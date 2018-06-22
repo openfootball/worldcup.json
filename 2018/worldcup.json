@@ -909,10 +909,21 @@
             "name": "Peru",
             "code": "PER"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "K. Mbappe",
+              "minute": 34,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group C",
           "stadium": {
             "key": "ekaterinburg",
@@ -933,10 +944,29 @@
             "name": "Australia",
             "code": "AUS"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "C. Eriksen",
+              "minute": 7,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+             {
+              "name": "M. Jedinak",
+              "minute": 38,
+              "score1": 1,
+              "score2": 1,
+               "penalty":true
+            
+            }           
+
+          ],
           "group": "Group C",
           "stadium": {
             "key": "samara",
@@ -957,10 +987,34 @@
             "name": "Croatia",
             "code": "CRO"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 3,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+           
+          ],
+          "goals2": [
+             {
+              "name": "A. Rebic",
+              "minute": 53,
+              "score1": 0,
+              "score2": 1
+            },
+             {
+              "name": "L. Modric",
+              "minute": 80,
+              "score1": 0,
+              "score2": 2
+            },
+              {
+              "name": "I. Rakitic",
+              "minute": 91,
+              "score1": 0,
+              "score2": 3
+            }
+
+          ],
           "group": "Group D",
           "stadium": {
             "key": "nizhnynovgorod",
