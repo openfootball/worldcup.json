@@ -81,6 +81,20 @@ $ curl https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018
 ```
 
 
+## Projects in the Real-World Using world_cup.json 
+
+### World Cup 2018
+
+_Feel free and you're more than welcome to send a pull request (PR) with your project!_
+
+
+* https://github.com/sportdb/footty
+(command line tool in ruby; shows today's matches or yesterday's or tomorrows or all past or all upcoming)
+
+* https://github.com/geeknat/heyrussia
+(command line tool in go; shows matches, stadiums, groups, standings, etc.)  
+
+
 
 ## Updates / Contributions Welcome - Please Update the Source Text Files
 
