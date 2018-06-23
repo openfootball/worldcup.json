@@ -1038,10 +1038,27 @@
             "name": "Iceland",
             "code": "ISL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Musa",
+              "minute": 49,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Musa",
+              "minute": 75,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group D",
           "stadium": {
             "key": "volgograd",
@@ -1062,8 +1079,8 @@
             "name": "Costa Rica",
             "code": "CRC"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
           "group": "Group E",
@@ -1086,10 +1103,32 @@
             "name": "Switzerland",
             "code": "SUI"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Mitrovic",
+              "minute": 5,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Xhaka",
+              "minute": 52,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Shaqiri",
+              "minute": 90,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group E",
           "stadium": {
             "key": "kaliningrad",

@@ -203,22 +203,22 @@
         },
         {
           "team": {
-            "name": "Iceland",
-            "code": "ISL"
+            "name": "Nigeria",
+            "code": "NGA"
           },
           "pos": 2,
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goals_for": 1,
-          "goals_against": 1,
-          "pts": 1
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 2,
+          "pts": 3
         },
         {
           "team": {
-            "name": "Argentina",
-            "code": "ARG"
+            "name": "Iceland",
+            "code": "ISL"
           },
           "pos": 3,
           "played": 2,
@@ -226,22 +226,22 @@
           "drawn": 1,
           "lost": 1,
           "goals_for": 1,
-          "goals_against": 4,
+          "goals_against": 3,
           "pts": 1
         },
         {
           "team": {
-            "name": "Nigeria",
-            "code": "NGA"
+            "name": "Argentina",
+            "code": "ARG"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "goals_for": 0,
-          "goals_against": 2,
-          "pts": 0
+          "goals_for": 1,
+          "goals_against": 4,
+          "pts": 1
         }
       ]
     },
@@ -250,17 +250,17 @@
       "standings": [
         {
           "team": {
-            "name": "Serbia",
-            "code": "SRB"
+            "name": "Brazil",
+            "code": "BRA"
           },
           "pos": 1,
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 1,
-          "goals_against": 0,
-          "pts": 3
+          "goals_for": 3,
+          "goals_against": 1,
+          "pts": 4
         },
         {
           "team": {
@@ -268,27 +268,27 @@
             "code": "SUI"
           },
           "pos": 2,
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "goals_for": 1,
-          "goals_against": 1,
-          "pts": 1
+          "goals_for": 3,
+          "goals_against": 2,
+          "pts": 4
         },
         {
           "team": {
-            "name": "Brazil",
-            "code": "BRA"
+            "name": "Serbia",
+            "code": "SRB"
           },
           "pos": 3,
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goals_for": 1,
-          "goals_against": 1,
-          "pts": 1
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 2,
+          "pts": 3
         },
         {
           "team": {
@@ -296,12 +296,12 @@
             "code": "CRC"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 0,
-          "goals_against": 1,
+          "goals_against": 3,
           "pts": 0
         }
       ]
