@@ -85,7 +85,7 @@ $ curl https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018
 
 ### World Cup 2018
 
-_Feel free and you're more than welcome to send a pull request (PR) with your project!_
+_Feel free to add your project! Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 
 * https://github.com/sportdb/footty
