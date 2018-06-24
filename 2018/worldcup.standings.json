@@ -315,12 +315,26 @@
             "code": "MEX"
           },
           "pos": 1,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 1,
-          "goals_against": 0,
+          "goals_for": 3,
+          "goals_against": 1,
+          "pts": 6
+        },
+        {
+          "team": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "pos": 2,
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 2,
+          "goals_against": 2,
           "pts": 3
         },
         {
@@ -328,28 +342,14 @@
             "name": "Sweden",
             "code": "SWE"
           },
-          "pos": 2,
-          "played": 1,
+          "pos": 3,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goals_for": 1,
-          "goals_against": 0,
-          "pts": 3
-        },
-        {
-          "team": {
-            "name": "Germany",
-            "code": "GER"
-          },
-          "pos": 3,
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
           "lost": 1,
-          "goals_for": 0,
-          "goals_against": 1,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 2,
+          "pts": 3
         },
         {
           "team": {
@@ -357,12 +357,12 @@
             "code": "KOR"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "goals_for": 0,
-          "goals_against": 1,
+          "lost": 2,
+          "goals_for": 1,
+          "goals_against": 3,
           "pts": 0
         }
       ]
@@ -376,13 +376,13 @@
             "code": "BEL"
           },
           "pos": 1,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 3,
-          "goals_against": 0,
-          "pts": 3
+          "goals_for": 8,
+          "goals_against": 2,
+          "pts": 6
         },
         {
           "team": {
@@ -400,30 +400,30 @@
         },
         {
           "team": {
-            "name": "Tunisia",
-            "code": "TUN"
+            "name": "Panama",
+            "code": "PAN"
           },
           "pos": 3,
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "goals_for": 1,
-          "goals_against": 2,
+          "goals_for": 0,
+          "goals_against": 3,
           "pts": 0
         },
         {
           "team": {
-            "name": "Panama",
-            "code": "PAN"
+            "name": "Tunisia",
+            "code": "TUN"
           },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "goals_for": 0,
-          "goals_against": 3,
+          "lost": 2,
+          "goals_for": 3,
+          "goals_against": 7,
           "pts": 0
         }
       ]

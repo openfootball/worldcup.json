@@ -1154,10 +1154,33 @@
             "name": "Sweden",
             "code": "SWE"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Reus",
+              "minute": 48,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Kroos",
+              "minute": 90,
+              "offset": 5,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Toivonen",
+              "minute": 32,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group F",
           "stadium": {
             "key": "fisht",
@@ -1178,10 +1201,34 @@
             "name": "Mexico",
             "code": "MEX"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "H. M. Son",
+              "minute": 90,
+              "offset": 3,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Carlos V.",
+              "minute": 26,
+              "score1": 0,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "J. Hernández",
+              "minute": 66,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "group": "Group F",
           "stadium": {
             "key": "rostov",
@@ -1202,10 +1249,59 @@
             "name": "Tunisia",
             "code": "TUN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 5,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "E. Hazard",
+              "minute": 6,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "R. Lukaku",
+              "minute": 16,
+              "score1": 2,
+              "score2": 0
+            },
+            {
+              "name": "R. Lukaku",
+              "minute": 45,
+              "offset": 3,
+              "score1": 3,
+              "score2": 1
+            },
+            {
+              "name": "E. Hazard",
+              "minute": 51,
+              "score1": 4,
+              "score2": 1
+            },
+            {
+              "name": "Batshuayi",
+              "minute": 90,
+              "score1": 5,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Bronn",
+              "minute": 18,
+              "score1": 2,
+              "score2": 1
+            },
+            {
+              "name": "Khazri",
+              "minute": 90,
+              "offset": 3,
+              "score1": 5,
+              "score2": 2
+            }
+          ],
           "group": "Group G",
           "stadium": {
             "key": "spartak",
