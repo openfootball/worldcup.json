@@ -6,57 +6,57 @@
       "standings": [
         {
           "team": {
-            "name": "Russia",
-            "code": "RUS"
-          },
-          "pos": 1,
-          "played": 2,
-          "won": 2,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 8,
-          "goals_against": 1,
-          "pts": 6
-        },
-        {
-          "team": {
             "name": "Uruguay",
             "code": "URU"
           },
-          "pos": 2,
-          "played": 2,
-          "won": 2,
+          "pos": 1,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 2,
+          "goals_for": 5,
           "goals_against": 0,
-          "pts": 6
+          "pts": 9
         },
         {
           "team": {
-            "name": "Egypt",
-            "code": "EGY"
+            "name": "Russia",
+            "code": "RUS"
           },
-          "pos": 3,
-          "played": 2,
-          "won": 0,
+          "pos": 2,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
-          "lost": 2,
-          "goals_for": 1,
+          "lost": 1,
+          "goals_for": 8,
           "goals_against": 4,
-          "pts": 0
+          "pts": 6
         },
         {
           "team": {
             "name": "Saudi Arabia",
             "code": "KSA"
           },
-          "pos": 4,
-          "played": 2,
-          "won": 0,
+          "pos": 3,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "goals_for": 0,
+          "goals_for": 2,
+          "goals_against": 7,
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Egypt",
+            "code": "EGY"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "goals_for": 2,
           "goals_against": 6,
           "pts": 0
         }
@@ -67,31 +67,31 @@
       "standings": [
         {
           "team": {
-            "name": "Portugal",
-            "code": "POR"
-          },
-          "pos": 1,
-          "played": 2,
-          "won": 1,
-          "drawn": 1,
-          "lost": 0,
-          "goals_for": 4,
-          "goals_against": 3,
-          "pts": 4
-        },
-        {
-          "team": {
             "name": "Spain",
             "code": "ESP"
           },
-          "pos": 2,
-          "played": 2,
+          "pos": 1,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "goals_for": 4,
-          "goals_against": 3,
-          "pts": 4
+          "goals_for": 6,
+          "goals_against": 5,
+          "pts": 5
+        },
+        {
+          "team": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "goals_for": 5,
+          "goals_against": 4,
+          "pts": 5
         },
         {
           "team": {
@@ -99,13 +99,13 @@
             "code": "IRN"
           },
           "pos": 3,
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "goals_for": 1,
-          "goals_against": 1,
-          "pts": 3
+          "goals_for": 2,
+          "goals_against": 2,
+          "pts": 4
         },
         {
           "team": {
@@ -113,13 +113,13 @@
             "code": "MAR"
           },
           "pos": 4,
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 2,
-          "goals_for": 0,
-          "goals_against": 2,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 4,
+          "pts": 1
         }
       ]
     },
@@ -372,8 +372,8 @@
       "standings": [
         {
           "team": {
-            "name": "Belgium",
-            "code": "BEL"
+            "name": "England",
+            "code": "ENG"
           },
           "pos": 1,
           "played": 2,
@@ -386,44 +386,44 @@
         },
         {
           "team": {
-            "name": "England",
-            "code": "ENG"
+            "name": "Belgium",
+            "code": "BEL"
           },
           "pos": 2,
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 2,
-          "goals_against": 1,
-          "pts": 3
-        },
-        {
-          "team": {
-            "name": "Panama",
-            "code": "PAN"
-          },
-          "pos": 3,
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "goals_for": 0,
-          "goals_against": 3,
-          "pts": 0
+          "goals_for": 8,
+          "goals_against": 2,
+          "pts": 6
         },
         {
           "team": {
             "name": "Tunisia",
             "code": "TUN"
           },
-          "pos": 4,
+          "pos": 3,
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
           "goals_for": 3,
           "goals_against": 7,
+          "pts": 0
+        },
+        {
+          "team": {
+            "name": "Panama",
+            "code": "PAN"
+          },
+          "pos": 4,
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 1,
+          "goals_against": 9,
           "pts": 0
         }
       ]
@@ -437,13 +437,13 @@
             "code": "SEN"
           },
           "pos": 1,
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "goals_for": 2,
-          "goals_against": 1,
-          "pts": 3
+          "goals_for": 4,
+          "goals_against": 3,
+          "pts": 4
         },
         {
           "team": {
@@ -451,12 +451,26 @@
             "code": "JPN"
           },
           "pos": 2,
-          "played": 1,
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "goals_for": 4,
+          "goals_against": 3,
+          "pts": 4
+        },
+        {
+          "team": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "pos": 3,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goals_for": 2,
-          "goals_against": 1,
+          "lost": 1,
+          "goals_for": 4,
+          "goals_against": 2,
           "pts": 3
         },
         {
@@ -464,27 +478,13 @@
             "name": "Poland",
             "code": "POL"
           },
-          "pos": 3,
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "goals_for": 1,
-          "goals_against": 2,
-          "pts": 0
-        },
-        {
-          "team": {
-            "name": "Colombia",
-            "code": "COL"
-          },
           "pos": 4,
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 1,
-          "goals_against": 2,
+          "goals_against": 5,
           "pts": 0
         }
       ]

@@ -1327,10 +1327,59 @@
             "name": "Panama",
             "code": "PAN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 6,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Stones",
+              "minute": 8,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Kane",
+              "minute": 22,
+              "score1": 2,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Lingard",
+              "minute": 36,
+              "score1": 3,
+              "score2": 0
+            },
+            {
+              "name": "Stones",
+              "minute": 40,
+              "score1": 4,
+              "score2": 0
+            },
+            {
+              "name": "Kane",
+              "minute": 45,
+              "offset": 1,
+              "score1": 5,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Kane",
+              "minute": 62,
+              "score1": 6,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Baloy",
+              "minute": 78,
+              "score1": 6,
+              "score2": 1
+            }
+          ],
           "group": "Group G",
           "stadium": {
             "key": "nizhnynovgorod",
@@ -1351,10 +1400,33 @@
             "name": "Colombia",
             "code": "COL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 3,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Y. Mina",
+              "minute": 40,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Falcao",
+              "minute": 70,
+              "score1": 0,
+              "score2": 2
+            },
+            {
+              "name": "Cuadrado",
+              "minute": 75,
+              "score1": 0,
+              "score2": 3
+            }
+          ],
           "group": "Group H",
           "stadium": {
             "key": "kazan",
@@ -1375,10 +1447,38 @@
             "name": "Senegal",
             "code": "SEN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Inui",
+              "minute": 34,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Honda",
+              "minute": 78,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Mane",
+              "minute": 11,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "M. Wague",
+              "minute": 71,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group H",
           "stadium": {
             "key": "ekaterinburg",
@@ -1404,10 +1504,34 @@
             "name": "Russia",
             "code": "RUS"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "L. Suarez",
+              "minute": 10,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Cheryshev",
+              "minute": 23,
+              "score1": 2,
+              "score2": 0,
+              "owngoal": true
+            },
+            {
+              "name": "E. Cavani",
+              "minute": 90,
+              "score1": 3,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A",
           "stadium": {
             "key": "samara",
@@ -1428,10 +1552,35 @@
             "name": "Egypt",
             "code": "EGY"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Salman",
+              "minute": 45,
+              "offset": 6,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            },
+            {
+              "name": "Salem",
+              "minute": 90,
+              "offset": 5,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "M. Salah",
+              "minute": 22,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group A",
           "stadium": {
             "key": "volgograd",
@@ -1452,10 +1601,28 @@
             "name": "Portugal",
             "code": "POR"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Karim",
+              "minute": 90,
+              "offset": 3,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Quaresma",
+              "minute": 45,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group B",
           "stadium": {
             "key": "mordovia",
@@ -1476,10 +1643,39 @@
             "name": "Morocco",
             "code": "MAR"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Isco",
+              "minute": 19,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Iago Aspas",
+              "minute": 90,
+              "offset": 1,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Boutaib",
+              "minute": 14,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "En-Nesyri",
+              "minute": 81,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group B",
           "stadium": {
             "key": "kaliningrad",
