@@ -81,23 +81,6 @@ $ curl https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018
 ```
 
 
-## Projects in the Real-World Using world_cup.json 
-
-### World Cup 2018
-
-_Yes, you're more than welcome to send a pull request (PR) with your project!_
-
-* https://github.com/sportdb/footty -- command line tool in ruby; shows todays' matches or yesterdays' or tomorrows' or all past or all upcoming
-
-* https://github.com/geeknat/heyrussia -- command line tool in go; shows matches, stadiums, groups, standings, etc.
-
-
-_Feel free to add your project here!_ 
-
-
-
-
-
 ## Updates / Contributions Welcome - Please Update the Source Text Files
 
 Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
@@ -138,6 +121,23 @@ For starting your own repo from scratch see the [League Quick Starter Kit](https
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
 The world-cup.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+
+
+
+## Projects in the Real-World Using world_cup.json 
+
+### World Cup 2018
+
+_Yes, you're more than welcome to send a pull request (PR) with your project!_
+
+* https://github.com/sportdb/footty -- command line tool in ruby; shows todays' matches or yesterdays' or tomorrows' or all past or all upcoming
+
+* https://github.com/geeknat/heyrussia -- command line tool in go; shows matches, stadiums, groups, standings, etc.
+
+
+_Feel free to add your project here!_ 
+
 
 
 ## Questions? Comments?
