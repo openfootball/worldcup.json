@@ -115,13 +115,16 @@ Note: For the World Cup 2018 please update the source text file
 
 
 
-
+<!--
 ## Automate, Automate, Automate
 
 If all works (almost) daily updates get pushed by yorobot.
 See the [`yorobot/football.db`](https://github.com/yorobot/football.db) build scripts for
 the (auto-)update machinery.
 
+  add how to generate your own json files from the source datasets or something?
+
+-->
 
 ## Contributions Welcome - Add Your Leagues and Tournaments!
 
