@@ -1701,8 +1701,8 @@
             "name": "France",
             "code": "FRA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
           "group": "Group C",
@@ -1725,10 +1725,27 @@
             "name": "Peru",
             "code": "PER"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Carrillo",
+              "minute": 18,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Guerrero",
+              "minute": 50,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "group": "Group C",
           "stadium": {
             "key": "fisht",
@@ -1749,10 +1766,33 @@
             "name": "Argentina",
             "code": "ARG"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Moses",
+              "minute": 51,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Messi",
+              "minute": 14,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Marcos Rojo",
+              "minute": 86,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group D",
           "stadium": {
             "key": "saintpetersburg",
@@ -1773,10 +1813,33 @@
             "name": "Croatia",
             "code": "CRO"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "G. Sigurdsson",
+              "minute": 76,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Badelj",
+              "minute": 53,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Perisic",
+              "minute": 90,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "group": "Group D",
           "stadium": {
             "key": "rostov",
