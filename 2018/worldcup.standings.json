@@ -254,13 +254,13 @@
             "code": "BRA"
           },
           "pos": 1,
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "goals_for": 3,
+          "goals_for": 5,
           "goals_against": 1,
-          "pts": 4
+          "pts": 7
         },
         {
           "team": {
@@ -268,13 +268,13 @@
             "code": "SUI"
           },
           "pos": 2,
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "goals_for": 3,
-          "goals_against": 2,
-          "pts": 4
+          "goals_for": 5,
+          "goals_against": 4,
+          "pts": 5
         },
         {
           "team": {
@@ -282,12 +282,12 @@
             "code": "SRB"
           },
           "pos": 3,
-          "played": 2,
+          "played": 3,
           "won": 1,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goals_for": 2,
-          "goals_against": 2,
+          "goals_against": 4,
           "pts": 3
         },
         {
@@ -296,13 +296,13 @@
             "code": "CRC"
           },
           "pos": 4,
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 2,
-          "goals_for": 0,
-          "goals_against": 3,
-          "pts": 0
+          "goals_for": 2,
+          "goals_against": 5,
+          "pts": 1
         }
       ]
     },
@@ -311,59 +311,59 @@
       "standings": [
         {
           "team": {
-            "name": "Mexico",
-            "code": "MEX"
+            "name": "Sweden",
+            "code": "SWE"
           },
           "pos": 1,
-          "played": 2,
+          "played": 3,
           "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "goals_for": 3,
-          "goals_against": 1,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 2,
           "pts": 6
         },
         {
           "team": {
-            "name": "Germany",
-            "code": "GER"
+            "name": "Mexico",
+            "code": "MEX"
           },
           "pos": 2,
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
           "lost": 1,
-          "goals_for": 2,
-          "goals_against": 2,
-          "pts": 3
-        },
-        {
-          "team": {
-            "name": "Sweden",
-            "code": "SWE"
-          },
-          "pos": 3,
-          "played": 2,
-          "won": 1,
-          "drawn": 0,
-          "lost": 1,
-          "goals_for": 2,
-          "goals_against": 2,
-          "pts": 3
+          "goals_for": 3,
+          "goals_against": 4,
+          "pts": 6
         },
         {
           "team": {
             "name": "South Korea",
             "code": "KOR"
           },
-          "pos": 4,
-          "played": 2,
-          "won": 0,
+          "pos": 3,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "goals_for": 1,
+          "goals_for": 3,
           "goals_against": 3,
-          "pts": 0
+          "pts": 3
+        },
+        {
+          "team": {
+            "name": "Germany",
+            "code": "GER"
+          },
+          "pos": 4,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goals_for": 2,
+          "goals_against": 4,
+          "pts": 3
         }
       ]
     },

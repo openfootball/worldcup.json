@@ -237,10 +237,11 @@
               "penalty": true
             },
             {
-              "name": "Pogba",
+              "name": "Behich",
               "minute": 81,
               "score1": 2,
-              "score2": 1
+              "score2": 1,
+              "owngoal": true
             }
           ],
           "goals2": [
@@ -805,7 +806,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "L. Suarez",
+              "name": "L. Suárez",
               "minute": 23,
               "score1": 1,
               "score2": 0
@@ -915,7 +916,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "Mbappe",
+              "name": "Mbappé",
               "minute": 34,
               "score1": 1,
               "score2": 0
@@ -994,19 +995,19 @@
           ],
           "goals2": [
             {
-              "name": "Rebic",
+              "name": "Rebić",
               "minute": 53,
               "score1": 0,
               "score2": 1
             },
             {
-              "name": "Modric",
+              "name": "Modrić",
               "minute": 80,
               "score1": 0,
               "score2": 2
             },
             {
-              "name": "Rakitic",
+              "name": "Rakitić",
               "minute": 90,
               "offset": 1,
               "score1": 0,
@@ -1109,7 +1110,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "Mitrovic",
+              "name": "Mitrović",
               "minute": 5,
               "score1": 1,
               "score2": 0
@@ -1207,7 +1208,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "H. M. Son",
+              "name": "Son Heung-min",
               "minute": 90,
               "offset": 3,
               "score1": 1,
@@ -1467,13 +1468,13 @@
           ],
           "goals2": [
             {
-              "name": "Mane",
+              "name": "Mané",
               "minute": 11,
               "score1": 0,
               "score2": 1
             },
             {
-              "name": "M. Wague",
+              "name": "M. Wagué",
               "minute": 71,
               "score1": 1,
               "score2": 2
@@ -1510,7 +1511,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "L. Suarez",
+              "name": "L. Suárez",
               "minute": 10,
               "score1": 1,
               "score2": 0
@@ -1558,7 +1559,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "Salman",
+              "name": "Salman Al-Faraj",
               "minute": 45,
               "offset": 6,
               "score1": 1,
@@ -1566,7 +1567,7 @@
               "penalty": true
             },
             {
-              "name": "Salem",
+              "name": "Salem Al-Dawsari",
               "minute": 90,
               "offset": 5,
               "score1": 2,
@@ -1607,7 +1608,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "Karim",
+              "name": "Karim Ansarifard",
               "minute": 90,
               "offset": 3,
               "score1": 1,
@@ -1819,7 +1820,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "G. Sigurdsson",
+              "name": "G. Sigurðsson",
               "minute": 76,
               "score1": 1,
               "score2": 1,
@@ -1834,7 +1835,7 @@
               "score2": 1
             },
             {
-              "name": "Perisic",
+              "name": "Perišić",
               "minute": 90,
               "score1": 1,
               "score2": 2
@@ -1865,10 +1866,27 @@
             "name": "Brazil",
             "code": "BRA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Paulinho",
+              "minute": 36,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Thiago Silva",
+              "minute": 68,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "group": "Group E",
           "stadium": {
             "key": "spartak",
@@ -1889,10 +1907,40 @@
             "name": "Costa Rica",
             "code": "CRC"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Džemaili",
+              "minute": 31,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Drmić",
+              "minute": 88,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Waston",
+              "minute": 56,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Sommer",
+              "minute": 90,
+              "offset": 3,
+              "score1": 2,
+              "score2": 2,
+              "owngoal": true
+            }
+          ],
           "group": "Group E",
           "stadium": {
             "key": "nizhnynovgorod",
@@ -1913,10 +1961,29 @@
             "name": "Germany",
             "code": "GER"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+            {
+              "name": "Kim Young-gwon",
+              "minute": 90,
+              "offset": 2,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Son Heung-min",
+              "minute": 90,
+              "offset": 6,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group F",
           "stadium": {
             "key": "kazan",
@@ -1937,10 +2004,35 @@
             "name": "Sweden",
             "code": "SWE"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 3,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Augustinsson",
+              "minute": 50,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Granqvist",
+              "minute": 62,
+              "score1": 0,
+              "score2": 2,
+              "penalty": true
+            },
+            {
+              "name": "Álvarez",
+              "minute": 74,
+              "score1": 0,
+              "score2": 3,
+              "owngoal": true
+            }
+          ],
           "group": "Group F",
           "stadium": {
             "key": "ekaterinburg",
@@ -2055,7 +2147,174 @@
     {
       "name": "Round of 16",
       "matches": [
-
+        {
+          "num": 49,
+          "date": "2018-06-30",
+          "time": "21:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Portugal",
+            "code": "POR"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "fisht",
+            "name": "Fisht Stadium"
+          },
+          "city": "Sochi",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 50,
+          "date": "2018-06-30",
+          "time": "17:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "kazan",
+            "name": "Kazan Arena"
+          },
+          "city": "Kazan",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 51,
+          "date": "2018-07-01",
+          "time": "17:00",
+          "team1": {
+            "name": "Spain",
+            "code": "ESP"
+          },
+          "team2": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium"
+          },
+          "city": "Moscow",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 52,
+          "date": "2018-07-01",
+          "time": "21:00",
+          "team1": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "team2": {
+            "name": "Denmark",
+            "code": "DEN"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "nizhnynovgorod",
+            "name": "Nizhny Novgorod Stadium"
+          },
+          "city": "Nizhny Novgorod",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 53,
+          "date": "2018-07-02",
+          "time": "18:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "samara",
+            "name": "Samara Arena"
+          },
+          "city": "Samara",
+          "timezone": "UTC+4"
+        },
+        {
+          "num": 55,
+          "date": "2018-07-03",
+          "time": "17:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "Switzerland",
+            "code": "SUI"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium"
+          },
+          "city": "Saint Petersburg",
+          "timezone": "UTC+3"
+        }
       ]
     },
     {
