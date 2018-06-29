@@ -2106,10 +2106,21 @@
             "name": "Poland",
             "code": "POL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Bednarek",
+              "minute": 59,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group H",
           "stadium": {
             "key": "volgograd",
@@ -2130,10 +2141,21 @@
             "name": "Colombia",
             "code": "COL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Y. Mina",
+              "minute": 74,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "group": "Group H",
           "stadium": {
             "key": "samara",
@@ -2288,6 +2310,34 @@
           "timezone": "UTC+4"
         },
         {
+          "num": 54,
+          "date": "2018-07-02",
+          "time": "21:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "Japan",
+            "code": "JPN"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "rostov",
+            "name": "Rostov Arena"
+          },
+          "city": "Rostov-on-Don",
+          "timezone": "UTC+3"
+        },
+        {
           "num": 55,
           "date": "2018-07-03",
           "time": "17:00",
@@ -2313,6 +2363,34 @@
             "name": "Saint Petersburg Stadium"
           },
           "city": "Saint Petersburg",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 56,
+          "date": "2018-07-03",
+          "time": "21:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "spartak",
+            "name": "Spartak Stadium"
+          },
+          "city": "Moscow",
           "timezone": "UTC+3"
         }
       ]

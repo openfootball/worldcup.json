@@ -433,17 +433,17 @@
       "standings": [
         {
           "team": {
-            "name": "Senegal",
-            "code": "SEN"
+            "name": "Colombia",
+            "code": "COL"
           },
           "pos": 1,
-          "played": 2,
-          "won": 1,
-          "drawn": 1,
-          "lost": 0,
-          "goals_for": 4,
-          "goals_against": 3,
-          "pts": 4
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 5,
+          "goals_against": 2,
+          "pts": 6
         },
         {
           "team": {
@@ -451,27 +451,27 @@
             "code": "JPN"
           },
           "pos": 2,
-          "played": 2,
+          "played": 3,
           "won": 1,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "goals_for": 4,
-          "goals_against": 3,
+          "goals_against": 4,
           "pts": 4
         },
         {
           "team": {
-            "name": "Colombia",
-            "code": "COL"
+            "name": "Senegal",
+            "code": "SEN"
           },
           "pos": 3,
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "goals_for": 4,
-          "goals_against": 2,
-          "pts": 3
+          "goals_against": 4,
+          "pts": 4
         },
         {
           "team": {
@@ -479,13 +479,13 @@
             "code": "POL"
           },
           "pos": 4,
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "goals_for": 1,
+          "goals_for": 2,
           "goals_against": 5,
-          "pts": 0
+          "pts": 3
         }
       ]
     }
