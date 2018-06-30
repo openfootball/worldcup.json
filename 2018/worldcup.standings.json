@@ -372,30 +372,30 @@
       "standings": [
         {
           "team": {
-            "name": "England",
-            "code": "ENG"
-          },
-          "pos": 1,
-          "played": 2,
-          "won": 2,
-          "drawn": 0,
-          "lost": 0,
-          "goals_for": 8,
-          "goals_against": 2,
-          "pts": 6
-        },
-        {
-          "team": {
             "name": "Belgium",
             "code": "BEL"
           },
-          "pos": 2,
-          "played": 2,
-          "won": 2,
+          "pos": 1,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "goals_for": 8,
+          "goals_for": 9,
           "goals_against": 2,
+          "pts": 9
+        },
+        {
+          "team": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "pos": 2,
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goals_for": 8,
+          "goals_against": 3,
           "pts": 6
         },
         {
@@ -404,13 +404,13 @@
             "code": "TUN"
           },
           "pos": 3,
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "goals_for": 3,
-          "goals_against": 7,
-          "pts": 0
+          "goals_for": 5,
+          "goals_against": 8,
+          "pts": 3
         },
         {
           "team": {
@@ -418,12 +418,12 @@
             "code": "PAN"
           },
           "pos": 4,
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "goals_for": 1,
-          "goals_against": 9,
+          "lost": 3,
+          "goals_for": 2,
+          "goals_against": 11,
           "pts": 0
         }
       ]
