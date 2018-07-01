@@ -2215,8 +2215,8 @@
             "name": "Portugal",
             "code": "POR"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2224,6 +2224,28 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Edinson Cavani",
+              "minute": 7,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Edinson Cavani",
+              "minute": 62,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Pepe",
+              "minute": 55,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
           "stadium": {
             "key": "fisht",
             "name": "Fisht Stadium"
@@ -2243,8 +2265,8 @@
             "name": "Argentina",
             "code": "ARG"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 4,
+          "score2": 3,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2252,6 +2274,54 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Antoine Griezmann",
+              "minute": 13,
+              "score1": 1,
+              "score2": 0,
+              "penalty": true
+            },
+            {
+              "name": "Benjamin Pavard",
+              "minute": 57,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "Kylian Mbappé",
+              "minute": 64,
+              "score1": 3,
+              "score2": 2
+            },
+            {
+              "name": "Kylian Mbappé",
+              "minute": 68,
+              "score1": 4,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Ángel Di María",
+              "minute": 41,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Gabriel Mercado",
+              "minute": 48,
+              "score1": 1,
+              "score2": 2
+            },
+            {
+              "name": "Sergio Agüero",
+              "minute": 90,
+              "offset": 3,
+              "score1": 4,
+              "score2": 3
+            }
+          ],
           "stadium": {
             "key": "kazan",
             "name": "Kazan Arena"
