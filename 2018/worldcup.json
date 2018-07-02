@@ -2341,15 +2341,33 @@
             "name": "Russia",
             "code": "RUS"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 4,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
+          "score1et": 1,
+          "score2et": 1,
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Sergei Ignashevich",
+              "minute": 12,
+              "score1": 1,
+              "score2": 0,
+              "owngoal": true
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Artem Dzyuba",
+              "minute": 41,
+              "score1": 1,
+              "score2": 1,
+              "penalty": true
+            }
+          ],
           "stadium": {
             "key": "luzhniki",
             "name": "Luzhniki Stadium"
@@ -2369,15 +2387,31 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
+          "score1et": 1,
+          "score2et": 1,
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Mario Mandžukić",
+              "minute": 4,
+              "score1": 1,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Mathias Jørgensen",
+              "minute": 1,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "stadium": {
             "key": "nizhnynovgorod",
             "name": "Nizhny Novgorod Stadium"
@@ -2502,7 +2536,62 @@
     {
       "name": "Quarter-finals",
       "matches": [
-
+        {
+          "num": 57,
+          "date": "2018-07-06",
+          "time": "17:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "nizhnynovgorod",
+            "name": "Nizhny Novgorod Stadium"
+          },
+          "city": "Nizhny Novgorod",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 59,
+          "date": "2018-07-07",
+          "time": "21:00",
+          "team1": {
+            "name": "Russia",
+            "code": "RUS"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "fisht",
+            "name": "Fisht Stadium"
+          },
+          "city": "Sochi",
+          "timezone": "UTC+3"
+        }
       ]
     },
     {
