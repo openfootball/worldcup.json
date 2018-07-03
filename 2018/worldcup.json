@@ -2431,8 +2431,8 @@
             "name": "Mexico",
             "code": "MEX"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 2,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2440,6 +2440,23 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Neymar",
+              "minute": 51,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Roberto Firmino",
+              "minute": 88,
+              "score1": 2,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "stadium": {
             "key": "samara",
             "name": "Samara Arena"
@@ -2459,8 +2476,8 @@
             "name": "Japan",
             "code": "JPN"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2468,6 +2485,41 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Jan Vertonghen",
+              "minute": 69,
+              "score1": 1,
+              "score2": 2
+            },
+            {
+              "name": "Marouane Fellaini",
+              "minute": 74,
+              "score1": 2,
+              "score2": 2
+            },
+            {
+              "name": "Nacer Chadli",
+              "minute": 90,
+              "offset": 4,
+              "score1": 3,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Genki Haraguchi",
+              "minute": 48,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Takashi Inui",
+              "minute": 52,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "stadium": {
             "key": "rostov",
             "name": "Rostov Arena"
@@ -2562,6 +2614,34 @@
             "name": "Nizhny Novgorod Stadium"
           },
           "city": "Nizhny Novgorod",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 58,
+          "date": "2018-07-06",
+          "time": "21:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "kazan",
+            "name": "Kazan Arena"
+          },
+          "city": "Kazan",
           "timezone": "UTC+3"
         },
         {
