@@ -2700,6 +2700,34 @@
           },
           "city": "Sochi",
           "timezone": "UTC+3"
+        },
+        {
+          "num": 60,
+          "date": "2018-07-07",
+          "time": "18:00",
+          "team1": {
+            "name": "Sweden",
+            "code": "SWE"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "samara",
+            "name": "Samara Arena"
+          },
+          "city": "Samara",
+          "timezone": "UTC+4"
         }
       ]
     },
