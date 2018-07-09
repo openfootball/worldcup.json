@@ -2629,8 +2629,8 @@
             "name": "France",
             "code": "FRA"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2638,6 +2638,23 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Raphaël Varane",
+              "minute": 40,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Antoine Griezmann",
+              "minute": 61,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "stadium": {
             "key": "nizhnynovgorod",
             "name": "Nizhny Novgorod Stadium"
@@ -2657,8 +2674,8 @@
             "name": "Belgium",
             "code": "BEL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2666,6 +2683,29 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Renato Augusto",
+              "minute": 76,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Fernandinho",
+              "minute": 13,
+              "score1": 0,
+              "score2": 1,
+              "owngoal": true
+            },
+            {
+              "name": "Kevin De Bruyne",
+              "minute": 31,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "stadium": {
             "key": "kazan",
             "name": "Kazan Arena"
@@ -2685,15 +2725,43 @@
             "name": "Croatia",
             "code": "CRO"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 3,
+          "score2": 4,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
+          "score1et": 2,
+          "score2et": 2,
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Denis Cheryshev",
+              "minute": 31,
+              "score1": 1,
+              "score2": 0
+            },
+            {
+              "name": "Mário Figueira Fernandes",
+              "minute": 115,
+              "score1": 2,
+              "score2": 2
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Andrej Kramarić",
+              "minute": 39,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Domagoj Vida",
+              "minute": 100,
+              "score1": 1,
+              "score2": 2
+            }
+          ],
           "stadium": {
             "key": "fisht",
             "name": "Fisht Stadium"
@@ -2713,8 +2781,8 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 0,
+          "score2": 2,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2722,6 +2790,23 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Harry Maguire",
+              "minute": 30,
+              "score1": 0,
+              "score2": 1
+            },
+            {
+              "name": "Dele Alli",
+              "minute": 58,
+              "score1": 0,
+              "score2": 2
+            }
+          ],
           "stadium": {
             "key": "samara",
             "name": "Samara Arena"
@@ -2734,7 +2819,62 @@
     {
       "name": "Semi-finals",
       "matches": [
-
+        {
+          "num": 61,
+          "date": "2018-07-10",
+          "time": "21:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium"
+          },
+          "city": "Saint Petersburg",
+          "timezone": "UTC+3"
+        },
+        {
+          "num": 62,
+          "date": "2018-07-11",
+          "time": "21:00",
+          "team1": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium"
+          },
+          "city": "Moscow",
+          "timezone": "UTC+3"
+        }
       ]
     },
     {
