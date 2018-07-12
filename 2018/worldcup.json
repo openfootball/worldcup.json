@@ -2831,8 +2831,8 @@
             "name": "Belgium",
             "code": "BEL"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 0,
           "score1i": null,
           "score2i": null,
           "score1et": null,
@@ -2840,6 +2840,17 @@
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Samuel Umtiti",
+              "minute": 51,
+              "score1": 1,
+              "score2": 0
+            }
+          ],
+          "goals2": [
+
+          ],
           "stadium": {
             "key": "saintpetersburg",
             "name": "Saint Petersburg Stadium"
@@ -2859,15 +2870,37 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": null,
-          "score2": null,
+          "score1": 1,
+          "score2": 1,
           "score1i": null,
           "score2i": null,
-          "score1et": null,
-          "score2et": null,
+          "score1et": 2,
+          "score2et": 1,
           "score1p": null,
           "score2p": null,
           "knockout": true,
+          "goals1": [
+            {
+              "name": "Ivan Perišić",
+              "minute": 68,
+              "score1": 1,
+              "score2": 1
+            },
+            {
+              "name": "Mario Mandžukić",
+              "minute": 109,
+              "score1": 2,
+              "score2": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Kieran Trippier",
+              "minute": 5,
+              "score1": 0,
+              "score2": 1
+            }
+          ],
           "stadium": {
             "key": "luzhniki",
             "name": "Luzhniki Stadium"
