@@ -18,8 +18,8 @@
           },
           "score1": 5,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 2,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Gazinsky",
@@ -84,8 +84,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -119,8 +119,8 @@
           },
           "score1": 3,
           "score2": 3,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 2,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Ronaldo",
@@ -184,8 +184,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -226,8 +226,8 @@
           },
           "score1": 2,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Griezmann",
@@ -275,8 +275,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -310,8 +310,8 @@
           },
           "score1": 1,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Agüero",
@@ -350,8 +350,8 @@
           },
           "score1": 2,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Etebo",
@@ -398,8 +398,8 @@
           },
           "score1": 1,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Coutinho",
@@ -438,8 +438,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -473,8 +473,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
 
           ],
@@ -513,8 +513,8 @@
           },
           "score1": 1,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Granqvist",
@@ -549,8 +549,8 @@
           },
           "score1": 3,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Mertens",
@@ -596,8 +596,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Sassi",
@@ -649,8 +649,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Krychowiak",
@@ -696,8 +696,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "J. Quintero",
@@ -743,8 +743,8 @@
           },
           "score1": 3,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "A. Fathi",
@@ -802,8 +802,8 @@
           },
           "score1": 1,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "L. Suárez",
@@ -837,8 +837,8 @@
           },
           "score1": 1,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Ronaldo",
@@ -872,8 +872,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -912,8 +912,8 @@
           },
           "score1": 1,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Mbappé",
@@ -947,8 +947,8 @@
           },
           "score1": 1,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Eriksen",
@@ -988,8 +988,8 @@
           },
           "score1": 0,
           "score2": 3,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -1041,8 +1041,8 @@
           },
           "score1": 2,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Musa",
@@ -1082,8 +1082,8 @@
           },
           "score1": 2,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "group": "Group E",
           "stadium": {
             "key": "saintpetersburg",
@@ -1106,8 +1106,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Mitrović",
@@ -1157,8 +1157,8 @@
           },
           "score1": 2,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Reus",
@@ -1204,8 +1204,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Son Heung-min",
@@ -1252,8 +1252,8 @@
           },
           "score1": 5,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 3,
+          "score2i": 1,
           "goals1": [
             {
               "name": "E. Hazard",
@@ -1330,8 +1330,8 @@
           },
           "score1": 6,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 5,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Stones",
@@ -1403,8 +1403,8 @@
           },
           "score1": 0,
           "score2": 3,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
 
           ],
@@ -1450,8 +1450,8 @@
           },
           "score1": 2,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Inui",
@@ -1507,8 +1507,8 @@
           },
           "score1": 3,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 2,
+          "score2i": 0,
           "goals1": [
             {
               "name": "L. Suárez",
@@ -1555,8 +1555,8 @@
           },
           "score1": 2,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Salman Al-Faraj",
@@ -1604,8 +1604,8 @@
           },
           "score1": 1,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Karim Ansarifard",
@@ -1646,8 +1646,8 @@
           },
           "score1": 2,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Isco",
@@ -1704,8 +1704,8 @@
           },
           "score1": 0,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "group": "Group C",
           "stadium": {
             "key": "luzhniki",
@@ -1728,8 +1728,8 @@
           },
           "score1": 0,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
 
           ],
@@ -1769,8 +1769,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
             {
               "name": "Moses",
@@ -1816,8 +1816,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "G. Sigurðsson",
@@ -1868,8 +1868,8 @@
           },
           "score1": 0,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
 
           ],
@@ -1909,8 +1909,8 @@
           },
           "score1": 2,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Džemaili",
@@ -1963,8 +1963,8 @@
           },
           "score1": 2,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Kim Young-gwon",
@@ -2006,8 +2006,8 @@
           },
           "score1": 0,
           "score2": 3,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -2060,8 +2060,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "goals1": [
 
           ],
@@ -2095,8 +2095,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "goals1": [
             {
               "name": "Yassine Meriah",
@@ -2142,8 +2142,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
 
           ],
@@ -2177,8 +2177,8 @@
           },
           "score1": 0,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "goals1": [
 
           ],
@@ -2217,8 +2217,8 @@
           },
           "score1": 2,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 0,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2267,8 +2267,8 @@
           },
           "score1": 4,
           "score2": 3,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 1,
+          "score2i": 1,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2341,14 +2341,14 @@
             "name": "Russia",
             "code": "RUS"
           },
-          "score1": 3,
-          "score2": 4,
-          "score1i": null,
-          "score2i": null,
+          "score1": 1,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 1,
           "score1et": 1,
           "score2et": 1,
-          "score1p": null,
-          "score2p": null,
+          "score1p": 3,
+          "score2p": 4,
           "knockout": true,
           "goals1": [
             {
@@ -2387,14 +2387,14 @@
             "name": "Denmark",
             "code": "DEN"
           },
-          "score1": 3,
-          "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1": 1,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 1,
           "score1et": 1,
           "score2et": 1,
-          "score1p": null,
-          "score2p": null,
+          "score1p": 3,
+          "score2p": 2,
           "knockout": true,
           "goals1": [
             {
@@ -2433,8 +2433,8 @@
           },
           "score1": 2,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2478,8 +2478,8 @@
           },
           "score1": 3,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2541,8 +2541,8 @@
           },
           "score1": 1,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2578,14 +2578,14 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": 3,
-          "score2": 4,
-          "score1i": null,
-          "score2i": null,
+          "score1": 1,
+          "score2": 1,
+          "score1i": 0,
+          "score2i": 0,
           "score1et": 1,
           "score2et": 1,
-          "score1p": null,
-          "score2p": null,
+          "score1p": 3,
+          "score2p": 4,
           "knockout": true,
           "goals1": [
             {
@@ -2631,8 +2631,8 @@
           },
           "score1": 0,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2676,8 +2676,8 @@
           },
           "score1": 1,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 2,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2725,14 +2725,14 @@
             "name": "Croatia",
             "code": "CRO"
           },
-          "score1": 3,
-          "score2": 4,
-          "score1i": null,
-          "score2i": null,
+          "score1": 1,
+          "score2": 1,
+          "score1i": 1,
+          "score2i": 1,
           "score1et": 2,
           "score2et": 2,
-          "score1p": null,
-          "score2p": null,
+          "score1p": 3,
+          "score2p": 4,
           "knockout": true,
           "goals1": [
             {
@@ -2783,8 +2783,8 @@
           },
           "score1": 0,
           "score2": 2,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2833,8 +2833,8 @@
           },
           "score1": 1,
           "score2": 0,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 0,
           "score1et": null,
           "score2et": null,
           "score1p": null,
@@ -2870,10 +2870,10 @@
             "name": "England",
             "code": "ENG"
           },
-          "score1": 2,
+          "score1": 1,
           "score2": 1,
-          "score1i": null,
-          "score2i": null,
+          "score1i": 0,
+          "score2i": 1,
           "score1et": 2,
           "score2et": 1,
           "score1p": null,
@@ -2913,13 +2913,67 @@
     {
       "name": "Match for third place",
       "matches": [
-
+        {
+          "num": 63,
+          "date": "2018-07-14",
+          "time": "17:00",
+          "team1": {
+            "name": "Belgium",
+            "code": "BEL"
+          },
+          "team2": {
+            "name": "England",
+            "code": "ENG"
+          },
+          "score1": null,
+          "score2": null,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "saintpetersburg",
+            "name": "Saint Petersburg Stadium"
+          },
+          "city": "Saint Petersburg",
+          "timezone": "UTC+3"
+        }
       ]
     },
     {
       "name": "Final",
       "matches": [
-
+        {
+          "num": 64,
+          "date": "2018-07-15",
+          "time": "12:00",
+          "team1": {
+            "name": "France",
+            "code": "FRA"
+          },
+          "team2": {
+            "name": "Croatia",
+            "code": "CRO"
+          },
+          "score1": 18,
+          "score2": 0,
+          "score1i": null,
+          "score2i": null,
+          "score1et": null,
+          "score2et": null,
+          "score1p": null,
+          "score2p": null,
+          "knockout": true,
+          "stadium": {
+            "key": "luzhniki",
+            "name": "Luzhniki Stadium"
+          },
+          "city": "Moscow",
+          "timezone": "UTC+3"
+        }
       ]
     }
   ]
