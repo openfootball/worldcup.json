@@ -1,4 +1,4 @@
-# world-cup.json
+# worldcup.json
 
 Free open public domain football data for the world cups in the JSON
 (JavaScript Object Notation)
@@ -7,7 +7,7 @@ incl. Russia 2018 and more - No API key required ;-).
 
 
 
-Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`2018/worldcup.json`](https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018/worldcup.json):
+Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`2018/worldcup.json`](https://raw.githubusercontent.com/openfootball/worldcup.json/master/2018/worldcup.json):
 
 ``` json
 {
@@ -77,7 +77,7 @@ Use the "raw" links served by GitHub (otherwise you get the complete "formatted"
 Example:
 
 ```
-$ curl https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018/worldcup.json
+$ curl https://raw.githubusercontent.com/openfootball/worldcup.json/master/2018/worldcup.json
 ```
 
 
@@ -86,15 +86,15 @@ $ curl https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018
 Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
 edit the JSON files but the source text files in the world cup (and friends) repos** e.g.:
 
-- World Cups in [`/world-cup`](https://github.com/openfootball/world-cup)
+- World Cups in [`/worldcup`](https://github.com/openfootball/worldcup)
 - National Teams in [`/national-teams`](https://github.com/openfootball/national-teams)
 - Stadiums in [`/stadiums`](https://github.com/openfootball/stadiums)
 - and so on
 
 
 Note: For the World Cup 2018 please update the source text file
-[`/world-cup/2018--russia/cup.txt`](https://github.com/openfootball/world-cup/blob/master/2018--russia/cup.txt) for the group stage and
-[`/world-cup/2018--russia/cup_finals.txt`](https://github.com/openfootball/world-cup/blob/master/2018--russia/cup_finals.txt) for the knockout (quarter-finals, semi-finals, etc.) stage.
+[`/worldcup/2018--russia/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2018--russia/cup.txt) for the group stage and
+[`/worldcup/2018--russia/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2018--russia/cup_finals.txt) for the knockout (quarter-finals, semi-finals, etc.) stage.
 
 
 
@@ -120,12 +120,12 @@ For starting your own repo from scratch see the [League Quick Starter Kit](https
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
-The world-cup.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The worldcup.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 
 
 
-## Projects in the Real-World Using world_cup.json 
+## Projects in the Real-World Using worldcup.json 
 
 ### World Cup 2018
 
