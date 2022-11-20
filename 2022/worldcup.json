@@ -1,0 +1,341 @@
+{
+  "name": "World Cup 2022",
+  "matches": [
+    {
+      "round": "Matchday 1",
+      "group": "Group A",
+      "date": "2022-11-20",
+      "team1": "Qatar",
+      "team2": "Ecuador"
+    },
+    {
+      "round": "Matchday 2",
+      "group": "Group A",
+      "date": "2022-11-21",
+      "team1": "Senegal",
+      "team2": "Netherlands"
+    },
+    {
+      "round": "Matchday 6",
+      "group": "Group A",
+      "date": "2022-11-25",
+      "team1": "Qatar",
+      "team2": "Senegal"
+    },
+    {
+      "round": "Matchday 6",
+      "group": "Group A",
+      "date": "2022-11-25",
+      "team1": "Netherlands",
+      "team2": "Ecuador"
+    },
+    {
+      "round": "Matchday 10",
+      "group": "Group A",
+      "date": "2022-11-29",
+      "team1": "Ecuador",
+      "team2": "Senegal"
+    },
+    {
+      "round": "Matchday 10",
+      "group": "Group A",
+      "date": "2022-11-29",
+      "team1": "Netherlands",
+      "team2": "Qatar"
+    },
+    {
+      "round": "Matchday 2",
+      "group": "Group B",
+      "date": "2022-11-21",
+      "team1": "England",
+      "team2": "Iran"
+    },
+    {
+      "round": "Matchday 2",
+      "group": "Group B",
+      "date": "2022-11-21",
+      "team1": "United States",
+      "team2": "Wales"
+    },
+    {
+      "round": "Matchday 6",
+      "group": "Group B",
+      "date": "2022-11-25",
+      "team1": "Wales",
+      "team2": "Iran"
+    },
+    {
+      "round": "Matchday 6",
+      "group": "Group B",
+      "date": "2022-11-25",
+      "team1": "England",
+      "team2": "United States"
+    },
+    {
+      "round": "Matchday 10",
+      "group": "Group B",
+      "date": "2022-11-29",
+      "team1": "Wales",
+      "team2": "England"
+    },
+    {
+      "round": "Matchday 10",
+      "group": "Group B",
+      "date": "2022-11-29",
+      "team1": "Iran",
+      "team2": "United States"
+    },
+    {
+      "round": "Matchday 3",
+      "group": "Group C",
+      "date": "2022-11-22",
+      "team1": "Argentina",
+      "team2": "Saudi Arabia"
+    },
+    {
+      "round": "Matchday 3",
+      "group": "Group C",
+      "date": "2022-11-22",
+      "team1": "Mexico",
+      "team2": "Poland"
+    },
+    {
+      "round": "Matchday 7",
+      "group": "Group C",
+      "date": "2022-11-26",
+      "team1": "Poland",
+      "team2": "Saudi Arabia"
+    },
+    {
+      "round": "Matchday 7",
+      "group": "Group C",
+      "date": "2022-11-26",
+      "team1": "Argentina",
+      "team2": "Mexico"
+    },
+    {
+      "round": "Matchday 11",
+      "group": "Group C",
+      "date": "2022-11-30",
+      "team1": "Poland",
+      "team2": "Argentina"
+    },
+    {
+      "round": "Matchday 11",
+      "group": "Group C",
+      "date": "2022-11-30",
+      "team1": "Saudi Arabia",
+      "team2": "Mexico"
+    },
+    {
+      "round": "Matchday 3",
+      "group": "Group D",
+      "date": "2022-11-22",
+      "team1": "Denmark",
+      "team2": "Tunisia"
+    },
+    {
+      "round": "Matchday 3",
+      "group": "Group D",
+      "date": "2022-11-22",
+      "team1": "France",
+      "team2": "Australia"
+    },
+    {
+      "round": "Matchday 7",
+      "group": "Group D",
+      "date": "2022-11-26",
+      "team1": "Tunisia",
+      "team2": "Australia"
+    },
+    {
+      "round": "Matchday 7",
+      "group": "Group D",
+      "date": "2022-11-26",
+      "team1": "France",
+      "team2": "Denmark"
+    },
+    {
+      "round": "Matchday 11",
+      "group": "Group D",
+      "date": "2022-11-30",
+      "team1": "Australia",
+      "team2": "Denmark"
+    },
+    {
+      "round": "Matchday 11",
+      "group": "Group D",
+      "date": "2022-11-30",
+      "team1": "Tunisia",
+      "team2": "France"
+    },
+    {
+      "round": "Matchday 4",
+      "group": "Group E",
+      "date": "2022-11-23",
+      "team1": "Germany",
+      "team2": "Japan"
+    },
+    {
+      "round": "Matchday 4",
+      "group": "Group E",
+      "date": "2022-11-23",
+      "team1": "Spain",
+      "team2": "Costa Rica"
+    },
+    {
+      "round": "Matchday 8",
+      "group": "Group E",
+      "date": "2022-11-27",
+      "team1": "Japan",
+      "team2": "Costa Rica"
+    },
+    {
+      "round": "Matchday 8",
+      "group": "Group E",
+      "date": "2022-11-27",
+      "team1": "Spain",
+      "team2": "Germany"
+    },
+    {
+      "round": "Matchday 12",
+      "group": "Group E",
+      "date": "2022-12-01",
+      "team1": "Japan",
+      "team2": "Spain"
+    },
+    {
+      "round": "Matchday 12",
+      "group": "Group E",
+      "date": "2022-12-01",
+      "team1": "Costa Rica",
+      "team2": "Germany"
+    },
+    {
+      "round": "Matchday 4",
+      "group": "Group F",
+      "date": "2022-11-23",
+      "team1": "Morocco",
+      "team2": "Croatia"
+    },
+    {
+      "round": "Matchday 4",
+      "group": "Group F",
+      "date": "2022-11-23",
+      "team1": "Belgium",
+      "team2": "Canada"
+    },
+    {
+      "round": "Matchday 8",
+      "group": "Group F",
+      "date": "2022-11-27",
+      "team1": "Belgium",
+      "team2": "Morocco"
+    },
+    {
+      "round": "Matchday 8",
+      "group": "Group F",
+      "date": "2022-11-27",
+      "team1": "Croatia",
+      "team2": "Canada"
+    },
+    {
+      "round": "Matchday 12",
+      "group": "Group F",
+      "date": "2022-12-01",
+      "team1": "Croatia",
+      "team2": "Belgium"
+    },
+    {
+      "round": "Matchday 12",
+      "group": "Group F",
+      "date": "2022-12-01",
+      "team1": "Canada",
+      "team2": "Morocco"
+    },
+    {
+      "round": "Matchday 5",
+      "group": "Group G",
+      "date": "2022-11-24",
+      "team1": "Switzerland",
+      "team2": "Cameroon"
+    },
+    {
+      "round": "Matchday 5",
+      "group": "Group G",
+      "date": "2022-11-24",
+      "team1": "Brazil",
+      "team2": "Serbia"
+    },
+    {
+      "round": "Matchday 9",
+      "group": "Group G",
+      "date": "2022-11-28",
+      "team1": "Cameroon",
+      "team2": "Serbia"
+    },
+    {
+      "round": "Matchday 9",
+      "group": "Group G",
+      "date": "2022-11-28",
+      "team1": "Brazil",
+      "team2": "Switzerland"
+    },
+    {
+      "round": "Matchday 13",
+      "group": "Group G",
+      "date": "2022-12-02",
+      "team1": "Serbia",
+      "team2": "Switzerland"
+    },
+    {
+      "round": "Matchday 13",
+      "group": "Group G",
+      "date": "2022-12-02",
+      "team1": "Cameroon",
+      "team2": "Brazil"
+    },
+    {
+      "round": "Matchday 5",
+      "group": "Group H",
+      "date": "2022-11-24",
+      "team1": "Uruguay",
+      "team2": "South Korea"
+    },
+    {
+      "round": "Matchday 5",
+      "group": "Group H",
+      "date": "2022-11-24",
+      "team1": "Portugal",
+      "team2": "Ghana"
+    },
+    {
+      "round": "Matchday 9",
+      "group": "Group H",
+      "date": "2022-11-28",
+      "team1": "South Korea",
+      "team2": "Ghana"
+    },
+    {
+      "round": "Matchday 9",
+      "group": "Group H",
+      "date": "2022-11-28",
+      "team1": "Portugal",
+      "team2": "Uruguay"
+    },
+    {
+      "round": "Matchday 13",
+      "group": "Group H",
+      "date": "2022-12-02",
+      "team1": "Ghana",
+      "team2": "Uruguay"
+    },
+    {
+      "round": "Matchday 13",
+      "group": "Group H",
+      "date": "2022-12-02",
+      "team1": "South Korea",
+      "team2": "Portugal"
+    }
+  ]
+}

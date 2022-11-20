@@ -3,7 +3,7 @@
 Free open public domain football data for the world cups in the JSON
 (JavaScript Object Notation)
 data interchange format
-incl. Russia 2018 and more - No API key required ;-).
+incl. Qatar 2022, Russia 2018 and more - No API key required ;-).
 
 
 
@@ -59,14 +59,14 @@ Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`201
             { "name": "Giménez",  "minute": 89,  "score1": 0, "score2": 1 }
           ],
           "group": "Group A",
-          "stadium": { "key": "ekaterinburg", "name": "Ekaterinburg Arena" },          
+          "stadium": { "key": "ekaterinburg", "name": "Ekaterinburg Arena" },
           "city": "Ekaterinburg",
           "timezone": "UTC+5"
         },
         ...
       ],
     },
-  ],  
+  ],
 }
 ```
 
@@ -92,9 +92,9 @@ edit the JSON files but the source text files in the world cup (and friends) rep
 - and so on
 
 
-Note: For the World Cup 2018 please update the source text file
-[`/worldcup/2018--russia/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2018--russia/cup.txt) for the group stage and
-[`/worldcup/2018--russia/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2018--russia/cup_finals.txt) for the knockout (quarter-finals, semi-finals, etc.) stage.
+Note: For the World Cup 2022 please update the source text file
+[`/worldcup/2022--qatar/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup.txt) for the group stage and
+[`/worldcup/2022--qatar/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup_finals.txt) for the knockout (quarter-finals, semi-finals, etc.) stage.
 
 
 
@@ -125,7 +125,7 @@ The worldcup.json schema, data and scripts are dedicated to the public domain. U
 
 
 
-## Projects in the Real-World Using worldcup.json 
+## Projects in the Real-World Using worldcup.json
 
 ### World Cup 2018
 
@@ -136,7 +136,7 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 * https://github.com/geeknat/heyrussia -- command line tool in go; shows matches, stadiums, groups, standings, etc.
 
 
-_Feel free to add your project here!_ 
+_Feel free to add your project here!_
 
 
 

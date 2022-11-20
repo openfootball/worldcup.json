@@ -1,0 +1,77 @@
+{
+  "name": "World Cup 2022",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        "Qatar",
+        "Ecuador",
+        "Senegal",
+        "Netherlands"
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        "England",
+        "Iran",
+        "United States",
+        "Wales"
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        "Argentina",
+        "Saudi Arabia",
+        "Mexico",
+        "Poland"
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        "Denmark",
+        "Tunisia",
+        "France",
+        "Australia"
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        "Germany",
+        "Japan",
+        "Spain",
+        "Costa Rica"
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        "Morocco",
+        "Croatia",
+        "Belgium",
+        "Canada"
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        "Switzerland",
+        "Cameroon",
+        "Brazil",
+        "Serbia"
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        "Uruguay",
+        "South Korea",
+        "Portugal",
+        "Ghana"
+      ]
+    }
+  ]
+}
