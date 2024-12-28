@@ -6,7 +6,7 @@ Let's try to convert the World Cup 2022
 in the Football.TXT format (see [`worldcup/2022--qatar/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup.txt), [`worldcup/2022--qatar/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup_finals.txt)) to JSON:
 
 ```
-$ fbtxt2json worldcup/2022--qatar/cup.txt worldcup/2022--qatar/cup_finals.txt -o worldcup.json
+$ fbtxt2json 2022--qatar/cup.txt 2022--qatar/cup_finals.txt -o worldcup.json
 ```
 
 
