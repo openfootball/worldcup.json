@@ -130,8 +130,6 @@ For starting your own repo from scratch see the [League Quick Starter Kit](https
 
 ## License
 
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
 The worldcup.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 
@@ -150,10 +148,7 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 _Feel free to add your project here!_
 
-
-
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
