@@ -1,6 +1,6 @@
 ## What's News?
 
-Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/sport.db/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
+Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
 Let's try to convert the World Cup 2022
 in the Football.TXT format (see [`worldcup/2022--qatar/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup.txt), [`worldcup/2022--qatar/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup_finals.txt)) to JSON:
