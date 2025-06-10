@@ -1,0 +1,521 @@
+{
+  "name": "Club World Cup 2025",
+  "matches": [
+    {
+      "round": "Group A",
+      "date": "2025-06-14",
+      "time": "20:00",
+      "team1": "Al Ahly SC (EGY)",
+      "team2": "Inter Miami CF (USA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-15",
+      "time": "18:00",
+      "team1": "Palmeiras (BRA)",
+      "team2": "FC Porto (POR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-19",
+      "time": "12:00",
+      "team1": "Palmeiras (BRA)",
+      "team2": "Al Ahly SC (EGY)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-19",
+      "time": "15:00",
+      "team1": "Inter Miami CF (USA)",
+      "team2": "FC Porto (POR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-23",
+      "time": "21:00",
+      "team1": "Inter Miami CF (USA)",
+      "team2": "Palmeiras (BRA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-23",
+      "time": "21:00",
+      "team1": "FC Porto (POR)",
+      "team2": "Al Ahly SC (EGY)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2025-06-15",
+      "time": "15:00",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2025-06-15",
+      "time": "22:00",
+      "team1": "Botafogo RJ (BRA)",
+      "team2": "Seattle Sounders (USA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2025-06-19",
+      "time": "18:00",
+      "team1": "Seattle Sounders (USA)",
+      "team2": "Atlético Madrid (ESP)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2025-06-19",
+      "time": "21:00",
+      "team1": "Paris Saint-Germain (FRA)",
+      "team2": "Botafogo RJ (BRA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2025-06-23",
+      "time": "15:00",
+      "team1": "Seattle Sounders (USA)",
+      "team2": "Paris Saint-Germain (FRA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group B",
+      "date": "2025-06-23",
+      "time": "15:00",
+      "team1": "Atlético Madrid (ESP)",
+      "team2": "Botafogo RJ (BRA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2025-06-15",
+      "time": "12:00",
+      "team1": "Bayern München (GER)",
+      "team2": "Auckland City FC (NZL)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2025-06-16",
+      "time": "18:00",
+      "team1": "Boca Juniors (ARG)",
+      "team2": "SL Benfica (POR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2025-06-20",
+      "time": "12:00",
+      "team1": "SL Benfica (POR)",
+      "team2": "Auckland City FC (NZL)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2025-06-20",
+      "time": "21:00",
+      "team1": "Bayern München (GER)",
+      "team2": "Boca Juniors (ARG)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2025-06-24",
+      "time": "15:00",
+      "team1": "SL Benfica (POR)",
+      "team2": "Bayern München (GER)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group C",
+      "date": "2025-06-24",
+      "time": "15:00",
+      "team1": "Auckland City FC (NZL)",
+      "team2": "Boca Juniors (ARG)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2025-06-16",
+      "time": "15:00",
+      "team1": "Chelsea FC (ENG)",
+      "team2": "Los Angeles FC (USA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2025-06-16",
+      "time": "21:00",
+      "team1": "Flamengo RJ (BRA)",
+      "team2": "Espérance de Tunis (TUN)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2025-06-20",
+      "time": "14:00",
+      "team1": "Flamengo RJ (BRA)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2025-06-20",
+      "time": "18:00",
+      "team1": "Los Angeles FC (USA)",
+      "team2": "Espérance de Tunis (TUN)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2025-06-24",
+      "time": "21:00",
+      "team1": "Los Angeles FC (USA)",
+      "team2": "Flamengo RJ (BRA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group D",
+      "date": "2025-06-24",
+      "time": "21:00",
+      "team1": "Espérance de Tunis (TUN)",
+      "team2": "Chelsea FC (ENG)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2025-06-17",
+      "time": "15:00",
+      "team1": "River Plate (ARG)",
+      "team2": "Urawa Red Diamonds (JPN)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2025-06-17",
+      "time": "21:00",
+      "team1": "CF Monterrey (MEX)",
+      "team2": "Inter (ITA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2025-06-21",
+      "time": "15:00",
+      "team1": "Inter (ITA)",
+      "team2": "Urawa Red Diamonds (JPN)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2025-06-21",
+      "time": "21:00",
+      "team1": "River Plate (ARG)",
+      "team2": "CF Monterrey (MEX)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2025-06-25",
+      "time": "21:00",
+      "team1": "Inter (ITA)",
+      "team2": "River Plate (ARG)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group E",
+      "date": "2025-06-25",
+      "time": "21:00",
+      "team1": "Urawa Red Diamonds (JPN)",
+      "team2": "CF Monterrey (MEX)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2025-06-17",
+      "time": "12:00",
+      "team1": "Fluminense RJ (BRA)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2025-06-17",
+      "time": "18:00",
+      "team1": "Ulsan HD FC (KOR)",
+      "team2": "Mamelodi Sundowns (RSA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2025-06-21",
+      "time": "12:00",
+      "team1": "Mamelodi Sundowns (RSA)",
+      "team2": "Borussia Dortmund (GER)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2025-06-21",
+      "time": "18:00",
+      "team1": "Fluminense RJ (BRA)",
+      "team2": "Ulsan HD FC (KOR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2025-06-25",
+      "time": "15:00",
+      "team1": "Mamelodi Sundowns (RSA)",
+      "team2": "Fluminense RJ (BRA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group F",
+      "date": "2025-06-25",
+      "time": "15:00",
+      "team1": "Borussia Dortmund (GER)",
+      "team2": "Ulsan HD FC (KOR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2025-06-18",
+      "time": "12:00",
+      "team1": "Manchester City (ENG)",
+      "team2": "Wydad AC (MAR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2025-06-18",
+      "time": "21:00",
+      "team1": "Al Ain FC (UAE)",
+      "team2": "Juventus (ITA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2025-06-22",
+      "time": "12:00",
+      "team1": "Juventus (ITA)",
+      "team2": "Wydad AC (MAR)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2025-06-22",
+      "time": "21:00",
+      "team1": "Manchester City (ENG)",
+      "team2": "Al Ain FC (UAE)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2025-06-26",
+      "time": "15:00",
+      "team1": "Juventus (ITA)",
+      "team2": "Manchester City (ENG)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group G",
+      "date": "2025-06-26",
+      "time": "15:00",
+      "team1": "Wydad AC (MAR)",
+      "team2": "Al Ain FC (UAE)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2025-06-18",
+      "time": "15:00",
+      "team1": "Real Madrid (ESP)",
+      "team2": "Al Hilal (KSA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2025-06-18",
+      "time": "18:00",
+      "team1": "CF Pachuca (MEX)",
+      "team2": "RB Salzburg (AUT)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2025-06-22",
+      "time": "15:00",
+      "team1": "Real Madrid (ESP)",
+      "team2": "CF Pachuca (MEX)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2025-06-22",
+      "time": "18:00",
+      "team1": "RB Salzburg (AUT)",
+      "team2": "Al Hilal (KSA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2025-06-26",
+      "time": "21:00",
+      "team1": "RB Salzburg (AUT)",
+      "team2": "Real Madrid (ESP)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group H",
+      "date": "2025-06-26",
+      "time": "21:00",
+      "team1": "Al Hilal (KSA)",
+      "team2": "CF Pachuca (MEX)",
+      "score": {
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2025-07-04",
+      "time": "15:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2025-07-04",
+      "time": "21:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2025-07-05",
+      "time": "12:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Quarterfinals",
+      "date": "2025-07-05",
+      "time": "16:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2025-07-08",
+      "time": "15:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Semifinals",
+      "date": "2025-07-09",
+      "time": "15:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Final",
+      "date": "2025-07-13",
+      "time": "15:00",
+      "team1": "N.N.",
+      "team2": "N.N.",
+      "score": {
+      }
+    },
+    {
+      "round": "Qualification, Playoffs",
+      "date": "2025-05-31",
+      "time": "22:30",
+      "team1": "Los Angeles FC (USA)",
+      "team2": "CF América (MEX)",
+      "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "et": [
+          2,
+          1
+        ]
+      }
+    }
+  ]
+}
