@@ -2,7 +2,14 @@
 
 Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
-Let's try to convert the World Cup 2022
+Let's try to convert the Club World Cup 2025
+in the Football.TXT format (see [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt), [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt)) to JSON:
+
+```
+$ fbtxt2json club-worldcup/2025/clubworldcup.txt -o clubworldcup.json
+```
+
+Or let's try to convert the World Cup 2022
 in the Football.TXT format (see [`worldcup/2022--qatar/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup.txt), [`worldcup/2022--qatar/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup_finals.txt)) to JSON:
 
 ```
@@ -10,14 +17,47 @@ $ fbtxt2json worldcup/2022--qatar/cup.txt worldcup/2022--qatar/cup_finals.txt -o
 ```
 
 
-# worldcup.json
+# worldcup.json 
 
-Free open public domain football data for the world cups in the JSON
+Free open public domain football data for the world cups (national teams and clubs) in the JSON
 (JavaScript Object Notation)
 data interchange format
-incl. Qatar 2022, Russia 2018 and more - No API key required ;-).
+incl. USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-).
 
 
+## Clubs
+
+Example - Club World Cup in USA 2025 Match Schedule (Fixtures and Results) - [`2025/clubworldcup.json`](https://raw.githubusercontent.com/openfootball/worldcup.json/master/2025/clubworldcup.json):
+
+``` json
+{
+  "name": "Club World Cup 2025",
+  "matches": [
+    {
+      "round": "Group A",
+      "date": "2025-06-14",
+      "time": "20:00",
+      "team1": "Al Ahly SC (EGY)",
+      "team2": "Inter Miami CF (USA)",
+      "score": {
+      }
+    },
+    {
+      "round": "Group A",
+      "date": "2025-06-15",
+      "time": "18:00",
+      "team1": "Palmeiras (BRA)",
+      "team2": "FC Porto (POR)",
+      "score": {
+      }
+    },
+    ...
+  ]
+}
+```
+
+
+## National Teams
 
 Example - World Cup in Russia 2018 Match Schedule (Fixtures and Results) - [`2018/worldcup.json`](https://raw.githubusercontent.com/openfootball/worldcup.json/master/2018/worldcup.json):
 
@@ -89,7 +129,7 @@ Use the "raw" links served by GitHub (otherwise you get the complete "formatted"
 Example:
 
 ```
-$ curl https://raw.githubusercontent.com/openfootball/worldcup.json/master/2018/worldcup.json
+$ curl https://raw.githubusercontent.com/openfootball/worldcup.json/master/2025/clubworldcup.json
 ```
 
 
@@ -98,11 +138,20 @@ $ curl https://raw.githubusercontent.com/openfootball/worldcup.json/master/2018/
 Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
 edit the JSON files but the source text files in the world cup (and friends) repos** e.g.:
 
+Clubs:
+- Club World Cups in [`/club-worldcup`](https://github.com/openfootball/club-worldcup)
+
+Note: For the Club World Cup 2025 please update the source text file
+[`/club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt) 
+
+
+National Teams:
 - World Cups in [`/worldcup`](https://github.com/openfootball/worldcup)
+<!--
 - National Teams in [`/national-teams`](https://github.com/openfootball/national-teams)
 - Stadiums in [`/stadiums`](https://github.com/openfootball/stadiums)
 - and so on
-
+-->
 
 Note: For the World Cup 2022 please update the source text file
 [`/worldcup/2022--qatar/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup.txt) for the group stage and
