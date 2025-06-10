@@ -3,7 +3,7 @@
 Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
 Let's try to convert the Club World Cup 2025
-in the Football.TXT format (see [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt), [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt)) to JSON:
+in the Football.TXT format (see [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt)) to JSON:
 
 ```
 $ fbtxt2json club-worldcup/2025/clubworldcup.txt -o clubworldcup.json
