@@ -1,6 +1,7 @@
-## What's News?
 
 <!--
+
+## What's News?
 
 Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
 
