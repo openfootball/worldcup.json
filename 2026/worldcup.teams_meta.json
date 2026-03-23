@@ -1,0 +1,635 @@
+[
+    {
+        "name": "Mexico",
+        "continent": "North America",
+        "flag_icon": "🇲🇽",
+        "flag_unicode": "\\u{1F1F2}\\u{1F1FD}",
+        "fifa_code": "MEX",
+        "assoc": {
+            "key": "mex",
+            "name": "Federación Mexicana de Fútbol Asociación",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
+        "group": "A"
+    },
+    {
+        "name": "South Africa",
+        "continent": "Africa",
+        "flag_icon": "🇿🇦",
+        "flag_unicode": "\\u{1F1FF}\\u{1F1E6}",
+        "fifa_code": "RSA",
+        "assoc": null,
+        "group": "A"
+    },
+    {
+        "name": "South Korea",
+        "name_normalised": "Korea Republic",
+        "continent": "Asia",
+        "flag_icon": "🇰🇷",
+        "flag_unicode": "\\u{1F1F0}\\u{1F1F7}",
+        "fifa_code": "KOR",
+        "assoc": {
+            "key": "kor",
+            "name": "Korea Football Association",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
+        "group": "A"
+    },
+    {
+        "name": "UEFA Path D winner",
+        "continent": "Europe",
+        "flag_icon": null,
+        "flag_unicode": null,
+        "fifa_code": null,
+        "assoc": null,
+        "group": "A"
+    },
+    {
+        "name": "Canada",
+        "continent": "North America",
+        "flag_icon": "🇨🇦",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1E6}",
+        "fifa_code": "CAN",
+        "assoc": null,
+        "group": "B"
+    },
+    {
+        "name": "UEFA Path A winner",
+        "continent": "Europe",
+        "flag_icon": null,
+        "flag_unicode": null,
+        "fifa_code": null,
+        "assoc": null,
+        "group": "B"
+    },
+    {
+        "name": "Qatar",
+        "continent": "Asia",
+        "flag_icon": "🇶🇦",
+        "flag_unicode": "\\u{1F1F6}\\u{1F1E6}",
+        "fifa_code": "QAT",
+        "assoc": null,
+        "group": "B"
+    },
+    {
+        "name": "Switzerland",
+        "continent": "Europe",
+        "flag_icon": "🇨🇭",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1ED}",
+        "fifa_code": "SUI",
+        "assoc": {
+            "key": "sui",
+            "name": "Association Suisse de Football",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "B"
+    },
+    {
+        "name": "Brazil",
+        "continent": "South America",
+        "flag_icon": "🇧🇷",
+        "flag_unicode": "\\u{1F1E7}\\u{1F1F7}",
+        "fifa_code": "BRA",
+        "assoc": {
+            "key": "bra",
+            "name": "Confederação Brasileira de Futebol",
+            "continental": {
+                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+                "code": "CONMEBOL"
+            }
+        },
+        "group": "C"
+    },
+    {
+        "name": "Morocco",
+        "continent": "Africa",
+        "flag_icon": "🇲🇦",
+        "flag_unicode": "\\u{1F1F2}\\u{1F1E6}",
+        "fifa_code": "MAR",
+        "assoc": {
+            "key": "mar",
+            "name": "Fédération Royale Marocaine de Football",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "C"
+    },
+    {
+        "name": "Haiti",
+        "continent": "North America",
+        "flag_icon": "🇭🇹",
+        "flag_unicode": "\\u{1F1ED}\\u{1F1F9}",
+        "fifa_code": "HAI",
+        "assoc": null,
+        "group": "C"
+    },
+    {
+        "name": "Scotland",
+        "continent": "Europe",
+        "flag_icon": "🏴",
+        "flag_unicode": null,
+        "fifa_code": "SCO",
+        "assoc": null,
+        "group": "C"
+    },
+    {
+        "name": "USA",
+        "name_normalised": "United States",
+        "continent": "North America",
+        "flag_icon": "🇺🇸",
+        "flag_unicode": "\\u{1F1FA}\\u{1F1F8}",
+        "fifa_code": "USA",
+        "assoc": {
+            "key": "usa",
+            "name": "United States Soccer Federation",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
+        "group": "D"
+    },
+    {
+        "name": "Paraguay",
+        "continent": "South America",
+        "flag_icon": "🇵🇾",
+        "flag_unicode": "\\u{1F1F5}\\u{1F1FE}",
+        "fifa_code": "PAR",
+        "assoc": null,
+        "group": "D"
+    },
+    {
+        "name": "Australia",
+        "continent": "Oceania",
+        "flag_icon": "🇦🇺",
+        "flag_unicode": "\\u{1F1E6}\\u{1F1FA}",
+        "fifa_code": "AUS",
+        "assoc": {
+            "key": "aus",
+            "name": "Football Federation Australia",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
+        "group": "D"
+    },
+    {
+        "name": "UEFA Path C winner",
+        "continent": "Europe",
+        "flag_icon": null,
+        "flag_unicode": null,
+        "fifa_code": null,
+        "assoc": null,
+        "group": "D"
+    },
+    {
+        "name": "Germany",
+        "continent": "Europe",
+        "flag_icon": "🇩🇪",
+        "flag_unicode": "\\u{1F1E9}\\u{1F1EA}",
+        "fifa_code": "GER",
+        "assoc": {
+            "key": "ger",
+            "name": "Deutscher Fußball-Bund",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "E"
+    },
+    {
+        "name": "Curaçao",
+        "continent": "North America",
+        "flag_icon": "🇨🇼",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1FC}",
+        "fifa_code": "CUW",
+        "assoc": null,
+        "group": "E"
+    },
+    {
+        "name": "Ivory Coast",
+        "name_normalised": "Cote d'Ivoire",
+        "continent": "Africa",
+        "flag_icon": "🇨🇮",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1EE}",
+        "fifa_code": "CIV",
+        "assoc": {
+            "key": "civ",
+            "name": "Fédération Ivoirienne de Football",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "E"
+    },
+    {
+        "name": "Ecuador",
+        "continent": "South America",
+        "flag_icon": "🇪🇨",
+        "flag_unicode": "\\u{1F1EA}\\u{1F1E8}",
+        "fifa_code": "ECU",
+        "assoc": {
+            "key": "ecu",
+            "name": "Federación Ecuatoriana de Fútbol",
+            "continental": {
+                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+                "code": "CONMEBOL"
+            }
+        },
+        "group": "E"
+    },
+    {
+        "name": "Netherlands",
+        "continent": "Europe",
+        "flag_icon": "🇳🇱",
+        "flag_unicode": "\\u{1F1F3}\\u{1F1F1}",
+        "fifa_code": "NED",
+        "assoc": {
+            "key": "bon",
+            "name": "Bonaire Football Federation",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
+        "group": "F"
+    },
+    {
+        "name": "Japan",
+        "continent": "Asia",
+        "flag_icon": "🇯🇵",
+        "flag_unicode": "\\u{1F1EF}\\u{1F1F5}",
+        "fifa_code": "JPN",
+        "assoc": {
+            "key": "jpn",
+            "name": "Japan Football Association",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
+        "group": "F"
+    },
+    {
+        "name": "UEFA Path B winner",
+        "continent": "Europe",
+        "flag_icon": null,
+        "flag_unicode": null,
+        "fifa_code": null,
+        "assoc": null,
+        "group": "F"
+    },
+    {
+        "name": "Tunisia",
+        "continent": "Africa",
+        "flag_icon": "🇹🇳",
+        "flag_unicode": "\\u{1F1F9}\\u{1F1F3}",
+        "fifa_code": "TUN",
+        "assoc": {
+            "key": "tun",
+            "name": "Fédération Tunisienne de Football",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "F"
+    },
+    {
+        "name": "Belgium",
+        "continent": "Europe",
+        "flag_icon": "🇧🇪",
+        "flag_unicode": "\\u{1F1E7}\\u{1F1EA}",
+        "fifa_code": "BEL",
+        "assoc": {
+            "key": "bel",
+            "name": "Koninklijke Belgische Voetbalbond",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "G"
+    },
+    {
+        "name": "Egypt",
+        "continent": "Africa",
+        "flag_icon": "🇪🇬",
+        "flag_unicode": "\\u{1F1EA}\\u{1F1EC}",
+        "fifa_code": "EGY",
+        "assoc": {
+            "key": "egy",
+            "name": "Egyptian Football Association",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "G"
+    },
+    {
+        "name": "Iran",
+        "name_normalised": "IR Iran",
+        "continent": "Asia",
+        "flag_icon": "🇮🇷",
+        "flag_unicode": "\\u{1F1EE}\\u{1F1F7}",
+        "fifa_code": "IRN",
+        "assoc": {
+            "key": "irn",
+            "name": "Football Federation Islamic Republic of Iran",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
+        "group": "G"
+    },
+    {
+        "name": "New Zealand",
+        "continent": "Oceania",
+        "flag_icon": "🇳🇿",
+        "flag_unicode": "\\u{1F1F3}\\u{1F1FF}",
+        "fifa_code": "NZL",
+        "assoc": null,
+        "group": "G"
+    },
+    {
+        "name": "Spain",
+        "continent": "Europe",
+        "flag_icon": "🇪🇸",
+        "flag_unicode": "\\u{1F1EA}\\u{1F1F8}",
+        "fifa_code": "ESP",
+        "assoc": {
+            "key": "esp",
+            "name": "Real Federación Española de Fútbol",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "H"
+    },
+    {
+        "name": "Cape Verde",
+        "name_normalised": "Cabo Verde",
+        "continent": "Africa",
+        "flag_icon": "🇨🇻",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1FB}",
+        "fifa_code": "CPV",
+        "assoc": null,
+        "group": "H"
+    },
+    {
+        "name": "Saudi Arabia",
+        "continent": "Asia",
+        "flag_icon": "🇸🇦",
+        "flag_unicode": "\\u{1F1F8}\\u{1F1E6}",
+        "fifa_code": "KSA",
+        "assoc": {
+            "key": "ksa",
+            "name": "Saudi Arabian Football Federation",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
+        "group": "H"
+    },
+    {
+        "name": "Uruguay",
+        "continent": "South America",
+        "flag_icon": "🇺🇾",
+        "flag_unicode": "\\u{1F1FA}\\u{1F1FE}",
+        "fifa_code": "URU",
+        "assoc": {
+            "key": "uru",
+            "name": "Asociación Uruguaya de Fútbol",
+            "continental": {
+                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+                "code": "CONMEBOL"
+            }
+        },
+        "group": "H"
+    },
+    {
+        "name": "France",
+        "continent": "Europe",
+        "flag_icon": "🇫🇷",
+        "flag_unicode": "\\u{1F1EB}\\u{1F1F7}",
+        "fifa_code": "FRA",
+        "assoc": {
+            "key": "fra",
+            "name": "Fédération Française de Football",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "I"
+    },
+    {
+        "name": "Senegal",
+        "continent": "Africa",
+        "flag_icon": "🇸🇳",
+        "flag_unicode": "\\u{1F1F8}\\u{1F1F3}",
+        "fifa_code": "SEN",
+        "assoc": {
+            "key": "sen",
+            "name": "Fédération Sénégalaise de Football",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "I"
+    },
+    {
+        "name": "IC Path 2 winner",
+        "continent": "TBD",
+        "flag_icon": null,
+        "flag_unicode": null,
+        "fifa_code": null,
+        "assoc": null,
+        "group": "I"
+    },
+    {
+        "name": "Norway",
+        "continent": "Europe",
+        "flag_icon": "🇳🇴",
+        "flag_unicode": "\\u{1F1F3}\\u{1F1F4}",
+        "fifa_code": "NOR",
+        "assoc": null,
+        "group": "I"
+    },
+    {
+        "name": "Argentina",
+        "continent": "South America",
+        "flag_icon": "🇦🇷",
+        "flag_unicode": "\\u{1F1E6}\\u{1F1F7}",
+        "fifa_code": "ARG",
+        "assoc": {
+            "key": "arg",
+            "name": "Asociación del Fútbol Argentino",
+            "continental": {
+                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+                "code": "CONMEBOL"
+            }
+        },
+        "group": "J"
+    },
+    {
+        "name": "Algeria",
+        "continent": "Africa",
+        "flag_icon": "🇩🇿",
+        "flag_unicode": "\\u{1F1E9}\\u{1F1FF}",
+        "fifa_code": "ALG",
+        "assoc": {
+            "key": "alg",
+            "name": "Fédération Algérienne de Football",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "J"
+    },
+    {
+        "name": "Austria",
+        "continent": "Europe",
+        "flag_icon": "🇦🇹",
+        "flag_unicode": "\\u{1F1E6}\\u{1F1F9}",
+        "fifa_code": "AUT",
+        "assoc": null,
+        "group": "J"
+    },
+    {
+        "name": "Jordan",
+        "continent": "Asia",
+        "flag_icon": "🇯🇴",
+        "flag_unicode": "\\u{1F1EF}\\u{1F1F4}",
+        "fifa_code": "JOR",
+        "assoc": null,
+        "group": "J"
+    },
+    {
+        "name": "Portugal",
+        "continent": "Europe",
+        "flag_icon": "🇵🇹",
+        "flag_unicode": "\\u{1F1F5}\\u{1F1F9}",
+        "fifa_code": "POR",
+        "assoc": {
+            "key": "por",
+            "name": "Federação Portuguesa de Futebol",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "K"
+    },
+    {
+        "name": "IC Path 1 winner",
+        "continent": "TBD",
+        "flag_icon": null,
+        "flag_unicode": null,
+        "fifa_code": null,
+        "assoc": null,
+        "group": "K"
+    },
+    {
+        "name": "Uzbekistan",
+        "continent": "Asia",
+        "flag_icon": "🇺🇿",
+        "flag_unicode": "\\u{1F1FA}\\u{1F1FF}",
+        "fifa_code": "UZB",
+        "assoc": null,
+        "group": "K"
+    },
+    {
+        "name": "Colombia",
+        "continent": "South America",
+        "flag_icon": "🇨🇴",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1F4}",
+        "fifa_code": "COL",
+        "assoc": {
+            "key": "col",
+            "name": "Federación Colombiana de Fútbol",
+            "continental": {
+                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+                "code": "CONMEBOL"
+            }
+        },
+        "group": "K"
+    },
+    {
+        "name": "England",
+        "continent": "Europe",
+        "flag_icon": "🏴",
+        "flag_unicode": null,
+        "fifa_code": "ENG",
+        "assoc": null,
+        "group": "L"
+    },
+    {
+        "name": "Croatia",
+        "continent": "Europe",
+        "flag_icon": "🇭🇷",
+        "flag_unicode": "\\u{1F1ED}\\u{1F1F7}",
+        "fifa_code": "CRO",
+        "assoc": {
+            "key": "cro",
+            "name": "Hrvatski Nogometni Savez",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
+        "group": "L"
+    },
+    {
+        "name": "Ghana",
+        "continent": "Africa",
+        "flag_icon": "🇬🇭",
+        "flag_unicode": "\\u{1F1EC}\\u{1F1ED}",
+        "fifa_code": "GHA",
+        "assoc": {
+            "key": "gha",
+            "name": "Ghana Football Association",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
+        "group": "L"
+    },
+    {
+        "name": "Panama",
+        "continent": "North America",
+        "flag_icon": "🇵🇦",
+        "flag_unicode": "\\u{1F1F5}\\u{1F1E6}",
+        "fifa_code": "PAN",
+        "assoc": {
+            "key": "pan",
+            "name": "Federación Panameña de Fútbol",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
+        "group": "L"
+    }
+]
