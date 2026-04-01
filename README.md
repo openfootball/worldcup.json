@@ -51,14 +51,14 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "date": "2026-06-11",
     "time": "20:00 UTC-6",
     "team1": "South Korea",
-    "team2": "UEFA Path D winner",
+    "team2": "Czech Republic",
     "group": "Group A",
     "ground": "Guadalajara (Zapopan)"
    },
    {"round": "Matchday 8",
     "date": "2026-06-18",
     "time": "12:00 UTC-4",
-    "team1": "UEFA Path D winner",
+    "team1": "Czech Republic",
     "team2": "South Africa",
     "group": "Group A",
     "ground": "Atlanta"
