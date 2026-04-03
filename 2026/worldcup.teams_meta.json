@@ -21,7 +21,14 @@
         "flag_icon": "🇿🇦",
         "flag_unicode": "\\u{1F1FF}\\u{1F1E6}",
         "fifa_code": "RSA",
-        "assoc": null,
+        "assoc": {
+            "key": "rsa",
+            "name": "South African Football Association",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
         "group": "A"
     },
     {
@@ -42,12 +49,20 @@
         "group": "A"
     },
     {
-        "name": "UEFA Path D winner",
+        "name": "Czech Republic",
+        "name_normalised": "Czechia",
         "continent": "Europe",
-        "flag_icon": null,
-        "flag_unicode": null,
-        "fifa_code": null,
-        "assoc": null,
+        "flag_icon": "🇨🇿",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1FF}",
+        "fifa_code": "CZE",
+        "assoc": {
+            "key": "cze",
+            "name": "Fotbalová asociace České republiky",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "A"
     },
     {
@@ -56,16 +71,30 @@
         "flag_icon": "🇨🇦",
         "flag_unicode": "\\u{1F1E8}\\u{1F1E6}",
         "fifa_code": "CAN",
-        "assoc": null,
+        "assoc": {
+            "key": "can",
+            "name": "Canadian Soccer Association",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
         "group": "B"
     },
     {
-        "name": "UEFA Path A winner",
+        "name": "Bosnia and Herzegovina",
         "continent": "Europe",
-        "flag_icon": null,
-        "flag_unicode": null,
-        "fifa_code": null,
-        "assoc": null,
+        "flag_icon": "🇧🇦",
+        "flag_unicode": "\\u{1F1E7}\\u{1F1E6}",
+        "fifa_code": "BIH",
+        "assoc": {
+            "key": "bih",
+            "name": "Nogometni/Fudbalski savez Bosne i Hercegovine",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "B"
     },
     {
@@ -74,7 +103,14 @@
         "flag_icon": "🇶🇦",
         "flag_unicode": "\\u{1F1F6}\\u{1F1E6}",
         "fifa_code": "QAT",
-        "assoc": null,
+        "assoc": {
+            "key": "qat",
+            "name": "Qatar Football Association",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
         "group": "B"
     },
     {
@@ -131,16 +167,30 @@
         "flag_icon": "🇭🇹",
         "flag_unicode": "\\u{1F1ED}\\u{1F1F9}",
         "fifa_code": "HAI",
-        "assoc": null,
+        "assoc": {
+            "key": "hai",
+            "name": "Fédération Haïtienne de Football",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
         "group": "C"
     },
     {
         "name": "Scotland",
         "continent": "Europe",
-        "flag_icon": "🏴",
-        "flag_unicode": null,
+        "flag_icon": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "flag_unicode": "\\u{1F3F4}\\u{E0067}\\u{E0062}\\u{E0073}\\u{E0063}\\u{E0074}\\u{E007F}",
         "fifa_code": "SCO",
-        "assoc": null,
+        "assoc": {
+            "key": "sco",
+            "name": "Scottish Football Association",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "C"
     },
     {
@@ -166,7 +216,14 @@
         "flag_icon": "🇵🇾",
         "flag_unicode": "\\u{1F1F5}\\u{1F1FE}",
         "fifa_code": "PAR",
-        "assoc": null,
+        "assoc": {
+            "key": "par",
+            "name": "Asociación Paraguaya de Fútbol",
+            "continental": {
+                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
+                "code": "CONMEBOL"
+            }
+        },
         "group": "D"
     },
     {
@@ -186,12 +243,20 @@
         "group": "D"
     },
     {
-        "name": "UEFA Path C winner",
+        "name": "Turkey",
+        "name_normalised": "Türkiye",
         "continent": "Europe",
-        "flag_icon": null,
-        "flag_unicode": null,
-        "fifa_code": null,
-        "assoc": null,
+        "flag_icon": "🇹🇷",
+        "flag_unicode": "\\u{1F1F9}\\u{1F1F7}",
+        "fifa_code": "TUR",
+        "assoc": {
+            "key": "tur",
+            "name": "Türkiye Futbol Federasyonu",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "D"
     },
     {
@@ -216,7 +281,14 @@
         "flag_icon": "🇨🇼",
         "flag_unicode": "\\u{1F1E8}\\u{1F1FC}",
         "fifa_code": "CUW",
-        "assoc": null,
+        "assoc": {
+            "key": "cuw",
+            "name": "Federashon Futbòl Kòrsou",
+            "continental": {
+                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
+                "code": "CONCACAF"
+            }
+        },
         "group": "E"
     },
     {
@@ -259,11 +331,11 @@
         "flag_unicode": "\\u{1F1F3}\\u{1F1F1}",
         "fifa_code": "NED",
         "assoc": {
-            "key": "bon",
-            "name": "Bonaire Football Federation",
+            "key": "ned",
+            "name": "Koninklijke Nederlandse Voetbalbond",
             "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
             }
         },
         "group": "F"
@@ -285,12 +357,19 @@
         "group": "F"
     },
     {
-        "name": "UEFA Path B winner",
+        "name": "Sweden",
         "continent": "Europe",
-        "flag_icon": null,
-        "flag_unicode": null,
-        "fifa_code": null,
-        "assoc": null,
+        "flag_icon": "🇸🇪",
+        "flag_unicode": "\\u{1F1F8}\\u{1F1EA}",
+        "fifa_code": "SWE",
+        "assoc": {
+            "key": "swe",
+            "name": "Svenska Fotbollförbundet",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "F"
     },
     {
@@ -364,7 +443,14 @@
         "flag_icon": "🇳🇿",
         "flag_unicode": "\\u{1F1F3}\\u{1F1FF}",
         "fifa_code": "NZL",
-        "assoc": null,
+        "assoc": {
+            "key": "nzl",
+            "name": "New Zealand Football",
+            "continental": {
+                "name": "Oceania Football Confederation (OFC)",
+                "code": "OFC"
+            }
+        },
         "group": "G"
     },
     {
@@ -390,7 +476,14 @@
         "flag_icon": "🇨🇻",
         "flag_unicode": "\\u{1F1E8}\\u{1F1FB}",
         "fifa_code": "CPV",
-        "assoc": null,
+        "assoc": {
+            "key": "cpv",
+            "name": "Federação Cabo-verdiana de Futebol",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
         "group": "H"
     },
     {
@@ -458,12 +551,19 @@
         "group": "I"
     },
     {
-        "name": "IC Path 2 winner",
-        "continent": "TBD",
-        "flag_icon": null,
-        "flag_unicode": null,
-        "fifa_code": null,
-        "assoc": null,
+        "name": "Iraq",
+        "continent": "Asia",
+        "flag_icon": "🇮🇶",
+        "flag_unicode": "\\u{1F1EE}\\u{1F1F6}",
+        "fifa_code": "IRQ",
+        "assoc": {
+            "key": "irq",
+            "name": "Iraq Football Association",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
         "group": "I"
     },
     {
@@ -472,7 +572,14 @@
         "flag_icon": "🇳🇴",
         "flag_unicode": "\\u{1F1F3}\\u{1F1F4}",
         "fifa_code": "NOR",
-        "assoc": null,
+        "assoc": {
+            "key": "nor",
+            "name": "Norges Fotballforbund",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "I"
     },
     {
@@ -513,7 +620,14 @@
         "flag_icon": "🇦🇹",
         "flag_unicode": "\\u{1F1E6}\\u{1F1F9}",
         "fifa_code": "AUT",
-        "assoc": null,
+        "assoc": {
+            "key": "aut",
+            "name": "Österreichischer Fußball-Bund",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "J"
     },
     {
@@ -522,7 +636,14 @@
         "flag_icon": "🇯🇴",
         "flag_unicode": "\\u{1F1EF}\\u{1F1F4}",
         "fifa_code": "JOR",
-        "assoc": null,
+        "assoc": {
+            "key": "jor",
+            "name": "Jordan Football Association",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
         "group": "J"
     },
     {
@@ -542,12 +663,20 @@
         "group": "K"
     },
     {
-        "name": "IC Path 1 winner",
-        "continent": "TBD",
-        "flag_icon": null,
-        "flag_unicode": null,
-        "fifa_code": null,
-        "assoc": null,
+        "name": "DR Congo",
+        "name_normalised": "Congo DR",
+        "continent": "Africa",
+        "flag_icon": "🇨🇩",
+        "flag_unicode": "\\u{1F1E8}\\u{1F1E9}",
+        "fifa_code": "COD",
+        "assoc": {
+            "key": "cod",
+            "name": "Fédération Congolaise de Football-Association",
+            "continental": {
+                "name": "Confédération Africaine de Football (CAF)",
+                "code": "CAF"
+            }
+        },
         "group": "K"
     },
     {
@@ -556,7 +685,14 @@
         "flag_icon": "🇺🇿",
         "flag_unicode": "\\u{1F1FA}\\u{1F1FF}",
         "fifa_code": "UZB",
-        "assoc": null,
+        "assoc": {
+            "key": "uzb",
+            "name": "Uzbekistan Football Association",
+            "continental": {
+                "name": "Asian Football Confederation (AFC)",
+                "code": "AFC"
+            }
+        },
         "group": "K"
     },
     {
@@ -578,10 +714,17 @@
     {
         "name": "England",
         "continent": "Europe",
-        "flag_icon": "🏴",
-        "flag_unicode": null,
+        "flag_icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "flag_unicode": "\\u{1F3F4}\\u{E0067}\\u{E0062}\\u{E0065}\\u{E006E}\\u{E0067}\\u{E007F}",
         "fifa_code": "ENG",
-        "assoc": null,
+        "assoc": {
+            "key": "eng",
+            "name": "The Football Association",
+            "continental": {
+                "name": "Union of European Football Associations (UEFA)",
+                "code": "UEFA"
+            }
+        },
         "group": "L"
     },
     {
