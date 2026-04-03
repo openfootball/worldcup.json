@@ -5,15 +5,8 @@
         "flag_icon": "🇲🇽",
         "flag_unicode": "\\u{1F1F2}\\u{1F1FD}",
         "fifa_code": "MEX",
-        "assoc": {
-            "key": "mex",
-            "name": "Federación Mexicana de Fútbol Asociación",
-            "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
-            }
-        },
-        "group": "A"
+        "group": "A",
+        "confed": "CONCACAF"
     },
     {
         "name": "South Africa",
@@ -21,15 +14,8 @@
         "flag_icon": "🇿🇦",
         "flag_unicode": "\\u{1F1FF}\\u{1F1E6}",
         "fifa_code": "RSA",
-        "assoc": {
-            "key": "rsa",
-            "name": "South African Football Association",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "A"
+        "group": "A",
+        "confed": "CAF"
     },
     {
         "name": "South Korea",
@@ -38,15 +24,8 @@
         "flag_icon": "🇰🇷",
         "flag_unicode": "\\u{1F1F0}\\u{1F1F7}",
         "fifa_code": "KOR",
-        "assoc": {
-            "key": "kor",
-            "name": "Korea Football Association",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "A"
+        "group": "A",
+        "confed": "AFC"
     },
     {
         "name": "Czech Republic",
@@ -55,15 +34,8 @@
         "flag_icon": "🇨🇿",
         "flag_unicode": "\\u{1F1E8}\\u{1F1FF}",
         "fifa_code": "CZE",
-        "assoc": {
-            "key": "cze",
-            "name": "Fotbalová asociace České republiky",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "A"
+        "group": "A",
+        "confed": "UEFA"
     },
     {
         "name": "Canada",
@@ -71,15 +43,8 @@
         "flag_icon": "🇨🇦",
         "flag_unicode": "\\u{1F1E8}\\u{1F1E6}",
         "fifa_code": "CAN",
-        "assoc": {
-            "key": "can",
-            "name": "Canadian Soccer Association",
-            "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
-            }
-        },
-        "group": "B"
+        "group": "B",
+        "confed": "CONCACAF"
     },
     {
         "name": "Bosnia and Herzegovina",
@@ -87,15 +52,8 @@
         "flag_icon": "🇧🇦",
         "flag_unicode": "\\u{1F1E7}\\u{1F1E6}",
         "fifa_code": "BIH",
-        "assoc": {
-            "key": "bih",
-            "name": "Nogometni/Fudbalski savez Bosne i Hercegovine",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "B"
+        "group": "B",
+        "confed": "UEFA"
     },
     {
         "name": "Qatar",
@@ -103,15 +61,8 @@
         "flag_icon": "🇶🇦",
         "flag_unicode": "\\u{1F1F6}\\u{1F1E6}",
         "fifa_code": "QAT",
-        "assoc": {
-            "key": "qat",
-            "name": "Qatar Football Association",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "B"
+        "group": "B",
+        "confed": "AFC"
     },
     {
         "name": "Switzerland",
@@ -119,15 +70,8 @@
         "flag_icon": "🇨🇭",
         "flag_unicode": "\\u{1F1E8}\\u{1F1ED}",
         "fifa_code": "SUI",
-        "assoc": {
-            "key": "sui",
-            "name": "Association Suisse de Football",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "B"
+        "group": "B",
+        "confed": "UEFA"
     },
     {
         "name": "Brazil",
@@ -135,15 +79,8 @@
         "flag_icon": "🇧🇷",
         "flag_unicode": "\\u{1F1E7}\\u{1F1F7}",
         "fifa_code": "BRA",
-        "assoc": {
-            "key": "bra",
-            "name": "Confederação Brasileira de Futebol",
-            "continental": {
-                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-                "code": "CONMEBOL"
-            }
-        },
-        "group": "C"
+        "group": "C",
+        "confed": "CONMEBOL"
     },
     {
         "name": "Morocco",
@@ -151,15 +88,8 @@
         "flag_icon": "🇲🇦",
         "flag_unicode": "\\u{1F1F2}\\u{1F1E6}",
         "fifa_code": "MAR",
-        "assoc": {
-            "key": "mar",
-            "name": "Fédération Royale Marocaine de Football",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "C"
+        "group": "C",
+        "confed": "CAF"
     },
     {
         "name": "Haiti",
@@ -167,15 +97,8 @@
         "flag_icon": "🇭🇹",
         "flag_unicode": "\\u{1F1ED}\\u{1F1F9}",
         "fifa_code": "HAI",
-        "assoc": {
-            "key": "hai",
-            "name": "Fédération Haïtienne de Football",
-            "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
-            }
-        },
-        "group": "C"
+        "group": "C",
+        "confed": "CONCACAF"
     },
     {
         "name": "Scotland",
@@ -183,15 +106,8 @@
         "flag_icon": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
         "flag_unicode": "\\u{1F3F4}\\u{E0067}\\u{E0062}\\u{E0073}\\u{E0063}\\u{E0074}\\u{E007F}",
         "fifa_code": "SCO",
-        "assoc": {
-            "key": "sco",
-            "name": "Scottish Football Association",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "C"
+        "group": "C",
+        "confed": "UEFA"
     },
     {
         "name": "USA",
@@ -200,15 +116,8 @@
         "flag_icon": "🇺🇸",
         "flag_unicode": "\\u{1F1FA}\\u{1F1F8}",
         "fifa_code": "USA",
-        "assoc": {
-            "key": "usa",
-            "name": "United States Soccer Federation",
-            "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
-            }
-        },
-        "group": "D"
+        "group": "D",
+        "confed": "CONCACAF"
     },
     {
         "name": "Paraguay",
@@ -216,15 +125,8 @@
         "flag_icon": "🇵🇾",
         "flag_unicode": "\\u{1F1F5}\\u{1F1FE}",
         "fifa_code": "PAR",
-        "assoc": {
-            "key": "par",
-            "name": "Asociación Paraguaya de Fútbol",
-            "continental": {
-                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-                "code": "CONMEBOL"
-            }
-        },
-        "group": "D"
+        "group": "D",
+        "confed": "CONMEBOL"
     },
     {
         "name": "Australia",
@@ -232,15 +134,8 @@
         "flag_icon": "🇦🇺",
         "flag_unicode": "\\u{1F1E6}\\u{1F1FA}",
         "fifa_code": "AUS",
-        "assoc": {
-            "key": "aus",
-            "name": "Football Federation Australia",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "D"
+        "group": "D",
+        "confed": "AFC"
     },
     {
         "name": "Turkey",
@@ -249,15 +144,8 @@
         "flag_icon": "🇹🇷",
         "flag_unicode": "\\u{1F1F9}\\u{1F1F7}",
         "fifa_code": "TUR",
-        "assoc": {
-            "key": "tur",
-            "name": "Türkiye Futbol Federasyonu",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "D"
+        "group": "D",
+        "confed": "UEFA"
     },
     {
         "name": "Germany",
@@ -265,15 +153,8 @@
         "flag_icon": "🇩🇪",
         "flag_unicode": "\\u{1F1E9}\\u{1F1EA}",
         "fifa_code": "GER",
-        "assoc": {
-            "key": "ger",
-            "name": "Deutscher Fußball-Bund",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "E"
+        "group": "E",
+        "confed": "UEFA"
     },
     {
         "name": "Curaçao",
@@ -281,15 +162,8 @@
         "flag_icon": "🇨🇼",
         "flag_unicode": "\\u{1F1E8}\\u{1F1FC}",
         "fifa_code": "CUW",
-        "assoc": {
-            "key": "cuw",
-            "name": "Federashon Futbòl Kòrsou",
-            "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
-            }
-        },
-        "group": "E"
+        "group": "E",
+        "confed": "CONCACAF"
     },
     {
         "name": "Ivory Coast",
@@ -298,15 +172,8 @@
         "flag_icon": "🇨🇮",
         "flag_unicode": "\\u{1F1E8}\\u{1F1EE}",
         "fifa_code": "CIV",
-        "assoc": {
-            "key": "civ",
-            "name": "Fédération Ivoirienne de Football",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "E"
+        "group": "E",
+        "confed": "CAF"
     },
     {
         "name": "Ecuador",
@@ -314,15 +181,8 @@
         "flag_icon": "🇪🇨",
         "flag_unicode": "\\u{1F1EA}\\u{1F1E8}",
         "fifa_code": "ECU",
-        "assoc": {
-            "key": "ecu",
-            "name": "Federación Ecuatoriana de Fútbol",
-            "continental": {
-                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-                "code": "CONMEBOL"
-            }
-        },
-        "group": "E"
+        "group": "E",
+        "confed": "CONMEBOL"
     },
     {
         "name": "Netherlands",
@@ -330,15 +190,8 @@
         "flag_icon": "🇳🇱",
         "flag_unicode": "\\u{1F1F3}\\u{1F1F1}",
         "fifa_code": "NED",
-        "assoc": {
-            "key": "ned",
-            "name": "Koninklijke Nederlandse Voetbalbond",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "F"
+        "group": "F",
+        "confed": "UEFA"
     },
     {
         "name": "Japan",
@@ -346,15 +199,8 @@
         "flag_icon": "🇯🇵",
         "flag_unicode": "\\u{1F1EF}\\u{1F1F5}",
         "fifa_code": "JPN",
-        "assoc": {
-            "key": "jpn",
-            "name": "Japan Football Association",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "F"
+        "group": "F",
+        "confed": "AFC"
     },
     {
         "name": "Sweden",
@@ -362,15 +208,8 @@
         "flag_icon": "🇸🇪",
         "flag_unicode": "\\u{1F1F8}\\u{1F1EA}",
         "fifa_code": "SWE",
-        "assoc": {
-            "key": "swe",
-            "name": "Svenska Fotbollförbundet",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "F"
+        "group": "F",
+        "confed": "UEFA"
     },
     {
         "name": "Tunisia",
@@ -378,15 +217,8 @@
         "flag_icon": "🇹🇳",
         "flag_unicode": "\\u{1F1F9}\\u{1F1F3}",
         "fifa_code": "TUN",
-        "assoc": {
-            "key": "tun",
-            "name": "Fédération Tunisienne de Football",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "F"
+        "group": "F",
+        "confed": "CAF"
     },
     {
         "name": "Belgium",
@@ -394,15 +226,8 @@
         "flag_icon": "🇧🇪",
         "flag_unicode": "\\u{1F1E7}\\u{1F1EA}",
         "fifa_code": "BEL",
-        "assoc": {
-            "key": "bel",
-            "name": "Koninklijke Belgische Voetbalbond",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "G"
+        "group": "G",
+        "confed": "UEFA"
     },
     {
         "name": "Egypt",
@@ -410,15 +235,8 @@
         "flag_icon": "🇪🇬",
         "flag_unicode": "\\u{1F1EA}\\u{1F1EC}",
         "fifa_code": "EGY",
-        "assoc": {
-            "key": "egy",
-            "name": "Egyptian Football Association",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "G"
+        "group": "G",
+        "confed": "CAF"
     },
     {
         "name": "Iran",
@@ -427,15 +245,8 @@
         "flag_icon": "🇮🇷",
         "flag_unicode": "\\u{1F1EE}\\u{1F1F7}",
         "fifa_code": "IRN",
-        "assoc": {
-            "key": "irn",
-            "name": "Football Federation Islamic Republic of Iran",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "G"
+        "group": "G",
+        "confed": "AFC"
     },
     {
         "name": "New Zealand",
@@ -443,15 +254,8 @@
         "flag_icon": "🇳🇿",
         "flag_unicode": "\\u{1F1F3}\\u{1F1FF}",
         "fifa_code": "NZL",
-        "assoc": {
-            "key": "nzl",
-            "name": "New Zealand Football",
-            "continental": {
-                "name": "Oceania Football Confederation (OFC)",
-                "code": "OFC"
-            }
-        },
-        "group": "G"
+        "group": "G",
+        "confed": "OFC"
     },
     {
         "name": "Spain",
@@ -459,15 +263,8 @@
         "flag_icon": "🇪🇸",
         "flag_unicode": "\\u{1F1EA}\\u{1F1F8}",
         "fifa_code": "ESP",
-        "assoc": {
-            "key": "esp",
-            "name": "Real Federación Española de Fútbol",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "H"
+        "group": "H",
+        "confed": "UEFA"
     },
     {
         "name": "Cape Verde",
@@ -476,15 +273,8 @@
         "flag_icon": "🇨🇻",
         "flag_unicode": "\\u{1F1E8}\\u{1F1FB}",
         "fifa_code": "CPV",
-        "assoc": {
-            "key": "cpv",
-            "name": "Federação Cabo-verdiana de Futebol",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "H"
+        "group": "H",
+        "confed": "CAF"
     },
     {
         "name": "Saudi Arabia",
@@ -492,15 +282,8 @@
         "flag_icon": "🇸🇦",
         "flag_unicode": "\\u{1F1F8}\\u{1F1E6}",
         "fifa_code": "KSA",
-        "assoc": {
-            "key": "ksa",
-            "name": "Saudi Arabian Football Federation",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "H"
+        "group": "H",
+        "confed": "AFC"
     },
     {
         "name": "Uruguay",
@@ -508,15 +291,8 @@
         "flag_icon": "🇺🇾",
         "flag_unicode": "\\u{1F1FA}\\u{1F1FE}",
         "fifa_code": "URU",
-        "assoc": {
-            "key": "uru",
-            "name": "Asociación Uruguaya de Fútbol",
-            "continental": {
-                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-                "code": "CONMEBOL"
-            }
-        },
-        "group": "H"
+        "group": "H",
+        "confed": "CONMEBOL"
     },
     {
         "name": "France",
@@ -524,15 +300,8 @@
         "flag_icon": "🇫🇷",
         "flag_unicode": "\\u{1F1EB}\\u{1F1F7}",
         "fifa_code": "FRA",
-        "assoc": {
-            "key": "fra",
-            "name": "Fédération Française de Football",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "I"
+        "group": "I",
+        "confed": "UEFA"
     },
     {
         "name": "Senegal",
@@ -540,15 +309,8 @@
         "flag_icon": "🇸🇳",
         "flag_unicode": "\\u{1F1F8}\\u{1F1F3}",
         "fifa_code": "SEN",
-        "assoc": {
-            "key": "sen",
-            "name": "Fédération Sénégalaise de Football",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "I"
+        "group": "I",
+        "confed": "CAF"
     },
     {
         "name": "Iraq",
@@ -556,15 +318,8 @@
         "flag_icon": "🇮🇶",
         "flag_unicode": "\\u{1F1EE}\\u{1F1F6}",
         "fifa_code": "IRQ",
-        "assoc": {
-            "key": "irq",
-            "name": "Iraq Football Association",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "I"
+        "group": "I",
+        "confed": "AFC"
     },
     {
         "name": "Norway",
@@ -572,15 +327,8 @@
         "flag_icon": "🇳🇴",
         "flag_unicode": "\\u{1F1F3}\\u{1F1F4}",
         "fifa_code": "NOR",
-        "assoc": {
-            "key": "nor",
-            "name": "Norges Fotballforbund",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "I"
+        "group": "I",
+        "confed": "UEFA"
     },
     {
         "name": "Argentina",
@@ -588,15 +336,8 @@
         "flag_icon": "🇦🇷",
         "flag_unicode": "\\u{1F1E6}\\u{1F1F7}",
         "fifa_code": "ARG",
-        "assoc": {
-            "key": "arg",
-            "name": "Asociación del Fútbol Argentino",
-            "continental": {
-                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-                "code": "CONMEBOL"
-            }
-        },
-        "group": "J"
+        "group": "J",
+        "confed": "CONMEBOL"
     },
     {
         "name": "Algeria",
@@ -604,15 +345,8 @@
         "flag_icon": "🇩🇿",
         "flag_unicode": "\\u{1F1E9}\\u{1F1FF}",
         "fifa_code": "ALG",
-        "assoc": {
-            "key": "alg",
-            "name": "Fédération Algérienne de Football",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "J"
+        "group": "J",
+        "confed": "CAF"
     },
     {
         "name": "Austria",
@@ -620,15 +354,8 @@
         "flag_icon": "🇦🇹",
         "flag_unicode": "\\u{1F1E6}\\u{1F1F9}",
         "fifa_code": "AUT",
-        "assoc": {
-            "key": "aut",
-            "name": "Österreichischer Fußball-Bund",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "J"
+        "group": "J",
+        "confed": "UEFA"
     },
     {
         "name": "Jordan",
@@ -636,15 +363,8 @@
         "flag_icon": "🇯🇴",
         "flag_unicode": "\\u{1F1EF}\\u{1F1F4}",
         "fifa_code": "JOR",
-        "assoc": {
-            "key": "jor",
-            "name": "Jordan Football Association",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "J"
+        "group": "J",
+        "confed": "AFC"
     },
     {
         "name": "Portugal",
@@ -652,15 +372,8 @@
         "flag_icon": "🇵🇹",
         "flag_unicode": "\\u{1F1F5}\\u{1F1F9}",
         "fifa_code": "POR",
-        "assoc": {
-            "key": "por",
-            "name": "Federação Portuguesa de Futebol",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "K"
+        "group": "K",
+        "confed": "UEFA"
     },
     {
         "name": "DR Congo",
@@ -669,15 +382,8 @@
         "flag_icon": "🇨🇩",
         "flag_unicode": "\\u{1F1E8}\\u{1F1E9}",
         "fifa_code": "COD",
-        "assoc": {
-            "key": "cod",
-            "name": "Fédération Congolaise de Football-Association",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "K"
+        "group": "K",
+        "confed": "CAF"
     },
     {
         "name": "Uzbekistan",
@@ -685,15 +391,8 @@
         "flag_icon": "🇺🇿",
         "flag_unicode": "\\u{1F1FA}\\u{1F1FF}",
         "fifa_code": "UZB",
-        "assoc": {
-            "key": "uzb",
-            "name": "Uzbekistan Football Association",
-            "continental": {
-                "name": "Asian Football Confederation (AFC)",
-                "code": "AFC"
-            }
-        },
-        "group": "K"
+        "group": "K",
+        "confed": "AFC"
     },
     {
         "name": "Colombia",
@@ -701,15 +400,8 @@
         "flag_icon": "🇨🇴",
         "flag_unicode": "\\u{1F1E8}\\u{1F1F4}",
         "fifa_code": "COL",
-        "assoc": {
-            "key": "col",
-            "name": "Federación Colombiana de Fútbol",
-            "continental": {
-                "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-                "code": "CONMEBOL"
-            }
-        },
-        "group": "K"
+        "group": "K",
+        "confed": "CONMEBOL"
     },
     {
         "name": "England",
@@ -717,15 +409,8 @@
         "flag_icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "flag_unicode": "\\u{1F3F4}\\u{E0067}\\u{E0062}\\u{E0065}\\u{E006E}\\u{E0067}\\u{E007F}",
         "fifa_code": "ENG",
-        "assoc": {
-            "key": "eng",
-            "name": "The Football Association",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "L"
+        "group": "L",
+        "confed": "UEFA"
     },
     {
         "name": "Croatia",
@@ -733,15 +418,8 @@
         "flag_icon": "🇭🇷",
         "flag_unicode": "\\u{1F1ED}\\u{1F1F7}",
         "fifa_code": "CRO",
-        "assoc": {
-            "key": "cro",
-            "name": "Hrvatski Nogometni Savez",
-            "continental": {
-                "name": "Union of European Football Associations (UEFA)",
-                "code": "UEFA"
-            }
-        },
-        "group": "L"
+        "group": "L",
+        "confed": "UEFA"
     },
     {
         "name": "Ghana",
@@ -749,15 +427,8 @@
         "flag_icon": "🇬🇭",
         "flag_unicode": "\\u{1F1EC}\\u{1F1ED}",
         "fifa_code": "GHA",
-        "assoc": {
-            "key": "gha",
-            "name": "Ghana Football Association",
-            "continental": {
-                "name": "Confédération Africaine de Football (CAF)",
-                "code": "CAF"
-            }
-        },
-        "group": "L"
+        "group": "L",
+        "confed": "CAF"
     },
     {
         "name": "Panama",
@@ -765,14 +436,7 @@
         "flag_icon": "🇵🇦",
         "flag_unicode": "\\u{1F1F5}\\u{1F1E6}",
         "fifa_code": "PAN",
-        "assoc": {
-            "key": "pan",
-            "name": "Federación Panameña de Fútbol",
-            "continental": {
-                "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-                "code": "CONCACAF"
-            }
-        },
-        "group": "L"
+        "group": "L",
+        "confed": "CONCACAF"
     }
 ]
