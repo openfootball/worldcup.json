@@ -1,0 +1,61 @@
+{
+  "name": "World Cup 2022",
+  "stadiums": [
+    {
+      "city": "Al Khor",
+      "timezone": "UTC+3",
+      "name": "Al Bayt Stadium",
+      "capacity": 68895,
+      "coords": "25°39'08\"N 51°29'16\"E"
+    },
+    {
+      "city": "Lusail",
+      "timezone": "UTC+3",
+      "name": "Lusail Stadium",
+      "capacity": 88966,
+      "coords": "25°25'15.1\"N 51°29'25.4\"E"
+    },
+    {
+      "city": "Al Rayyan (1)",
+      "timezone": "UTC+3",
+      "name": "Ahmad bin Ali Stadium",
+      "capacity": 45032,
+      "coords": "25°19'47\"N 51°20'32\"E"
+    },
+    {
+      "city": "Al Rayyan (2)",
+      "timezone": "UTC+3",
+      "name": "Education City Stadium",
+      "capacity": 44667,
+      "coords": "25°18'39\"N 51°25'28\"E"
+    },
+    {
+      "city": "Al Rayyan (3)",
+      "timezone": "UTC+3",
+      "name": "Khalifa International Stadium",
+      "capacity": 45857,
+      "coords": "25°15'49\"N 51°26'53\"E"
+    },
+    {
+      "city": "Doha (1)",
+      "timezone": "UTC+3",
+      "name": "Al Thumama Stadium",
+      "capacity": 44400,
+      "coords": "25°14'07\"N 51°31'56\"E"
+    },
+    {
+      "city": "Doha (2)",
+      "timezone": "UTC+3",
+      "name": "Stadium 974",
+      "capacity": 44089,
+      "coords": "25°17'24\"N 51°33'54\"E"
+    },
+    {
+      "city": "Al Wakrah",
+      "timezone": "UTC+3",
+      "name": "Al Janoub Stadium",
+      "capacity": 44325,
+      "coords": "25°09'35.2\"N 51°34'26.7\"E"
+    }
+  ]
+}

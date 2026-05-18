@@ -2,88 +2,88 @@
   "name": "World Cup 2018",
   "stadiums": [
     {
-      "key": "samara",
-      "name": "Samara Arena",
-      "capacity": 45000,
-      "city": "Samara",
-      "timezone": "UTC+4"
-    },
-    {
-      "key": "nizhnynovgorod",
-      "name": "Nizhny Novgorod Stadium",
-      "capacity": 45000,
-      "city": "Nizhny Novgorod",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "volgograd",
-      "name": "Volgograd Arena",
-      "capacity": 45000,
-      "city": "Volgograd",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "ekaterinburg",
-      "name": "Ekaterinburg Arena",
-      "capacity": 35000,
-      "city": "Ekaterinburg",
-      "timezone": "UTC+5"
-    },
-    {
-      "key": "mordovia",
-      "name": "Mordovia Arena",
-      "capacity": 44000,
-      "city": "Saransk",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "rostov",
-      "name": "Rostov Arena",
-      "capacity": 45000,
-      "city": "Rostov-on-Don",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "kaliningrad",
-      "name": "Kaliningrad Stadium",
-      "capacity": 35000,
       "city": "Kaliningrad",
-      "timezone": "UTC+2"
+      "timezone": "UTC+2",
+      "name": "Kaliningrad Stadium",
+      "capacity": 33973,
+      "coords": "54°41'53\"N 20°32'02\"E"
     },
     {
-      "key": "kazan",
-      "name": "Kazan Arena",
-      "capacity": 45000,
-      "city": "Kazan",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "fisht",
-      "name": "Fisht Stadium",
-      "capacity": 45000,
-      "city": "Sochi",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "saintpetersburg",
-      "name": "Saint Petersburg Stadium",
-      "capacity": 67000,
-      "city": "Saint Petersburg",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "spartak",
-      "name": "Spartak Stadium",
-      "capacity": 45000,
-      "city": "Moscow",
-      "timezone": "UTC+3"
-    },
-    {
-      "key": "luzhniki",
+      "city": "Moscow (1)",
+      "timezone": "UTC+3",
       "name": "Luzhniki Stadium",
-      "capacity": 80000,
-      "city": "Moscow",
-      "timezone": "UTC+3"
+      "capacity": 78011,
+      "coords": "55°42'57\"N 37°33'13\"E"
+    },
+    {
+      "city": "Moscow (2)",
+      "timezone": "UTC+3",
+      "name": "Otkritie Arena (Spartak Stadium)",
+      "capacity": 44190,
+      "coords": "55°49'4.3\"N 37°26'24.9\"E"
+    },
+    {
+      "city": "Saint Petersburg",
+      "timezone": "UTC+3",
+      "name": "Krestovsky Stadium (Saint Petersburg Stadium)",
+      "capacity": 64468,
+      "coords": "59°58'23\"N 30°13'14\"E"
+    },
+    {
+      "city": "Sochi",
+      "timezone": "UTC+3",
+      "name": "Fisht Olympic Stadium (Fisht Stadium)",
+      "capacity": 44287,
+      "coords": "43°24'08\"N 39°57'22\"E"
+    },
+    {
+      "city": "Volgograd",
+      "timezone": "UTC+3",
+      "name": "Volgograd Arena",
+      "capacity": 43713,
+      "coords": "48°44'04\"N 44°32'55\"E"
+    },
+    {
+      "city": "Rostov-on-Don",
+      "timezone": "UTC+3",
+      "name": "Rostov Arena",
+      "capacity": 43472,
+      "coords": "47°12'34\"N 39°44'16\"E"
+    },
+    {
+      "city": "Nizhny Novgorod",
+      "timezone": "UTC+3",
+      "name": "Nizhny Novgorod Stadium",
+      "capacity": 43319,
+      "coords": "56°20'15\"N 43°57'48\"E"
+    },
+    {
+      "city": "Kazan",
+      "timezone": "UTC+3",
+      "name": "Kazan Arena",
+      "capacity": 42873,
+      "coords": "55°49'16\"N 49°09'39\"E"
+    },
+    {
+      "city": "Saransk",
+      "timezone": "UTC+3",
+      "name": "Mordovia Arena",
+      "capacity": 41685,
+      "coords": "54°10'58\"N 45°12'05\"E"
+    },
+    {
+      "city": "Samara",
+      "timezone": "UTC+4",
+      "name": "Samara Arena",
+      "capacity": 41970,
+      "coords": "53°16'40\"N 50°14'14\"E"
+    },
+    {
+      "city": "Yekaterinburg",
+      "timezone": "UTC+5",
+      "name": "Central Stadium (Ekaterinburg Arena)",
+      "capacity": 33061,
+      "coords": "56°49'57\"N 60°34'25\"E"
     }
   ]
 }

@@ -1,146 +1,133 @@
-[
-  {
-    "city": "Mexico City",
-    "cc": "mx",
-    "name": "Estadio Azteca",
-    "cap": 83000,
-    "wikipedia": "Estadio_Azteca",
-    "wikidata": "Q320454",
-    "coords": "19°18'11\"N 99°09'02\"W"
-  },
-  {
-    "city": "Guadalajara (Zapopan)",
-    "cc": "mx",
-    "name": "Estadio Akron",
-    "cap": 48000,
-    "wikipedia": "Estadio_Akron",
-    "wikidata": "Q666183",
-    "coords": "20°40'54\"N 103°27'46\"W"
-  },
-  {
-    "city": "Monterrey (Guadalupe)",
-    "cc": "mx",
-    "name": "Estadio BBVA",
-    "cap": 53500,
-    "wikipedia": "Estadio_BBVA",
-    "wikidata": "Q3058827",
-    "coords": "25°40'9\"N 100°14'40\"W"
-  },
-  {
-    "city": "Atlanta",
-    "cc": "us",
-    "name": "Mercedes-Benz Stadium",
-    "cap": 75000,
-    "wikipedia": "Mercedes-Benz_Stadium",
-    "wikidata": "Q7007552",
-    "coords": "33°45'20\"N 84°24'00\"W"
-  },
-  {
-    "city": "Boston (Foxborough)",
-    "cc": "us",
-    "name": "Gillette Stadium",
-    "cap": 65000,
-    "wikipedia": "Gillette_Stadium",
-    "wikidata": "Q373355",
-    "coords": "42.091°N 71.264°W"
-  },
-  {
-    "city": "Dallas (Arlington)",
-    "cc": "us",
-    "name": "AT&T Stadium",
-    "cap": 94000,
-    "wikipedia": "AT&T_Stadium",
-    "wikidata": "Q838284",
-    "coords": "32°44'52\"N 97°5'34\"W"
-  },
-  {
-    "city": "Houston",
-    "cc": "us",
-    "name": "NRG Stadium",
-    "cap": 72000,
-    "wikipedia": "NRG_Stadium",
-    "wikidata": "Q1058864",
-    "coords": "29°41'5\"N 95°24'39\"W"
-  },
-  {
-    "city": "Kansas City",
-    "cc": "us",
-    "name": "Arrowhead Stadium",
-    "cap": 73000,
-    "wikipedia": "Arrowhead_Stadium",
-    "wikidata": "Q544553",
-    "coords": "39°2'56\"N 94°29'2\"W"
-  },
-  {
-    "city": "Los Angeles (Inglewood)",
-    "cc": "us",
-    "name": "SoFi Stadium",
-    "cap": 70000,
-    "wikipedia": "SoFi_Stadium",
-    "wikidata": "Q19520501",
-    "coords": "33.953°N 118.339°W"
-  },
-  {
-    "city": "Miami (Miami Gardens)",
-    "cc": "us",
-    "name": "Hard Rock Stadium",
-    "cap": 65000,
-    "wikipedia": "Hard_Rock_Stadium",
-    "wikidata": "Q864339",
-    "coords": "25°57'29\"N 80°14'20\"W"
-  },
-  {
-    "city": "New York/New Jersey (East Rutherford)",
-    "cc": "us",
-    "name": "MetLife Stadium",
-    "cap": 82500,
-    "wikipedia": "MetLife_Stadium",
-    "wikidata": "Q10862290",
-    "coords": "40°48'48.7\"N 74°4'27.7\"W"
-  },
-  {
-    "city": "Philadelphia",
-    "cc": "us",
-    "name": "Lincoln Financial Field",
-    "cap": 69000,
-    "wikipedia": "Lincoln_Financial_Field",
-    "wikidata": "Q1052370",
-    "coords": "39°54'3\"N 75°10'3\"W"
-  },
-  {
-    "city": "San Francisco Bay Area (Santa Clara)",
-    "cc": "us",
-    "name": "Levi's Stadium",
-    "cap": 71000,
-    "wikipedia": "Levi's_Stadium",
-    "wikidata": "Q7419343",
-    "coords": "37.403°N 121.970°W"
-  },
-  {
-    "city": "Seattle",
-    "cc": "us",
-    "name": "Lumen Field",
-    "cap": 69000,
-    "wikipedia": "Lumen_Field",
-    "wikidata": "Q612736",
-    "coords": "47°35'43\"N 122°19'54\"W"
-  },
-  {
-    "city": "Toronto",
-    "cc": "ca",
-    "name": "BMO Field",
-    "cap": 45000,
-    "wikipedia": "BMO_Field",
-    "wikidata": "Q796351",
-    "coords": "43°38'0\"N 79°25'07\"W"
-  },
-  {
-    "city": "Vancouver",
-    "cc": "ca",
-    "name": "BC Place",
-    "cap": 54000,
-    "wikipedia": "BC_Place",
-    "wikidata": "Q612227",
-    "coords": "49°16'36\"N 123°6'43\"W"
-  }
-]
+{
+  "name": "World Cup 2026",
+  "stadiums": [
+    {
+      "city": "Vancouver",
+      "timezone": "UTC-7",
+      "cc": "ca",
+      "name": "BC Place",
+      "capacity": 54000,
+      "coords": "49°16'36\"N 123°6'43\"W"
+    },
+    {
+      "city": "Seattle",
+      "timezone": "UTC-7",
+      "cc": "us",
+      "name": "Lumen Field",
+      "capacity": 69000,
+      "coords": "47°35'43\"N 122°19'54\"W"
+    },
+    {
+      "city": "San Francisco Bay Area (Santa Clara)",
+      "timezone": "UTC-7",
+      "cc": "us",
+      "name": "Levi's Stadium",
+      "capacity": 71000,
+      "coords": "37.403°N 121.970°W"
+    },
+    {
+      "city": "Los Angeles (Inglewood)",
+      "timezone": "UTC-7",
+      "cc": "us",
+      "name": "SoFi Stadium",
+      "capacity": 70000,
+      "coords": "33.953°N 118.339°W"
+    },
+    {
+      "city": "Guadalajara (Zapopan)",
+      "timezone": "UTC-6",
+      "cc": "mx",
+      "name": "Estadio Akron",
+      "capacity": 48000,
+      "coords": "20°40'54\"N 103°27'46\"W"
+    },
+    {
+      "city": "Mexico City",
+      "timezone": "UTC-6",
+      "cc": "mx",
+      "name": "Estadio Azteca",
+      "capacity": 83000,
+      "coords": "19°18'11\"N 99°09'02\"W"
+    },
+    {
+      "city": "Monterrey (Guadalupe)",
+      "timezone": "UTC-6",
+      "cc": "mx",
+      "name": "Estadio BBVA",
+      "capacity": 53500,
+      "coords": "25°40'9\"N 100°14'40\"W"
+    },
+    {
+      "city": "Houston",
+      "timezone": "UTC-5",
+      "cc": "us",
+      "name": "NRG Stadium",
+      "capacity": 72000,
+      "coords": "29°41'5\"N 95°24'39\"W"
+    },
+    {
+      "city": "Dallas (Arlington)",
+      "timezone": "UTC-5",
+      "cc": "us",
+      "name": "AT&T Stadium",
+      "capacity": 94000,
+      "coords": "32°44'52\"N 97°5'34\"W"
+    },
+    {
+      "city": "Kansas City",
+      "timezone": "UTC-5",
+      "cc": "us",
+      "name": "Arrowhead Stadium",
+      "capacity": 73000,
+      "coords": "39°2'56\"N 94°29'2\"W"
+    },
+    {
+      "city": "Atlanta",
+      "timezone": "UTC-4",
+      "cc": "us",
+      "name": "Mercedes-Benz Stadium",
+      "capacity": 75000,
+      "coords": "33°45'20\"N 84°24'00\"W"
+    },
+    {
+      "city": "Miami (Miami Gardens)",
+      "timezone": "UTC-4",
+      "cc": "us",
+      "name": "Hard Rock Stadium",
+      "capacity": 65000,
+      "coords": "25°57'29\"N 80°14'20\"W"
+    },
+    {
+      "city": "Toronto",
+      "timezone": "UTC-4",
+      "cc": "ca",
+      "name": "BMO Field",
+      "capacity": 45000,
+      "coords": "43°38'0\"N 79°25'07\"W"
+    },
+    {
+      "city": "Boston (Foxborough)",
+      "timezone": "UTC-4",
+      "cc": "us",
+      "name": "Gillette Stadium",
+      "capacity": 65000,
+      "coords": "42.091°N 71.264°W"
+    },
+    {
+      "city": "Philadelphia",
+      "timezone": "UTC-4",
+      "cc": "us",
+      "name": "Lincoln Financial Field",
+      "capacity": 69000,
+      "coords": "39°54'3\"N 75°10'3\"W"
+    },
+    {
+      "city": "New York/New Jersey (East Rutherford)",
+      "timezone": "UTC-4",
+      "cc": "us",
+      "name": "MetLife Stadium",
+      "capacity": 82500,
+      "coords": "40°48'48.7\"N 74°4'27.7\"W"
+    }
+  ]
+}

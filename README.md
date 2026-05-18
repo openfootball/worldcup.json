@@ -3,7 +3,7 @@
 
 ## What's News?
 
-Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
+Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON.
 
 Let's try to convert the Club World Cup 2025
 in the Football.TXT format (see [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt)) to JSON:
@@ -22,7 +22,7 @@ $ fbtxt2json worldcup/2022--qatar/cup.txt worldcup/2022--qatar/cup_finals.txt -o
 -->
 
 
-# worldcup.json 
+# worldcup.json
 
 Free open public domain football data for the world cups (national teams and clubs) in the JSON
 (JavaScript Object Notation)
@@ -38,11 +38,11 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
 ``` json
 {
  "name": "World Cup 2026",
- "matches": [ 
+ "matches": [
    {"round": "Matchday 1",
     "date": "2026-06-11",
     "time": "13:00 UTC-6",
-    "team1": "Mexico",    
+    "team1": "Mexico",
     "team2": "South Africa",
     "group": "Group A",
     "ground": "Mexico City"
@@ -87,7 +87,7 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
 ``` json
 {
  "name": "World Cup 2022",
- "matches": 
+ "matches":
   [{"round": "Matchday 1",
     "date": "2022-11-20",
     "time": "19:00",
@@ -95,7 +95,7 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
     "team2": "Ecuador",
     "score": {"ft": [0, 2], "ht": [0, 2]},
     "goals1": [],
-    "goals2": 
+    "goals2":
      [{"name": "Enner Valencia", "minute": 16, "penalty": true},
       {"name": "Enner Valencia", "minute": 31}],
     "group": "Group A",
@@ -108,7 +108,7 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
     "team2": "Netherlands",
     "score": {"ft": [0, 2], "ht": [0, 0]},
     "goals1": [],
-    "goals2": 
+    "goals2":
      [{"name": "Cody Gakpo", "minute": 84},
       {"name": "Davy Klaassen", "minute": 90, "offset": 9}],
     "group": "Group A",
@@ -121,11 +121,11 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
     "team1": "Argentina",
     "team2": "France",
     "score": {"p": [4, 2], "et": [3, 3], "ft": [2, 2], "ht": [2, 0]},
-    "goals1": 
+    "goals1":
      [{"name": "Lionel Messi", "minute": 23, "penalty": true},
       {"name": "Lionel Messi", "minute": 108},
       {"name": "Ángel Di María", "minute": 36}],
-    "goals2": 
+    "goals2":
      [{"name": "Kylian Mbappé", "minute": 80, "penalty": true},
       {"name": "Kylian Mbappé", "minute": 81},
       {"name": "Kylian Mbappé", "minute": 118, "penalty": true}],
@@ -145,7 +145,7 @@ Example - Club World Cup in USA 2025 Match Schedule (Fixtures and Results) - [`2
 ``` json
 {
  "name": "Club World Cup 2025",
- "matches": 
+ "matches":
   [{"round": "Group A",
     "date": "2025-06-14",
     "time": "20:00",
@@ -206,7 +206,7 @@ Clubs:
 - Club World Cups in [`/club-worldcup`](https://github.com/openfootball/club-worldcup)
 
 Note: For the Club World Cup 2025 please update the source text file
-[`/club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt) 
+[`/club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt)
 
 
 
@@ -231,7 +231,7 @@ For starting your own repo from scratch see the [League Quick Starter Kit](https
 
 ## License
 
-The worldcup.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The worldcup.json schema, data and scripts are dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 
 

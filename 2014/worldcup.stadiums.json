@@ -2,88 +2,88 @@
   "name": "World Cup 2014",
   "stadiums": [
     {
-      "key": "maracana",
-      "name": "Estádio do Maracanã",
-      "capacity": 76935,
       "city": "Rio de Janeiro",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Estádio do Maracanã",
+      "capacity": 74738,
+      "coords": "22°54'44\"S 43°13'49\"W"
     },
     {
-      "key": "nacionaldebrasilia",
-      "name": "Estádio Nacional (Mané Garrincha)",
-      "capacity": 70042,
       "city": "Brasília",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Estádio Nacional (Mané Garrincha)",
+      "capacity": 69432,
+      "coords": "15°47'0.60\"S 47°53'56.99\"W"
     },
     {
-      "key": "corinthians",
-      "name": "Arena Corinthians",
-      "capacity": 68000,
       "city": "São Paulo",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Arena Corinthians",
+      "capacity": 63321,
+      "coords": "23°32'42.9\"S 46°28'27.4\"W"
     },
     {
-      "key": "castelao",
-      "name": "Estádio Castelão",
-      "capacity": 64846,
       "city": "Fortaleza",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Estádio Castelão",
+      "capacity": 60348,
+      "coords": "3°48'26\"S 38°31'21\"W"
     },
     {
-      "key": "mineirao",
-      "name": "Estádio Mineirão",
-      "capacity": 62547,
       "city": "Belo Horizonte",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Estádio Mineirão",
+      "capacity": 58259,
+      "coords": "19°51'57\"S 43°58'15\"W"
     },
     {
-      "key": "fontenova",
-      "name": "Arena Fonte Nova",
-      "capacity": 56000,
       "city": "Salvador",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Arena Fonte Nova",
+      "capacity": 51708,
+      "coords": "12°58'43\"S 38°30'15\"W"
     },
     {
-      "key": "pantanal",
-      "name": "Arena Pantanal",
-      "capacity": 42968,
-      "city": "Cuiabá",
-      "timezone": "UTC-4"
-    },
-    {
-      "key": "amazonia",
-      "name": "Arena Amazônia",
-      "capacity": 42374,
-      "city": "Manaus",
-      "timezone": "UTC-4"
-    },
-    {
-      "key": "dasdunas",
-      "name": "Arena das Dunas",
-      "capacity": 42086,
-      "city": "Natal",
-      "timezone": "UTC-3"
-    },
-    {
-      "key": "beirario",
-      "name": "Estádio Beira-Rio",
-      "capacity": 51300,
       "city": "Porto Alegre",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Estádio Beira-Rio",
+      "capacity": 43394,
+      "coords": "30°3'56.21\"S 51°14'9.91\"W"
     },
     {
-      "key": "pernambuco",
-      "name": "Arena Pernambuco",
-      "capacity": 46154,
       "city": "Recife",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Arena Pernambuco",
+      "capacity": 42583,
+      "coords": "08°02'26\"S 35°00'30\"W"
     },
     {
-      "key": "dabaixada",
-      "name": "Arena da Baixada",
-      "capacity": 43981,
+      "city": "Natal",
+      "timezone": "UTC-3",
+      "name": "Arena das Dunas",
+      "capacity": 39971,
+      "coords": "5.826936°S 35.212371°W"
+    },
+    {
       "city": "Curitiba",
-      "timezone": "UTC-3"
+      "timezone": "UTC-3",
+      "name": "Arena da Baixada",
+      "capacity": 39631,
+      "coords": "25°26'54\"S 49°16'37\"W"
+    },
+    {
+      "city": "Cuiabá",
+      "timezone": "UTC-4",
+      "name": "Arena Pantanal",
+      "capacity": 41112,
+      "coords": ""
+    },
+    {
+      "city": "Manaus",
+      "timezone": "UTC-4",
+      "name": "Arena da Amazônia",
+      "capacity": 40549,
+      "coords": "3°4'59\"S 60°1'41\"W"
     }
   ]
 }

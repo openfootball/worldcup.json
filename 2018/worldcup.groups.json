@@ -3,171 +3,35 @@
   "groups": [
     {
       "name": "Group A",
-      "teams": [
-        {
-          "name": "Egypt",
-          "code": "EGY"
-        },
-        {
-          "name": "Russia",
-          "code": "RUS"
-        },
-        {
-          "name": "Saudi Arabia",
-          "code": "KSA"
-        },
-        {
-          "name": "Uruguay",
-          "code": "URU"
-        }
-      ]
+      "teams": ["Egypt", "Russia", "Saudi Arabia", "Uruguay"]
     },
     {
       "name": "Group B",
-      "teams": [
-        {
-          "name": "Morocco",
-          "code": "MAR"
-        },
-        {
-          "name": "Spain",
-          "code": "ESP"
-        },
-        {
-          "name": "Portugal",
-          "code": "POR"
-        },
-        {
-          "name": "Iran",
-          "code": "IRN"
-        }
-      ]
+      "teams": ["Morocco", "Spain", "Portugal", "Iran"]
     },
     {
       "name": "Group C",
-      "teams": [
-        {
-          "name": "France",
-          "code": "FRA"
-        },
-        {
-          "name": "Denmark",
-          "code": "DEN"
-        },
-        {
-          "name": "Australia",
-          "code": "AUS"
-        },
-        {
-          "name": "Peru",
-          "code": "PER"
-        }
-      ]
+      "teams": ["France", "Denmark", "Australia", "Peru"]
     },
     {
       "name": "Group D",
-      "teams": [
-        {
-          "name": "Nigeria",
-          "code": "NGA"
-        },
-        {
-          "name": "Croatia",
-          "code": "CRO"
-        },
-        {
-          "name": "Iceland",
-          "code": "ISL"
-        },
-        {
-          "name": "Argentina",
-          "code": "ARG"
-        }
-      ]
+      "teams": ["Nigeria", "Croatia", "Iceland", "Argentina"]
     },
     {
       "name": "Group E",
-      "teams": [
-        {
-          "name": "Costa Rica",
-          "code": "CRC"
-        },
-        {
-          "name": "Switzerland",
-          "code": "SUI"
-        },
-        {
-          "name": "Serbia",
-          "code": "SRB"
-        },
-        {
-          "name": "Brazil",
-          "code": "BRA"
-        }
-      ]
+      "teams": ["Costa Rica", "Switzerland", "Serbia", "Brazil"]
     },
     {
       "name": "Group F",
-      "teams": [
-        {
-          "name": "South Korea",
-          "code": "KOR"
-        },
-        {
-          "name": "Germany",
-          "code": "GER"
-        },
-        {
-          "name": "Sweden",
-          "code": "SWE"
-        },
-        {
-          "name": "Mexico",
-          "code": "MEX"
-        }
-      ]
+      "teams": ["South Korea", "Germany", "Sweden", "Mexico"]
     },
     {
       "name": "Group G",
-      "teams": [
-        {
-          "name": "Tunisia",
-          "code": "TUN"
-        },
-        {
-          "name": "Panama",
-          "code": "PAN"
-        },
-        {
-          "name": "Belgium",
-          "code": "BEL"
-        },
-        {
-          "name": "England",
-          "code": "ENG"
-        }
-      ]
+      "teams": ["Tunisia", "Panama", "Belgium", "England"]
     },
     {
       "name": "Group H",
-      "teams": [
-        {
-          "name": "Senegal",
-          "code": "SEN"
-        },
-        {
-          "name": "Japan",
-          "code": "JPN"
-        },
-        {
-          "name": "Poland",
-          "code": "POL"
-        },
-        {
-          "name": "Colombia",
-          "code": "COL"
-        }
-      ]
+      "teams": ["Senegal", "Japan", "Poland", "Colombia"]
     }
   ]
 }

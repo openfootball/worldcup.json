@@ -5,409 +5,193 @@
       "name": "Algeria",
       "code": "ALG",
       "continent": "Africa",
-      "assoc": {
-        "key": "alg",
-        "name": "Fédération Algérienne de Football",
-        "continental": {
-          "name": "Confédération Africaine de Football (CAF)",
-          "code": "CAF"
-        }
-      }
+      "confed":  "CAF"
     },
     {
       "name": "Côte d'Ivoire",
       "code": "CIV",
       "continent": "Africa",
-      "assoc": {
-        "key": "civ",
-        "name": "Fédération Ivoirienne de Football",
-        "continental": {
-          "name": "Confédération Africaine de Football (CAF)",
-          "code": "CAF"
-        }
-      }
+      "confed":  "CAF"
     },
     {
       "name": "Ghana",
       "code": "GHA",
       "continent": "Africa",
-      "assoc": {
-        "key": "gha",
-        "name": "Ghana Football Association",
-        "continental": {
-          "name": "Confédération Africaine de Football (CAF)",
-          "code": "CAF"
-        }
-      }
+      "confed": "CAF"
     },
     {
       "name": "Nigeria",
       "code": "NGA",
       "continent": "Africa",
-      "assoc": {
-        "key": "nga",
-        "name": "Nigeria Football Federation",
-        "continental": {
-          "name": "Confédération Africaine de Football (CAF)",
-          "code": "CAF"
-        }
-      }
+      "confed": "CAF"
     },
     {
       "name": "Cameroon",
       "code": "CMR",
       "continent": "Africa",
-      "assoc": {
-        "key": "cmr",
-        "name": "Fédération Camerounaise de Football",
-        "continental": {
-          "name": "Confédération Africaine de Football (CAF)",
-          "code": "CAF"
-        }
-      }
+      "confed":  "CAF"
     },
     {
       "name": "Japan",
       "code": "JPN",
       "continent": "Asia",
-      "assoc": {
-        "key": "jpn",
-        "name": "Japan Football Association",
-        "continental": {
-          "name": "Asian Football Confederation (AFC)",
-          "code": "AFC"
-        }
-      }
+      "confed": "AFC"
     },
     {
       "name": "South Korea",
       "code": "KOR",
       "continent": "Asia",
-      "assoc": {
-        "key": "kor",
-        "name": "Korea Football Association",
-        "continental": {
-          "name": "Asian Football Confederation (AFC)",
-          "code": "AFC"
-        }
-      }
+      "confed":  "AFC"
     },
     {
       "name": "Honduras",
       "code": "HON",
       "continent": "Central America",
-      "assoc": {
-        "key": "hon",
-        "name": "Federación Nacional Autónoma de Fútbol de Honduras",
-        "continental": {
-          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-          "code": "CONCACAF"
-        }
-      }
+      "confed":  "CONCACAF"
     },
     {
       "name": "Costa Rica",
       "code": "CRC",
       "continent": "Central America",
-      "assoc": {
-        "key": "crc",
-        "name": "Federación Costarricense de Fútbol",
-        "continental": {
-          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-          "code": "CONCACAF"
-        }
-      }
+      "confed":  "CONCACAF"
     },
     {
       "name": "Belgium",
       "code": "BEL",
       "continent": "Europe",
-      "assoc": {
-        "key": "bel",
-        "name": "Koninklijke Belgische Voetbalbond",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Germany",
       "code": "GER",
       "continent": "Europe",
-      "assoc": {
-        "key": "ger",
-        "name": "Deutscher Fußball-Bund",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Spain",
       "code": "ESP",
       "continent": "Europe",
-      "assoc": {
-        "key": "esp",
-        "name": "Real Federación Española de Fútbol",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "France",
       "code": "FRA",
       "continent": "Europe",
-      "assoc": {
-        "key": "fra",
-        "name": "Fédération Française de Football",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Greece",
       "code": "GRE",
       "continent": "Europe",
-      "assoc": {
-        "key": "gre",
-        "name": "Hellenic Football Federation",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed": "UEFA"
     },
     {
       "name": "Italy",
       "code": "ITA",
       "continent": "Europe",
-      "assoc": {
-        "key": "ita",
-        "name": "Federazione Italiana Giuoco Calcio",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Netherlands",
       "code": "NED",
       "continent": "Europe",
-      "assoc": {
-        "key": "bon",
-        "name": "Bonaire Football Federation",
-        "continental": {
-          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-          "code": "CONCACAF"
-        }
-      }
+      "confed": "CONCACAF"
     },
     {
       "name": "Portugal",
       "code": "POR",
       "continent": "Europe",
-      "assoc": {
-        "key": "por",
-        "name": "Federação Portuguesa de Futebol",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Switzerland",
       "code": "SUI",
       "continent": "Europe",
-      "assoc": {
-        "key": "sui",
-        "name": "Association Suisse de Football",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Croatia",
       "code": "CRO",
       "continent": "Europe",
-      "assoc": {
-        "key": "cro",
-        "name": "Hrvatski Nogometni Savez",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Russia",
       "code": "RUS",
       "continent": "Europe",
-      "assoc": {
-        "key": "rus",
-        "name": "Russian Football Union",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed":  "UEFA"
     },
     {
       "name": "Bosnia-Herzegovina",
       "code": "BIH",
       "continent": "Europe",
-      "assoc": {
-        "key": "bih",
-        "name": "Nogometni/Fudbalski Savez Bosne i Hercegovine",
-        "continental": {
-          "name": "Union of European Football Associations (UEFA)",
-          "code": "UEFA"
-        }
-      }
+      "confed": "UEFA"
     },
     {
       "name": "England",
       "code": "ENG",
-      "continent": "Europe"
+      "continent": "Europe",
+      "confed": "UEFA"
     },
     {
       "name": "Iran",
       "code": "IRN",
       "continent": "Middle East",
-      "assoc": {
-        "key": "irn",
-        "name": "Football Federation Islamic Republic of Iran",
-        "continental": {
-          "name": "Asian Football Confederation (AFC)",
-          "code": "AFC"
-        }
-      }
+      "confed":  "AFC"
     },
     {
       "name": "Mexico",
       "code": "MEX",
       "continent": "North America",
-      "assoc": {
-        "key": "mex",
-        "name": "Federación Mexicana de Fútbol Asociación",
-        "continental": {
-          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-          "code": "CONCACAF"
-        }
-      }
+      "confed":  "CONCACAF"
     },
     {
       "name": "United States",
       "code": "USA",
       "continent": "North America",
-      "assoc": {
-        "key": "usa",
-        "name": "United States Soccer Federation",
-        "continental": {
-          "name": "Confederation of North, Central American and Caribbean Association Football (CONCACAF)",
-          "code": "CONCACAF"
-        }
-      }
+      "confed":  "CONCACAF"
     },
     {
       "name": "Australia",
       "code": "AUS",
       "continent": "Pacific",
-      "assoc": {
-        "key": "aus",
-        "name": "Football Federation Australia",
-        "continental": {
-          "name": "Asian Football Confederation (AFC)",
-          "code": "AFC"
-        }
-      }
+      "confed":  "AFC"
     },
     {
       "name": "Argentina",
       "code": "ARG",
       "continent": "South America",
-      "assoc": {
-        "key": "arg",
-        "name": "Asociación del Fútbol Argentino",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
+      "confed":  "CONMEBOL"
     },
     {
       "name": "Brazil",
       "code": "BRA",
       "continent": "South America",
-      "assoc": {
-        "key": "bra",
-        "name": "Confederação Brasileira de Futebol",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
+      "confed":  "CONMEBOL"
     },
     {
       "name": "Chile",
       "code": "CHI",
       "continent": "South America",
-      "assoc": {
-        "key": "chi",
-        "name": "Federación de Fútbol de Chile",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
+      "confed":  "CONMEBOL"
     },
     {
       "name": "Uruguay",
       "code": "URU",
       "continent": "South America",
-      "assoc": {
-        "key": "uru",
-        "name": "Asociación Uruguaya de Fútbol",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
+      "confed":  "CONMEBOL"
     },
     {
       "name": "Colombia",
       "code": "COL",
       "continent": "South America",
-      "assoc": {
-        "key": "col",
-        "name": "Federación Colombiana de Fútbol",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
+      "confed":  "CONMEBOL"
     },
     {
       "name": "Ecuador",
       "code": "ECU",
       "continent": "South America",
-      "assoc": {
-        "key": "ecu",
-        "name": "Federación Ecuatoriana de Fútbol",
-        "continental": {
-          "name": "Confederación Sudamericana de Fútbol (CONMEBOL)",
-          "code": "CONMEBOL"
-        }
-      }
+      "confed":  "CONMEBOL"
     }
   ]
 }
