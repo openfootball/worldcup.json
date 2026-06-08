@@ -1,4 +1,29 @@
 
+## World Cup 2026 Q&A
+
+Q: [Will it update live match data?](https://github.com/openfootball/help/issues/57)
+[How live is the (worldcup.json) data?](https://github.com/openfootball/help/issues/58)
+
+A:  Sorry, no. worldcup.json works like a wiki. everytime the upstream (source) text, that is, [`worldcup/2026--usa/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2026--usa/cup.txt) gets updated (by hand), 
+the [2026/worldcup.json](https://github.com/openfootball/worldcup.json/blob/master/2026/worldcup.json) 
+datatset here gets automatically generated & updated (via github action). 
+
+Again note the upstream (source) text updates are not live or automated. [I (Gerald Bauer)](https://github.com/geraldb) 
+try to update once a day and note - I am in Austria, that is, Central European Summer Time (UTC+2).
+
+Anyways, to guarantee updates the best way is for you to contribute and update the score yourself. yes, you can. 
+Send a pull request and I will merge and happy to send you an invite to join the github org (if you agree and opt-in by saying yes) 
+so you can edit "in place" from than on.
+
+PS:  For full match details incl. line-ups, (yellow/red card) bookings and substitutions I will put together an (alternate) "upstream" text - 
+see [`worldcup/more`](https://github.com/openfootball/worldcup/tree/master/more) for the history from 1930 to 2022 -  but again sorry, that, page will NOT be live updated.
+
+
+<!--
+For, live updates try the unoffical/offical fifa api <>.
+-->
+
+
 <!--
 
 ## What's News?
