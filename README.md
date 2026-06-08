@@ -25,9 +25,9 @@ For, live updates try the unoffical/offical fifa api <>.
 -->
 
 
-> [!NOTE]
-> Tip - You can use the [`fbtxt2json` command-line tool]([https://github.com/sportdb/footty/tree/master/fbtxt2json](https://github.com/openfootball/quick-starter))
-> to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
+> [!TIP]
+>  You can use the [`fbtxt2json` command-line tool](https://github.com/openfootball/quick-starter)
+>  to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
 
   
 
