@@ -245,6 +245,8 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://github.com/jeff-knurek/fifa26> -- iCal generation of Fifa 2026 World Cup matches
 
+- <https://github.com/Roast-Labs/World-Cup-2026-Fixtures-and-Results-Slack-Bot> -- World Cup 2026 Slack bot - a self-installing Google apps script that posts a daily message to a Slack channel every morning with last night's results and today's fixtures for the 2026 World Cup 
+
 - <https://github.com/salah23222/worldcup2026>  -- an open-source, bilingual (Arabic/English) companion site for the 2026 World Cup
 
 - <https://github.com/sportdb/footty> -- command line tool in ruby; shows todays' matches or yesterdays' or tomorrows' or all past or all upcoming
