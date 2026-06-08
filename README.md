@@ -16,7 +16,7 @@ Send a pull request and I will merge and happy to send you an invite to join the
 so you can edit "in place" from than on.
 
 PS:  For full match details incl. line-ups, (yellow/red card) bookings, player substitutions, penalty shootouts, and more 
-I will put together an (alternate) "upstream" text - 
+I will put together an (alternate) upstream (source) text - 
 see [`worldcup/more`](https://github.com/openfootball/worldcup/tree/master/more) for the history from 1930 to 2022 -  but again sorry, that, page will NOT be live updated.
 
 
