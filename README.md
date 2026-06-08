@@ -192,19 +192,14 @@ $ curl https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/
 
 
 
-## Updates / Contributions Welcome - Please Update the Source Text Files
+## Updates / Contributions Welcome - Please Update the Upstream (Source) Text Files
 
 Note: The JSON files get (auto-)generated using the football.db datasets, thus, **please do NOT
-edit the JSON files but the source text files in the world cup (and friends) repos** e.g.:
+edit the JSON files here but the upstream (source) text files in the `/worldcup` (and friends) repos** e.g.:
 
 
 National Teams:
 - World Cups in [`/worldcup`](https://github.com/openfootball/worldcup)
-<!--
-- National Teams in [`/national-teams`](https://github.com/openfootball/national-teams)
-- Stadiums in [`/stadiums`](https://github.com/openfootball/stadiums)
-- and so on
--->
 
 Note: For the World Cup 2026 please update the source text file
 [`/worldcup/2026--usa/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2026--usa/cup.txt) for the group stage and
@@ -230,6 +225,7 @@ the (auto-)update machinery.
   add how to generate your own json files from the source datasets or something?
 
 -->
+
 
 ## Contributions Welcome - Add Your Leagues and Tournaments!
 
