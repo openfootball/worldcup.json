@@ -1,5 +1,5 @@
 
-## World Cup 2026 Q&A
+## World Cup 2026 Frequently Asked Questions (FAQ) & Answers
 
 Q: [Will it update live match data?](https://github.com/openfootball/help/issues/57)
 [How live is the (worldcup.json) data?](https://github.com/openfootball/help/issues/58)
