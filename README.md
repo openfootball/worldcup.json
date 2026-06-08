@@ -20,37 +20,16 @@ I will put together an (alternate) "upstream" text -
 see [`worldcup/more`](https://github.com/openfootball/worldcup/tree/master/more) for the history from 1930 to 2022 -  but again sorry, that, page will NOT be live updated.
 
 
-
-Tip - You can use the [`fbtxt2json` command-line tool]([https://github.com/sportdb/footty/tree/master/fbtxt2json](https://github.com/openfootball/quick-starter)) to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
-  
-
 <!--
 For, live updates try the unoffical/offical fifa api <>.
 -->
 
 
-<!--
+> [!NOTE]
+> Tip - You can use the [`fbtxt2json` command-line tool]([https://github.com/sportdb/footty/tree/master/fbtxt2json](https://github.com/openfootball/quick-starter))
+> to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
 
-## What's News?
-
-Tip - You can now use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON.
-
-Let's try to convert the Club World Cup 2025
-in the Football.TXT format (see [`club-worldcup/2025/clubworldcup.txt`](https://github.com/openfootball/club-worldcup/blob/master/2025/clubworldcup.txt)) to JSON:
-
-```
-$ fbtxt2json club-worldcup/2025/clubworldcup.txt -o clubworldcup.json
-```
-
-Or let's try to convert the World Cup 2022
-in the Football.TXT format (see [`worldcup/2022--qatar/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup.txt), [`worldcup/2022--qatar/cup_finals.txt`](https://github.com/openfootball/worldcup/blob/master/2022--qatar/cup_finals.txt)) to JSON:
-
-```
-$ fbtxt2json worldcup/2022--qatar/cup.txt worldcup/2022--qatar/cup_finals.txt -o worldcup.json
-```
-
--->
-
+  
 
 # worldcup.json
 
