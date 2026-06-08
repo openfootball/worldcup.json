@@ -15,9 +15,14 @@ Anyways, to guarantee updates the best way is for you to contribute and update t
 Send a pull request and I will merge and happy to send you an invite to join the github org (if you agree and opt-in by saying yes) 
 so you can edit "in place" from than on.
 
-PS:  For full match details incl. line-ups, (yellow/red card) bookings and substitutions I will put together an (alternate) "upstream" text - 
+PS:  For full match details incl. line-ups, (yellow/red card) bookings, player substitutions, penalty shootouts, and more 
+I will put together an (alternate) "upstream" text - 
 see [`worldcup/more`](https://github.com/openfootball/worldcup/tree/master/more) for the history from 1930 to 2022 -  but again sorry, that, page will NOT be live updated.
 
+
+
+Tip - You can use the [`fbtxt2json` command-line tool]([https://github.com/sportdb/footty/tree/master/fbtxt2json](https://github.com/openfootball/quick-starter)) to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
+  
 
 <!--
 For, live updates try the unoffical/offical fifa api <>.
