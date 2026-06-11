@@ -5,6 +5,7 @@
     "time": "13:00 UTC-6",
     "team1": "Mexico",
     "team2": "South Africa",
+    "score": {"ft": [2, 0], "ht": [1, 0]},
     "group": "Group A",
     "ground": "Mexico City"},
    {"round": "Matchday 1",
