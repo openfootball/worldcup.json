@@ -272,7 +272,7 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://github.com/salah23222/worldcup2026>  -- an open-source, bilingual (Arabic/English) companion site for the 2026 World Cup
 
-- <https://cgithub.com/ismayc/world-cup-viewer> -- World Cup 2026 Schedule Viewer; web app showing all 104 matches of the word cup in your timezone, with where to watch, host city/stadium, a bracket, group standings, and live results
+- <https://github.com/ismayc/world-cup-viewer> -- World Cup 2026 Schedule Viewer; web app showing all 104 matches of the word cup in your timezone, with where to watch, host city/stadium, a bracket, group standings, and live results
 
 - <https://github.com/sportdb/footty> -- command line tool in ruby; shows todays' matches or yesterdays' or tomorrows' or all past or all upcoming
 
