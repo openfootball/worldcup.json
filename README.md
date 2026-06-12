@@ -71,6 +71,11 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "time": "13:00 UTC-6",
     "team1": "Mexico",
     "team2": "South Africa",
+    "score": {"ft": [2, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Julián Quiñones", "minute": "9"},
+      {"name": "Raúl Jiménez", "minute": "67"}],
+    "goals2": [],
     "group": "Group A",
     "ground": "Mexico City"
    },
@@ -79,6 +84,11 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "time": "20:00 UTC-6",
     "team1": "South Korea",
     "team2": "Czech Republic",
+    "score": {"ft": [2, 1], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Hwang In-Beom", "minute": "67"},
+      {"name": "Oh Hyeon-Gyu", "minute": "80"}],
+    "goals2": [{"name": "Ladislav Krejcí", "minute": "59"}],
     "group": "Group A",
     "ground": "Guadalajara (Zapopan)"
    },
@@ -123,8 +133,8 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
     "score": {"ft": [0, 2], "ht": [0, 2]},
     "goals1": [],
     "goals2":
-     [{"name": "Enner Valencia", "minute": 16, "penalty": true},
-      {"name": "Enner Valencia", "minute": 31}],
+     [{"name": "Enner Valencia", "minute": "16", "penalty": true},
+      {"name": "Enner Valencia", "minute": "31"}],
     "group": "Group A",
     "ground": "Al Bayt Stadium, Al Khor"
    },
@@ -136,8 +146,8 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
     "score": {"ft": [0, 2], "ht": [0, 0]},
     "goals1": [],
     "goals2":
-     [{"name": "Cody Gakpo", "minute": 84},
-      {"name": "Davy Klaassen", "minute": 90, "offset": 9}],
+     [{"name": "Cody Gakpo", "minute": "84"},
+      {"name": "Davy Klaassen", "minute": "90+9"}],
     "group": "Group A",
     "ground": "Al Thumama Stadium, Doha"
   },
@@ -149,13 +159,13 @@ Example - World Cup in Qatar 2022 Match Schedule (Fixtures and Results) - [`2022
     "team2": "France",
     "score": {"p": [4, 2], "et": [3, 3], "ft": [2, 2], "ht": [2, 0]},
     "goals1":
-     [{"name": "Lionel Messi", "minute": 23, "penalty": true},
-      {"name": "Lionel Messi", "minute": 108},
-      {"name": "Ángel Di María", "minute": 36}],
+     [{"name": "Lionel Messi", "minute": "23", "penalty": true},
+      {"name": "Lionel Messi", "minute": "108"},
+      {"name": "Ángel Di María", "minute": "36"}],
     "goals2":
-     [{"name": "Kylian Mbappé", "minute": 80, "penalty": true},
-      {"name": "Kylian Mbappé", "minute": 81},
-      {"name": "Kylian Mbappé", "minute": 118, "penalty": true}],
+     [{"name": "Kylian Mbappé", "minute": "80", "penalty": true},
+      {"name": "Kylian Mbappé", "minute": "81"},
+      {"name": "Kylian Mbappé", "minute": "118", "penalty": true}],
     "ground": "Lusail Iconic Stadium, Lusail"
   }
 ]}
