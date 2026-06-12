@@ -1,4 +1,11 @@
 
+## Update - What's news?
+
+[@upbound-web](https://github.com/openfootball/worldcup.json/issues/33) has put together an alternate "fast-updating" worldcup.json mirror. see [upbound-web/worldcup-live.json](https://github.com/upbound-web/worldcup-live.json)
+
+
+
+
 ## World Cup 2026 Frequently Asked Questions (FAQ) & Answers
 
 Q: [Will it update live match data?](https://github.com/openfootball/help/issues/57)
