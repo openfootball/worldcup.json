@@ -8,7 +8,7 @@ here <https://github.com/openfootball/worldcup/blob/master/2026--usa/cup.txt>
 yes, you can. you are more than welcome to help with updates upstream.  
 **anyone interested, please let me know / ping me [here](https://github.com/openfootball/worldcup.json/pull/29) or [here](https://github.com/openfootball/worldcup.json/pull/30) (as an opt-in / to give me permission)** 
 and i send you an invite via github for the openfootball (github) org here 
-than you can edit in-place (without pull requests AND the worldcup.json gets generated via github action on commit). 
+than you can edit in-place (without pull requests AND the worldcup.json gets generated via github action on commit - see the [actions log @ /worldcup](https://github.com/openfootball/worldcup/actions)). 
 
 
 > [!NOTE] 
@@ -24,7 +24,7 @@ Q: [Will it update live match data?](https://github.com/openfootball/help/issues
 
 A:  Sorry, no. worldcup.json works like a wiki. everytime the upstream (source) text, that is, [`worldcup/2026--usa/cup.txt`](https://github.com/openfootball/worldcup/blob/master/2026--usa/cup.txt) gets updated (by hand), 
 the [2026/worldcup.json](https://github.com/openfootball/worldcup.json/blob/master/2026/worldcup.json) 
-datatset here gets automatically generated & updated (via github action). 
+datatset here gets automatically generated & updated (via github action - see the [actions log @ /worldcup](https://github.com/openfootball/worldcup/actions)). 
 
 Again note the upstream (source) text updates are not live or automated. [I (Gerald Bauer)](https://github.com/geraldb) 
 try to update once a day and note - I am in Austria, that is, Central European Summer Time (UTC+2).
