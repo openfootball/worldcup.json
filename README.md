@@ -72,9 +72,8 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "team1": "Mexico",
     "team2": "South Africa",
     "score": {"ft": [2, 0], "ht": [1, 0]},
-    "goals1": 
-     [{"name": "Julián Quiñones", "minute": "9"},
-      {"name": "Raúl Jiménez", "minute": "67"}],
+    "goals1": [{"name": "Julián Quiñones", "minute": "9"},
+               {"name": "Raúl Jiménez", "minute": "67"}],
     "goals2": [],
     "group": "Group A",
     "ground": "Mexico City"
@@ -85,9 +84,8 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "team1": "South Korea",
     "team2": "Czech Republic",
     "score": {"ft": [2, 1], "ht": [0, 0]},
-    "goals1": 
-     [{"name": "Hwang In-Beom", "minute": "67"},
-      {"name": "Oh Hyeon-Gyu", "minute": "80"}],
+    "goals1": [{"name": "Hwang In-Beom", "minute": "67"},
+               {"name": "Oh Hyeon-Gyu", "minute": "80"}],
     "goals2": [{"name": "Ladislav Krejcí", "minute": "59"}],
     "group": "Group A",
     "ground": "Guadalajara (Zapopan)"
