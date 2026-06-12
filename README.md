@@ -1,7 +1,18 @@
 
 ## Update - What's news?
+   
+sorry for the slow start-up on day 1. good morning it was 9am here in austria when i checked in.  
+please note,  the datasets are (auto-)generated from the upstream text source 
+here <https://github.com/openfootball/worldcup/blob/master/2026--usa/cup.txt>    
 
-[@upbound-web](https://github.com/openfootball/worldcup.json/issues/33) has put together an alternate "fast-updating" worldcup.json mirror. see [upbound-web/worldcup-live.json](https://github.com/upbound-web/worldcup-live.json)
+yes, you can. you are more than welcome to help with updates upstream.  
+**anyone interested, please let me know / ping me [here](https://github.com/openfootball/worldcup.json/pull/29) or [here](https://github.com/openfootball/worldcup.json/pull/30) (as an opt-in / to give me permission)** 
+and i send you an invite via github for the openfootball (github) org here 
+than you can edit in-place (without pull requests AND the worldcup.json gets generated via github action on commit). 
+
+
+> [!NOTE] 
+> [@upbound-web](https://github.com/openfootball/worldcup.json/issues/33) has put together an alternate "fast-updating" worldcup.json mirror. see [upbound-web/worldcup-live.json](https://github.com/upbound-web/worldcup-live.json)
 
 
 
