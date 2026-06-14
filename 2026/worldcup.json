@@ -259,6 +259,13 @@
     "time": "15:00 UTC-5",
     "team1": "Netherlands",
     "team2": "Japan",
+    "score": {"ft": [2, 2], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Virgil van Dijk", "minute": "51"},
+      {"name": "Crysencio Summerville", "minute": "64"}],
+    "goals2": 
+     [{"name": "Keito Nakamura", "minute": "57"},
+      {"name": "Daichi Kamada", "minute": "88"}],
     "group": "Group F",
     "ground": "Dallas (Arlington)"},
    {"round": "Matchday 4",
