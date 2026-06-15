@@ -284,6 +284,8 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://github.com/sportdb/footty> -- command line tool in ruby; shows todays' matches or yesterdays' or tomorrows' or all past or all upcoming
 
+- <https://ganska.lat/vm2026> -- Swedish World Cup 2026 site with data based on Openfootball -- Repo coming soon.
+
 _Feel free to add your project here!_
 
 <!--
