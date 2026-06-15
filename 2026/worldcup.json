@@ -361,6 +361,7 @@
     "time": "12:00 UTC-4",
     "team1": "Spain",
     "team2": "Cape Verde",
+    "score": {"ft": [0, 0], "ht": [0, 0]},
     "group": "Group H",
     "ground": "Atlanta"},
    {"round": "Matchday 5",
