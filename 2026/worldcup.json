@@ -329,6 +329,13 @@
     "time": "18:00 UTC-7",
     "team1": "Iran",
     "team2": "New Zealand",
+    "score": {"ft": [2, 2], "ht": [1, 1]},
+    "goals1": 
+     [{"name": "Ramin Rezaeian", "minute": "32"},
+      {"name": "Mohammad Mohebbi", "minute": "64"}],
+    "goals2": 
+     [{"name": "Elijah Just", "minute": "7"},
+      {"name": "Elijah Just", "minute": "54"}],
     "group": "Group G",
     "ground": "Los Angeles (Inglewood)"},
    {"round": "Matchday 11",
