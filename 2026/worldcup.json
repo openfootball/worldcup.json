@@ -472,6 +472,12 @@
     "time": "20:00 UTC-5",
     "team1": "Argentina",
     "team2": "Algeria",
+    "score": {"ft": [3, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Lionel Messi", "minute": "17"},
+      {"name": "Lionel Messi", "minute": "60"},
+      {"name": "Lionel Messi", "minute": "76"}],
+    "goals2": [],
     "group": "Group J",
     "ground": "Kansas City"},
    {"round": "Matchday 6",
