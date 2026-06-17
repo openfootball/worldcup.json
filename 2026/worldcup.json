@@ -430,6 +430,13 @@
     "time": "18:00 UTC-4",
     "team1": "Iraq",
     "team2": "Norway",
+    "score": {"ft": [1, 4], "ht": [1, 2]},
+    "goals1": [{"name": "Aymen Hussein", "minute": "39"}],
+    "goals2": 
+     [{"name": "Erling Haaland", "minute": "29"},
+      {"name": "Erling Haaland", "minute": "43"},
+      {"name": "Leo Østigard", "minute": "76"},
+      {"name": "Aymen Hussein", "minute": "90+6", "owngoal": true}],
     "group": "Group I",
     "ground": "Boston (Foxborough)"},
    {"round": "Matchday 12",
