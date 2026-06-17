@@ -485,6 +485,12 @@
     "time": "21:00 UTC-7",
     "team1": "Austria",
     "team2": "Jordan",
+    "score": {"ft": [3, 1], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Romano Schmid", "minute": "21"},
+      {"name": "Yazan Al-Arab", "minute": "76", "owngoal": true},
+      {"name": "Marko Arnautovic", "minute": "90+12", "penalty": true}],
+    "goals2": [{"name": "Ali Olwan", "minute": "50"}],
     "group": "Group J",
     "ground": "San Francisco Bay Area (Santa Clara)"},
    {"round": "Matchday 12",
