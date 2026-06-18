@@ -80,6 +80,13 @@
     "time": "12:00 UTC-7",
     "team1": "Switzerland",
     "team2": "Bosnia & Herzegovina",
+    "score": {"ft": [4, 1], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Johan Manzambi", "minute": "74"},
+      {"name": "Rubén Vargas", "minute": "84"},
+      {"name": "Johan Manzambi", "minute": "90"},
+      {"name": "Granit Xhaka", "minute": "90+7", "penalty": true}],
+    "goals2": [{"name": "Ermin Mahmic", "minute": "90+3"}],
     "group": "Group B",
     "ground": "Los Angeles (Inglewood)"},
    {"round": "Matchday 8",
