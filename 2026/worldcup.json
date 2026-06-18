@@ -536,6 +536,12 @@
     "time": "20:00 UTC-6",
     "team1": "Uzbekistan",
     "team2": "Colombia",
+    "score": {"ft": [1, 3], "ht": [0, 1]},
+    "goals1": [{"name": "Abbosbek Fayzullaev", "minute": "60"}],
+    "goals2": 
+     [{"name": "Daniel Muñoz", "minute": "40"},
+      {"name": "Luis Díaz", "minute": "65"},
+      {"name": "Jáminton Campaz", "minute": "90+9"}],
     "group": "Group K",
     "ground": "Mexico City"},
    {"round": "Matchday 13",
