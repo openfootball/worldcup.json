@@ -201,6 +201,11 @@
     "time": "12:00 UTC-7",
     "team1": "USA",
     "team2": "Australia",
+    "score": {"ft": [2, 0], "ht": [2, 0]},
+    "goals1": 
+     [{"name": "Cameron Burgess", "minute": "11", "owngoal": true},
+      {"name": "Alex Freeman", "minute": "43"}],
+    "goals2": [],
     "group": "Group D",
     "ground": "Seattle"},
    {"round": "Matchday 9",
