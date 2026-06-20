@@ -273,6 +273,11 @@
     "time": "16:00 UTC-4",
     "team1": "Germany",
     "team2": "Ivory Coast",
+    "score": {"ft": [2, 1], "ht": [0, 1]},
+    "goals1": 
+     [{"name": "Deniz Undav", "minute": "68"},
+      {"name": "Deniz Undav", "minute": "90+4"}],
+    "goals2": [{"name": "Franck Kessié", "minute": "30"}],
     "group": "Group E",
     "ground": "Toronto"},
    {"round": "Matchday 10",
