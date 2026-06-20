@@ -157,6 +157,12 @@
     "time": "20:30 UTC-4",
     "team1": "Brazil",
     "team2": "Haiti",
+    "score": {"ft": [3, 0], "ht": [3, 0]},
+    "goals1": 
+     [{"name": "Matheus Cunha", "minute": "23"},
+      {"name": "Matheus Cunha", "minute": "36"},
+      {"name": "Vinícius Júnior", "minute": "45+3"}],
+    "goals2": [],
     "group": "Group C",
     "ground": "Philadelphia"},
    {"round": "Matchday 14",
