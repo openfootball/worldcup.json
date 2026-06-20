@@ -3,7 +3,7 @@
 
 thanks to [Dr. Chester Ismay](https://github.com/ismayc) (maker of [World Cup Viewer¹](https://ismayc.github.io/world-cup-viewer/)) for the upstream (auto-filler) updates getting close to post-match live score updates here!   
 
-and thanks for your updates & corrections "by hand".     
+and thanks for your updates & corrections (old school) by hand.      
 
 ¹: yes, you can. add your projects using worldcup.json [on this page right here](#projects-in-the-real-world-using-worldcupjson).
 
