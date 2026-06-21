@@ -351,6 +351,13 @@
     "time": "22:00 UTC-6",
     "team1": "Tunisia",
     "team2": "Japan",
+    "score": {"ft": [0, 4], "ht": [0, 2]},
+    "goals1": [],
+    "goals2": 
+     [{"name": "Daichi Kamada", "minute": "4"},
+      {"name": "Ayase Ueda", "minute": "31"},
+      {"name": "Junya Ito", "minute": "69"},
+      {"name": "Ayase Ueda", "minute": "83"}],
     "group": "Group F",
     "ground": "Monterrey (Guadalupe)"},
    {"round": "Matchday 15",
