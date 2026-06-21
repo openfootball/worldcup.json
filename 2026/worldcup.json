@@ -449,6 +449,13 @@
     "time": "12:00 UTC-4",
     "team1": "Spain",
     "team2": "Saudi Arabia",
+    "score": {"ft": [4, 0], "ht": [3, 0]},
+    "goals1": 
+     [{"name": "Lamine Yamal", "minute": "10"},
+      {"name": "Mikel Oyarzabal", "minute": "21"},
+      {"name": "Mikel Oyarzabal", "minute": "24"},
+      {"name": "Hassan Al-Tambakti", "minute": "49", "owngoal": true}],
+    "goals2": [],
     "group": "Group H",
     "ground": "Atlanta"},
    {"round": "Matchday 11",
