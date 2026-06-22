@@ -411,6 +411,12 @@
     "time": "18:00 UTC-7",
     "team1": "New Zealand",
     "team2": "Egypt",
+    "score": {"ft": [1, 3], "ht": [1, 0]},
+    "goals1": [{"name": "Finn Surman", "minute": "15"}],
+    "goals2": 
+     [{"name": "Mostafa Zico", "minute": "58"},
+      {"name": "Mohamed Salah", "minute": "67"},
+      {"name": "Trézéguet", "minute": "82"}],
     "group": "Group G",
     "ground": "Vancouver"},
    {"round": "Matchday 16",
