@@ -464,6 +464,13 @@
     "time": "18:00 UTC-4",
     "team1": "Uruguay",
     "team2": "Cape Verde",
+    "score": {"ft": [2, 2], "ht": [2, 1]},
+    "goals1": 
+     [{"name": "Maxi Araújo", "minute": "44"},
+      {"name": "Agustín Cano", "minute": "45+6"}],
+    "goals2": 
+     [{"name": "Kevin Pina", "minute": "21"},
+      {"name": "Hélio Varela", "minute": "61"}],
     "group": "Group H",
     "ground": "Miami (Miami Gardens)"},
    {"round": "Matchday 16",
