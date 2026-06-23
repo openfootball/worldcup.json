@@ -716,6 +716,7 @@
     "time": "16:00 UTC-4",
     "team1": "England",
     "team2": "Ghana",
+    "score": {"ft": [0, 0], "ht": [0, 0]},
     "group": "Group L",
     "ground": "Boston (Foxborough)"},
    {"round": "Matchday 13",
