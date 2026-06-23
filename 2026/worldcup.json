@@ -525,6 +525,12 @@
     "time": "17:00 UTC-4",
     "team1": "France",
     "team2": "Iraq",
+    "score": {"ft": [3, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Kylian Mbappé", "minute": "14"},
+      {"name": "Kylian Mbappé", "minute": "54"},
+      {"name": "Ousmane Dembélé", "minute": "66"}],
+    "goals2": [],
     "group": "Group I",
     "ground": "Philadelphia"},
    {"round": "Matchday 12",
