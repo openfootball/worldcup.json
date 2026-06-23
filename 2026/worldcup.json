@@ -538,6 +538,14 @@
     "time": "20:00 UTC-4",
     "team1": "Norway",
     "team2": "Senegal",
+    "score": {"ft": [3, 2], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Marcus Holmgren Pedersen", "minute": "43"},
+      {"name": "Erling Haaland", "minute": "48"},
+      {"name": "Erling Haaland", "minute": "58"}],
+    "goals2": 
+     [{"name": "Ismaïla Sarr", "minute": "53"},
+      {"name": "Ismaïla Sarr", "minute": "90+3"}],
     "group": "Group I",
     "ground": "New York/New Jersey (East Rutherford)"},
    {"round": "Matchday 16",
