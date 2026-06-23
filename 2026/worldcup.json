@@ -605,6 +605,11 @@
     "time": "20:00 UTC-7",
     "team1": "Jordan",
     "team2": "Algeria",
+    "score": {"ft": [1, 2], "ht": [1, 0]},
+    "goals1": [{"name": "Nizar Al-Rashdan", "minute": "36"}],
+    "goals2": 
+     [{"name": "Nadhir Benbouali", "minute": "69"},
+      {"name": "Amine Gouiri", "minute": "82"}],
     "group": "Group J",
     "ground": "San Francisco Bay Area (Santa Clara)"},
    {"round": "Matchday 17",
