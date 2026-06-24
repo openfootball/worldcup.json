@@ -125,6 +125,12 @@
     "time": "12:00 UTC-7",
     "team1": "Bosnia & Herzegovina",
     "team2": "Qatar",
+    "score": {"ft": [3, 1], "ht": [2, 1]},
+    "goals1": 
+     [{"name": "Kerim Alajbegovic", "minute": "29"},
+      {"name": "Mahmoud Abunada", "minute": "34", "owngoal": true},
+      {"name": "Ermin Mahmic", "minute": "80"}],
+    "goals2": [{"name": "Hassan Al-Haydos", "minute": "42"}],
     "group": "Group B",
     "ground": "Seattle"},
    {"round": "Matchday 3",
