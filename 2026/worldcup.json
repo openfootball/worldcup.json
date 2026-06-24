@@ -113,6 +113,11 @@
     "time": "12:00 UTC-7",
     "team1": "Switzerland",
     "team2": "Canada",
+    "score": {"ft": [2, 1], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Rubén Vargas", "minute": "46"},
+      {"name": "Johan Manzambi", "minute": "57"}],
+    "goals2": [{"name": "Promise David", "minute": "76"}],
     "group": "Group B",
     "ground": "Vancouver"},
    {"round": "Matchday 14",
