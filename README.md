@@ -1,6 +1,14 @@
 
 ## Update - What's news?
 
+Q: [Updates for upcoming rounds?](https://github.com/openfootball/worldcup/issues/91)
+
+A: sorry for the déjà vu.  yes, your help is more than welcome to fill-in the teams once known for the round of 32/16/8 etc.
+please note - the datasets for the knock-out (k.o.) matches are (auto-)generated from the upstream text source 
+here <https://github.com/openfootball/worldcup/blob/master/2026--usa/cup_finals.txt>    
+
+---
+
 thanks to [Dr. Chester Ismay](https://github.com/ismayc) (maker of [World Cup Viewer¹](https://ismayc.github.io/world-cup-viewer/)) for the upstream (auto-filler) updates getting close to post-match live score updates here!   
 
 and thanks for your updates & corrections (old school) by hand.      
