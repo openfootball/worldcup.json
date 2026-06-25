@@ -328,6 +328,11 @@
     "time": "16:00 UTC-4",
     "team1": "Curaçao",
     "team2": "Ivory Coast",
+    "score": {"ft": [0, 2], "ht": [0, 1]},
+    "goals1": [],
+    "goals2": 
+     [{"name": "Nicolas Pépé", "minute": "7"},
+      {"name": "Nicolas Pépé", "minute": "64"}],
     "group": "Group E",
     "ground": "Philadelphia"},
    {"round": "Matchday 15",
@@ -335,6 +340,11 @@
     "time": "16:00 UTC-4",
     "team1": "Ecuador",
     "team2": "Germany",
+    "score": {"ft": [2, 1], "ht": [1, 1]},
+    "goals1": 
+     [{"name": "Nilson Angulo", "minute": "9"},
+      {"name": "Gonzalo Plata", "minute": "77"}],
+    "goals2": [{"name": "Leroy Sané", "minute": "2"}],
     "group": "Group E",
     "ground": "New York/New Jersey (East Rutherford)"},
    {"round": "Matchday 4",
