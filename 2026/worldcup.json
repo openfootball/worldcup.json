@@ -417,6 +417,12 @@
     "time": "18:00 UTC-5",
     "team1": "Tunisia",
     "team2": "Netherlands",
+    "score": {"ft": [1, 3], "ht": [0, 2]},
+    "goals1": [{"name": "Hazem Mastouri", "minute": "54"}],
+    "goals2": 
+     [{"name": "Ellyes Skhiri", "minute": "3", "owngoal": true},
+      {"name": "Brian Brobbey", "minute": "7"},
+      {"name": "Jan Paul van Hecke", "minute": "62"}],
     "group": "Group F",
     "ground": "Kansas City"},
    {"round": "Matchday 5",
