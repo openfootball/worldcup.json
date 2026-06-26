@@ -267,6 +267,14 @@
     "time": "19:00 UTC-7",
     "team1": "Turkey",
     "team2": "USA",
+    "score": {"ft": [3, 2], "ht": [2, 1]},
+    "goals1": 
+     [{"name": "Arda Güler", "minute": "10"},
+      {"name": "Baris Alper Yilmaz", "minute": "31"},
+      {"name": "Kaan Ayhan", "minute": "90+8"}],
+    "goals2": 
+     [{"name": "Auston Trusty", "minute": "3"},
+      {"name": "Sebastian Berhalter", "minute": "49"}],
     "group": "Group D",
     "ground": "Los Angeles (Inglewood)"},
    {"round": "Matchday 15",
