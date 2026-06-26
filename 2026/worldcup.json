@@ -274,6 +274,7 @@
     "time": "19:00 UTC-7",
     "team1": "Paraguay",
     "team2": "Australia",
+    "score": {"ft": [0, 0], "ht": [0, 0]},
     "group": "Group D",
     "ground": "San Francisco Bay Area (Santa Clara)"},
    {"round": "Matchday 4",
