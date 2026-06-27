@@ -830,6 +830,11 @@
     "time": "17:00 UTC-4",
     "team1": "Panama",
     "team2": "England",
+    "score": {"ft": [0, 2], "ht": [0, 0]},
+    "goals1": [],
+    "goals2": 
+     [{"name": "Jude Bellingham", "minute": "62"},
+      {"name": "Harry Kane", "minute": "67"}],
     "group": "Group L",
     "ground": "New York/New Jersey (East Rutherford)"},
    {"round": "Matchday 17",
