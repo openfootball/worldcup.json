@@ -710,6 +710,15 @@
     "time": "21:00 UTC-5",
     "team1": "Algeria",
     "team2": "Austria",
+    "score": {"ft": [3, 3], "ht": [1, 1]},
+    "goals1": 
+     [{"name": "Rafik Belghali", "minute": "45"},
+      {"name": "Riyad Mahrez", "minute": "60"},
+      {"name": "Riyad Mahrez", "minute": "90+3"}],
+    "goals2": 
+     [{"name": "Marko Arnautovic", "minute": "28"},
+      {"name": "Marcel Sabitzer", "minute": "55"},
+      {"name": "Sasa Kalajdzic", "minute": "90+6"}],
     "group": "Group J",
     "ground": "Kansas City"},
    {"round": "Matchday 17",
@@ -717,6 +726,12 @@
     "time": "21:00 UTC-5",
     "team1": "Jordan",
     "team2": "Argentina",
+    "score": {"ft": [1, 3], "ht": [0, 2]},
+    "goals1": [{"name": "Mousa Al-Tamari", "minute": "55"}],
+    "goals2": 
+     [{"name": "Giovani Lo Celso", "minute": "19"},
+      {"name": "Lautaro Martínez", "minute": "31", "penalty": true},
+      {"name": "Lionel Messi", "minute": "80"}],
     "group": "Group J",
     "ground": "Dallas (Arlington)"},
    {"round": "Matchday 7",
