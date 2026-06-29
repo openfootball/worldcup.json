@@ -302,6 +302,8 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://ganska.lat/vm2026> -- Swedish World Cup 2026 site with data based on Openfootball -- Repo coming soon.
 
+- <https://wc2026.carbine.dev> -- A model-driven 2026 World Cup prediction almanac; forecasts all 48 teams using World Football Elo and a Dixon-Coles model, in the spirit of the (much-missed) fivethirtyeight.
+
 _Feel free to add your project here!_
 
 <!--
