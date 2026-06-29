@@ -901,6 +901,11 @@
     "time": "12:00 UTC-5",
     "team1": "Brazil",
     "team2": "Japan",
+    "score": {"ft": [2, 1], "ht": [0, 1]},
+    "goals1": 
+     [{"name": "Casemiro", "minute": "56"},
+      {"name": "Gabriel Martinelli", "minute": "90+5"}],
+    "goals2": [{"name": "Kaishu Sano", "minute": "29"}],
     "ground": "Houston"},
    {"round": "Round of 32",
     "num": 77,
