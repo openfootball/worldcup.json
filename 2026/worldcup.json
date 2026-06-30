@@ -926,6 +926,11 @@
     "time": "12:00 UTC-5",
     "team1": "Ivory Coast",
     "team2": "Norway",
+    "score": {"ft": [1, 2], "ht": [0, 1]},
+    "goals1": [{"name": "Amad Diallo", "minute": "74"}],
+    "goals2": 
+     [{"name": "Antonio Nusa", "minute": "39"},
+      {"name": "Erling Haaland", "minute": "86"}],
     "ground": "Dallas (Arlington)"},
    {"round": "Round of 32",
     "num": 79,
