@@ -956,6 +956,11 @@
     "time": "12:00 UTC-4",
     "team1": "England",
     "team2": "DR Congo",
+    "score": {"ft": [2, 1], "ht": [0, 1]},
+    "goals1": 
+     [{"name": "Harry Kane", "minute": "75"},
+      {"name": "Harry Kane", "minute": "86"}],
+    "goals2": [{"name": "Brian Cipenga", "minute": "7"}],
     "ground": "Atlanta"},
    {"round": "Round of 32",
     "num": 81,
