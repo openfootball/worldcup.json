@@ -944,6 +944,11 @@
     "time": "19:00 UTC-6",
     "team1": "Mexico",
     "team2": "Ecuador",
+    "score": {"ft": [2, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Julián Quiñones", "minute": "31"},
+      {"name": "Raúl Jiménez", "minute": "45+1"}],
+    "goals2": [],
     "ground": "Mexico City"},
    {"round": "Round of 32",
     "num": 80,
