@@ -975,6 +975,14 @@
     "time": "13:00 UTC-7",
     "team1": "Belgium",
     "team2": "Senegal",
+    "score": {"et": [3, 2], "ft": [2, 2], "ht": [0, 1]},
+    "goals1": 
+     [{"name": "Romelu Lukaku", "minute": "86"},
+      {"name": "Youri Tielemans", "minute": "89"},
+      {"name": "Youri Tielemans", "minute": "120+5", "penalty": true}],
+    "goals2": 
+     [{"name": "Habib Diarra", "minute": "25"},
+      {"name": "Ismaïla Sarr", "minute": "51"}],
     "ground": "Seattle"},
    {"round": "Round of 32",
     "num": 83,
