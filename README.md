@@ -304,6 +304,9 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://wc2026.carbine.dev> -- A model-driven 2026 World Cup prediction almanac; forecasts all 48 teams using World Football Elo and a Dixon-Coles model, in the spirit of the (much-missed) fivethirtyeight.
 
+- <https://roy2ez.github.io/wc2026-scorers/> -- bilingual (English/Chinese) 2026 World Cup Goalscorer dashboard: top scorers, goal origins by nation/league/club with filter and search, a latest-goals feed, goal-timing charts and so on; backed by a full 1,248-player database, updated daily.
+
+
 _Feel free to add your project here!_
 
 <!--
