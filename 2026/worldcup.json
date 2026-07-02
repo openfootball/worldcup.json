@@ -1002,6 +1002,12 @@
     "time": "12:00 UTC-7",
     "team1": "Spain",
     "team2": "Austria",
+    "score": {"ft": [3, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Mikel Oyarzabal", "minute": "36"},
+      {"name": "Pedro Porro", "minute": "66"},
+      {"name": "Mikel Oyarzabal", "minute": "89"}],
+    "goals2": [],
     "ground": "Los Angeles (Inglewood)"},
    {"round": "Round of 32",
     "num": 85,
