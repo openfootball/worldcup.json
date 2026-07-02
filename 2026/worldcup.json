@@ -968,6 +968,11 @@
     "time": "17:00 UTC-7",
     "team1": "USA",
     "team2": "Bosnia & Herzegovina",
+    "score": {"ft": [2, 0], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Folarin Balogun", "minute": "45"},
+      {"name": "Malik Tillman", "minute": "82"}],
+    "goals2": [],
     "ground": "San Francisco Bay Area (Santa Clara)"},
    {"round": "Round of 32",
     "num": 82,
