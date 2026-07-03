@@ -995,6 +995,11 @@
     "time": "19:00 UTC-4",
     "team1": "Portugal",
     "team2": "Croatia",
+    "score": {"ft": [2, 1], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Cristiano Ronaldo", "minute": "68", "penalty": true},
+      {"name": "Gonçalo Ramos", "minute": "90+4"}],
+    "goals2": [{"name": "Ivan Perisic", "minute": "53"}],
     "ground": "Toronto"},
    {"round": "Round of 32",
     "num": 84,
