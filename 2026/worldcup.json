@@ -1032,6 +1032,14 @@
     "time": "18:00 UTC-4",
     "team1": "Argentina",
     "team2": "Cape Verde",
+    "score": {"et": [3, 2], "ft": [1, 1], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Lionel Messi", "minute": "29"},
+      {"name": "Lisandro Martínez", "minute": "92"},
+      {"name": "Diney Borges", "minute": "111", "owngoal": true}],
+    "goals2": 
+     [{"name": "Deroy Duarte", "minute": "59"},
+      {"name": "Sidny Lopes Cabral", "minute": "103"}],
     "ground": "Miami (Miami Gardens)"},
    {"round": "Round of 32",
     "num": 87,
