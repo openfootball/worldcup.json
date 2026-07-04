@@ -1074,6 +1074,12 @@
     "time": "12:00 UTC-5",
     "team1": "Canada",
     "team2": "Morocco",
+    "score": {"ft": [0, 3], "ht": [0, 0]},
+    "goals1": [],
+    "goals2": 
+     [{"name": "Azzedine Ounahi", "minute": "50"},
+      {"name": "Azzedine Ounahi", "minute": "82"},
+      {"name": "Soufiane Rahimi", "minute": "90+8"}],
     "ground": "Houston"},
    {"round": "Round of 16",
     "num": 91,
