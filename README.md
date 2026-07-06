@@ -308,6 +308,8 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://dailypythonprojects.substack.com/p/world-cup-2026-tracker-with-python>  --  we start building a World Cup 2026 Tracker - a three-day project that turns a free public football API into your own personal tournament dashboard.
 
+- <https://observablehq.com/@ehouais/world-cup-data-viz>  --  An [Observable](https://observablehq.com) notebook that generates various data viz based on *worldcup.json* data (primarily designed for pen plotters).
+
 
 _Feel free to add your project here!_
 
