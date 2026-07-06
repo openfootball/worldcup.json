@@ -1102,6 +1102,14 @@
     "time": "18:00 UTC-6",
     "team1": "Mexico",
     "team2": "England",
+    "score": {"ft": [2, 3], "ht": [1, 2]},
+    "goals1": 
+     [{"name": "Julián Quiñones", "minute": "42"},
+      {"name": "Raúl Jiménez", "minute": "69", "penalty": true}],
+    "goals2": 
+     [{"name": "Jude Bellingham", "minute": "36"},
+      {"name": "Jude Bellingham", "minute": "38"},
+      {"name": "Harry Kane", "minute": "60", "penalty": true}],
     "ground": "Mexico City"},
    {"round": "Round of 16",
     "num": 93,
