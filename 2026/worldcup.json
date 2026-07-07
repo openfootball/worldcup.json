@@ -1141,6 +1141,14 @@
     "time": "12:00 UTC-4",
     "team1": "Argentina",
     "team2": "Egypt",
+    "score": {"ft": [3, 2], "ht": [0, 1]},
+    "goals1": 
+     [{"name": "Cristian Romero", "minute": "79"},
+      {"name": "Lionel Messi", "minute": "83"},
+      {"name": "Enzo Fernández", "minute": "90+2"}],
+    "goals2": 
+     [{"name": "Yasser Ibrahim", "minute": "15"},
+      {"name": "Mostafa Zico", "minute": "67"}],
     "ground": "Atlanta"},
    {"round": "Round of 16",
     "num": 96,
