@@ -1156,6 +1156,7 @@
     "time": "13:00 UTC-7",
     "team1": "Switzerland",
     "team2": "Colombia",
+    "score": {"p": [4, 3], "et": [0, 0], "ft": [0, 0], "ht": [0, 0]},
     "ground": "Vancouver"},
    {"round": "Quarter-final",
     "num": 97,
