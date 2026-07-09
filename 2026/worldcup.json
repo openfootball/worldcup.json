@@ -1164,6 +1164,11 @@
     "time": "16:00 UTC-4",
     "team1": "France",
     "team2": "Morocco",
+    "score": {"ft": [2, 0], "ht": [0, 0]},
+    "goals1": 
+     [{"name": "Kylian Mbappé", "minute": "60"},
+      {"name": "Ousmane Dembélé", "minute": "66"}],
+    "goals2": [],
     "ground": "Boston (Foxborough)"},
    {"round": "Quarter-final",
     "num": 98,
