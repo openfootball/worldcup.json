@@ -1200,6 +1200,12 @@
     "time": "20:00 UTC-5",
     "team1": "Argentina",
     "team2": "Switzerland",
+    "score": {"et": [3, 1], "ft": [1, 1], "ht": [1, 0]},
+    "goals1": 
+     [{"name": "Alexis Mac Allister", "minute": "10"},
+      {"name": "Julián Álvarez", "minute": "112"},
+      {"name": "Lautaro Martínez", "minute": "120+1"}],
+    "goals2": [{"name": "Dan Ndoye", "minute": "67"}],
     "ground": "Kansas City"},
    {"round": "Semi-final",
     "num": 101,
