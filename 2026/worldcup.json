@@ -1213,6 +1213,11 @@
     "time": "14:00 UTC-5",
     "team1": "France",
     "team2": "Spain",
+    "score": {"ft": [0, 2], "ht": [0, 1]},
+    "goals1": [],
+    "goals2": 
+     [{"name": "Mikel Oyarzabal", "minute": "22", "penalty": true},
+      {"name": "Pedro Porro", "minute": "58"}],
     "ground": "Dallas (Arlington)"},
    {"round": "Semi-final",
     "num": 102,
