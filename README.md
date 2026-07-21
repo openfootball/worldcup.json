@@ -310,7 +310,7 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://observablehq.com/@ehouais/world-cup-data-viz>  --  An [Observable](https://observablehq.com) notebook that generates various data viz based on *worldcup.json* data (primarily designed for pen plotters).
 
-- <https://wc26.zavyalov.site/> -- World Cup 2026 Circular Bracket for Knockout stage.
+- <https://wc26.zavyalov.site/> -- visualization of the knockout stage for World Cup 2026 with data taken from worldcup.json
 
 _Feel free to add your project here!_
 
