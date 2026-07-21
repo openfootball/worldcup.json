@@ -1,5 +1,5 @@
 
-## Update - What's news?
+## Update - What's new?
 
 Q: [Updates for upcoming rounds?](https://github.com/openfootball/worldcup/issues/91)
 
