@@ -1,5 +1,5 @@
 
-Congrats to Spain! World Cup champs 2026!    Special thans to [Dr. Chester Ismay](https://github.com/ismayc) (maker of [World Cup Viewer¹](https://ismayc.github.io/world-cup-viewer/)) for the upstream (auto-filler) updates getting close to post-match live score updates here   
+Congrats to Spain! World Cup champs 2026!    Special thanks to [Dr. Chester Ismay](https://github.com/ismayc) (maker of [World Cup Viewer](https://ismayc.github.io/world-cup-viewer/)) for the upstream (auto-filler) updates getting close to post-match live score updates here   
 and thanks for your updates & corrections (old school) by hand. See you in 2030.      
 Or maybe at the Euro 2028, see [2028/euro.json @ euro.json](https://github.com/openfootball/euro.json/blob/master/2028/euro.json).
 
