@@ -121,7 +121,7 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "score": {"et": [1, 0], "ft": [0, 0], "ht": [0, 0]},
     "goals1": [{"name": "Ferran Torres", "minute": "106"}],
     "goals2": [],
-    "ground": "New York/New Jersey (East Rutherford)"}]}
+    "ground": "New York/New Jersey (East Rutherford)"}
 ]}
 ```
 
