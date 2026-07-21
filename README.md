@@ -1,22 +1,10 @@
 
-## Update - What's news?
+Congrats to Spain! World Cup champs 2026!    Special thans to [Dr. Chester Ismay](https://github.com/ismayc) (maker of [World Cup Viewer¹](https://ismayc.github.io/world-cup-viewer/)) for the upstream (auto-filler) updates getting close to post-match live score updates here   
+and thanks for your updates & corrections (old school) by hand. See you in 2030.      
+Or maybe at the Euro 2028, see [2028/euro.json @ euro.json](https://github.com/openfootball/euro.json/blob/master/2028/euro.json).
 
-Q: [Updates for upcoming rounds?](https://github.com/openfootball/worldcup/issues/91)
 
-A: sorry for the déjà vu.  yes, your help is more than welcome to fill-in the teams once known for the round of 32/16/8 etc.
-please note - the datasets for the knock-out (k.o.) matches are (auto-)generated from the upstream text source 
-here <https://github.com/openfootball/worldcup/blob/master/2026--usa/cup_finals.txt>    
-
----
-
-thanks to [Dr. Chester Ismay](https://github.com/ismayc) (maker of [World Cup Viewer¹](https://ismayc.github.io/world-cup-viewer/)) for the upstream (auto-filler) updates getting close to post-match live score updates here!   
-
-and thanks for your updates & corrections (old school) by hand.      
-
-¹: yes, you can. add your projects using worldcup.json [on this page right here](#projects-in-the-real-world-using-worldcupjson).
-
----  
-
+<!--
 sorry for the slow start-up on day 1. good morning it was 9am here in austria when i checked in.  
 please note,  the datasets are (auto-)generated from the upstream text source 
 here <https://github.com/openfootball/worldcup/blob/master/2026--usa/cup.txt>    
@@ -53,10 +41,9 @@ PS:  For full match details incl. line-ups, (yellow/red card) bookings, player s
 I will put together an (alternate) upstream (source) text - 
 see [`worldcup/more`](https://github.com/openfootball/worldcup/tree/master/more) for the history from 1930 to 2022 -  but again sorry, that, page will NOT be live updated.
 
-
-<!--
-For, live updates try the unoffical/offical fifa api <>.
 -->
+
+
 
 
 > [!TIP]
