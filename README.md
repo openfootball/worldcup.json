@@ -43,13 +43,6 @@ see [`worldcup/more`](https://github.com/openfootball/worldcup/tree/master/more)
 
 -->
 
-
-
-
-> [!TIP]
->  You can use the [`fbtxt2json` command-line tool](https://github.com/openfootball/quick-starter)
->  to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
-
   
 
 # worldcup.json
@@ -58,6 +51,12 @@ Free open public domain football data for the world cups (national teams and clu
 (JavaScript Object Notation)
 data interchange format
 incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-).
+
+
+> [!TIP]
+>  You can use the [`fbtxt2json` command-line tool](https://github.com/openfootball/quick-starter)
+>  to convert any file in the Football.TXT format to JSON (or use `fbtxt2csv` to convert to CSV).
+
 
 
 ## National Teams
@@ -93,30 +92,36 @@ Example - World Cup in Canada/USA/Mexico 2026 Match Schedule (Fixtures and Resul
     "group": "Group A",
     "ground": "Guadalajara (Zapopan)"
    },
-   {"round": "Matchday 8",
-    "date": "2026-06-18",
-    "time": "12:00 UTC-4",
-    "team1": "Czech Republic",
-    "team2": "South Africa",
-    "group": "Group A",
-    "ground": "Atlanta"
-   },
-   {"round": "Matchday 8",
-    "date": "2026-06-18",
-    "time": "19:00 UTC-6",
-    "team1": "Mexico",
-    "team2": "South Korea",
-    "group": "Group A",
-    "ground": "Guadalajara (Zapopan)"
-   },
    ...
+   {"round": "Match for third place",
+    "date": "2026-07-18",
+    "time": "17:00 UTC-4",
+    "team1": "France",
+    "team2": "England",
+    "score": {"ft": [4, 6], "ht": [0, 4]},
+    "goals1": 
+     [{"name": "Kylian Mbappé", "minute": "48"},
+      {"name": "Bradley Barcola", "minute": "54"},
+      {"name": "Kylian Mbappé", "minute": "66"},
+      {"name": "Ousmane Dembélé", "minute": "90+6"}],
+    "goals2": 
+     [{"name": "Declan Rice", "minute": "3"},
+      {"name": "Ezri Konsa", "minute": "18"},
+      {"name": "Bukayo Saka", "minute": "37"},
+      {"name": "Bukayo Saka", "minute": "45+1"},
+      {"name": "Bukayo Saka", "minute": "87", "penalty": true},
+      {"name": "Jude Bellingham", "minute": "90+8"}],
+    "ground": "Miami (Miami Gardens)"},
    {"round": "Final",
+    "num": 104,
     "date": "2026-07-19",
     "time": "15:00 UTC-4",
-    "team1": "W101",
-    "team2": "W102",
-    "ground": "New York/New Jersey (East Rutherford)"
-   }
+    "team1": "Spain",
+    "team2": "Argentina",
+    "score": {"et": [1, 0], "ft": [0, 0], "ht": [0, 0]},
+    "goals1": [{"name": "Ferran Torres", "minute": "106"}],
+    "goals2": [],
+    "ground": "New York/New Jersey (East Rutherford)"}]}
 ]}
 ```
 
