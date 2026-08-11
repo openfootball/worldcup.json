@@ -323,6 +323,8 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://wc26.zavyalov.site/> -- visualization of the knockout stage for World Cup 2026 with data taken from worldcup.json
 
+- <https://github.com/Muntaha-Islam0019/worldcup-dashboard> -- Power BI dashboard for the 2026 World Cup; group standings, tournament record, venue map with satellite imagery, Golden Boot race, and a custom knockout bracket built with Deneb (Vega-Lite)
+
 _Feel free to add your project here!_
 
 <!--
