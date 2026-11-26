@@ -325,6 +325,8 @@ _Yes, you're more than welcome to send a pull request (PR) with your project!_
 
 - <https://github.com/Muntaha-Islam0019/worldcup-dashboard> -- Power BI dashboard for the 2026 World Cup; group standings, tournament record, venue map with satellite imagery, Golden Boot race, and a custom knockout bracket built with Deneb (Vega-Lite)
 
+- [World Cup score explorer](https://github.com/JacobiusMakes/parlayapi-notebooks/tree/main/labs/world-cup-scorelines) -- query all 104 matches from 2026 alongside the four previous tournaments in your browser. Includes CSV and SQLite with separate regulation, extra-time and shoot-out scores.
+
 _Feel free to add your project here!_
 
 <!--
